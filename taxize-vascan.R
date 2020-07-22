@@ -49,13 +49,15 @@ processFile = function(filepath){
       Name_According_To = matched_name_according_to_list[[n]]
       Taxonomic_status <- taxonomic_status_list[[n]]
       Higher_classification <- higher_classification_list[[n]]
+      if (class(Higher_classification) == "NULL"){Higher_classification <- "NULL"}
+      else {Higher_classification <-higher_classification_list[[n]] }
       if (nummatches < 1) {newline <-data.frame(t(c(TaxonName = line, Match = is_match, NumberofMatches = nummatches, MatchNumber = n ,  Matches = Matched_name, ScientificNameAuthorship = "NULL", CanonicalName = "NULL", TaxonRank = "NULL", NameAccordingTo = "NULL", TaxonomicStatus = "NULL", HigherClassification = "NULL"  )))  }
       else {newline <- data.frame(t(c(TaxonName = line, Match = is_match, NumberofMatches = nummatches, MatchNumber = n ,  Matches = Matched_name, ScientificNameAuthorship = Scientific_Name_authorship, CanonicalName = Canonical_Name, TaxonRank = Taxon_Rank, NameAccordingTo = Name_According_To, TaxonomicStatus = Taxonomic_status, HigherClassification = Higher_classification  )))}
-      print(newline)
+      column_names <- rbind(column_names, newline)
       
     }
     
-    column_names <- rbind(column_names, newline)
+    
   
   }
   close(con)

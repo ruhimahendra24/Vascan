@@ -1,3 +1,6 @@
+#modified from jocelyn's script: 
+#https://github.com/jocelynpender/fna-query/blob/master/R/src/query.R
+
 library(tidyverse)
 library(WikipediR)
 
@@ -88,8 +91,8 @@ ask_query_titles <- function(query_string, output_file_name) {
   # '[[Authority::Linnaeus]][[Distribution::Nunavut]]'
   query_results <- run_query(query_string)
   page_titles_vector <- query_page_titles(query_results)
-  write.csv(page_titles_vector, output_file_name)
-  return(page_titles_vector)
+  write.csv(page_titles_vector, output_file_name, row.names = FALSE)
+  return(read.csv(output_file_name))
 }
 
 query_string_to_data_frame <- function(query_string, query_results) {
@@ -120,6 +123,6 @@ ask_query_titles_properties <- function(query_string, output_file_name) {
   
 }
 
-file.names <- list.files(path = "/home/ruhimahendra24/Desktop/Canada-taxa/")
+#file.names <- list.files(path = "/home/ruhimahendra24/Desktop/Canada-taxa/")
 
 

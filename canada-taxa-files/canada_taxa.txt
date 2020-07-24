@@ -1,0 +1,6332 @@
+Abies balsamea
+Abietinella abietina
+Abutilon theophrasti
+Acalypha rhomboidea
+Acanthospermum hispidum
+Acaulon muticum var. rufescens
+Acaulon triquetrum
+Achillea alpina
+Achillea millefolium
+Achillea ptarmica
+Acorus americanus
+Acorus calamus
+Acroptilon repens
+Actaea pachypoda
+Actaea rubra
+Adenocaulon bicolor
+Adiantum pedatum
+Adlumia fungosa
+Agalinis gattingeri
+Agalinis purpurea
+Agalinis purpurea var. parviflora
+Agalinis purpurea var. purpurea
+Agalinis skinneriana
+Agalinis tenuifolia
+Ageratina altissima
+Ageratina altissima var. altissima
+Agoseris glauca
+Agoseris glauca var. glauca
+Agrimonia gryposepala
+Agrimonia parviflora
+Agrimonia pubescens
+Agrimonia striata
+Agropyron
+Agropyron cristatum
+Agrostemma githago var. githago
+Agrostis
+Agrostis anadyrensis
+Agrostis capillaris
+Agrostis gigantea
+Agrostis hyemalis
+Agrostis mertensii
+Agrostis nebulosa
+Agrostis perennans
+Agrostis scabra
+Agrostis stolonifera
+Agrostis tolucensis
+Alcea rosea
+Alchemilla filicaulis
+Alchemilla filicaulis subsp. filicaulis
+Alchemilla mollis
+Alchemilla monticola
+Aletris farinosa
+Alisma gramineum
+Alisma subcordatum
+Alisma triviale
+Alliaria petiolata
+Allium canadense var. canadense
+Allium cernuum
+Allium schoenoprasum
+Allium stellatum
+Allium tricoccum var. burdickii
+Allium tricoccum var. tricoccum
+Allium vineale
+Alnus glutinosa
+Alnus incana
+Alnus incana subsp. rugosa
+Alnus viridis
+Alnus viridis subsp. crispa
+Aloina brevirostris
+Aloina rigida var. rigida
+Alopecurus
+Alopecurus aequalis
+Alopecurus aequalis var. aequalis
+Alopecurus geniculatus
+Alopecurus magellanicus
+Alopecurus pratensis
+Althaea hirsuta
+Althaea officinalis
+Alyssum alyssoides
+Alyssum murale
+Amaranthus albus
+Amaranthus blitoides
+Amaranthus blitum
+Amaranthus hybridus
+Amaranthus palmeri
+Amaranthus powellii
+Amaranthus retroflexus
+Amaranthus spinosus
+Amaranthus tuberculatus
+Amblyodon dealbatus
+Amblystegium serpens
+Ambrosia artemisiifolia
+Ambrosia psilostachya
+Ambrosia trifida
+Amelanchier alnifolia
+Amelanchier alnifolia var. alnifolia
+Amelanchier amabilis
+Amelanchier arborea
+Amelanchier bartramiana
+Amelanchier humilis
+Amelanchier interior
+Amelanchier intermedia
+Amelanchier laevis
+Amelanchier sanguinea
+Amelanchier spicata
+Amerorchis rotundifolia
+Ammophila
+Ammophila breviligulata
+Ammophila breviligulata subsp. breviligulata
+Ammophila breviligulata subsp. champlainensis
+Amphidium lapponicum
+Amphidium mougeotii
+Anacamptodon splachnoides
+Anagallis arvensis
+Anaphalis margaritacea
+Andreaea rothii
+Andreaea rupestris
+Andromeda polifolia
+Andromeda polifolia var. latifolia
+Andromeda polifolia var. polifolia
+Andropogon
+Andropogon gerardii
+Andropogon liebmannii
+Andropogon sect. Andropogon
+Andropogon sect. Leptopogon
+Andropogon virginicus
+Andropogon virginicus var. glaucus
+Andropogon virginicus var. virginicus
+Androsace occidentalis
+Androsace septentrionalis
+Anemone acutiloba
+Anemone americana
+Anemone canadensis
+Anemone cylindrica
+Anemone multifida
+Anemone multifida var. multifida
+Anemone parviflora
+Anemone patens
+Anemone patens var. multifida
+Anemone quinquefolia
+Anemone quinquefolia var. quinquefolia
+Anemone virginiana
+Anemone virginiana var. alba
+Anemone virginiana var. cylindroidea
+Anemone virginiana var. virginiana
+Anoda cristata
+Anomodon attenuatus
+Anomodon minor
+Anomodon rostratus
+Anomodon rugelii
+Anomodon tristis
+Anomodon viticulosus
+Antennaria alpina
+Antennaria howellii
+Antennaria howellii subsp. canadensis
+Antennaria howellii subsp. howellii
+Antennaria howellii subsp. neodioica
+Antennaria howellii subsp. petaloidea
+Antennaria microphylla
+Antennaria neglecta
+Antennaria parlinii
+Antennaria parlinii subsp. fallax
+Antennaria parlinii subsp. parlinii
+Antennaria parvifolia
+Antennaria pulcherrima
+Antennaria pulcherrima subsp. pulcherrima
+Antennaria rosea
+Antennaria rosea subsp. confinis
+Antennaria rosea subsp. rosea
+Anthemis arvensis
+Anthemis cotula
+Anthoxanthum
+Anthoxanthum arcticum
+Anthoxanthum hirtum
+Anthoxanthum monticola
+Anthoxanthum monticola subsp. alpinum
+Anthoxanthum monticola subsp. monticola
+Anthoxanthum nitens
+Anthoxanthum occidentale
+Anthoxanthum odoratum
+Antirrhinum majus
+Apera
+Apera interrupta
+Apera spica-venti
+Aphanorrhegma serratum
+Aplectrum hyemale
+Aquilegia brevistyla
+Aquilegia canadensis
+Aquilegia vulgaris
+Arabidopsis arenicola
+Arabidopsis lyrata
+Arabidopsis lyrata subsp. lyrata
+Arabidopsis thaliana
+Arabis caucasica
+Arabis pycnocarpa
+Arabis pycnocarpa var. adpressipilis
+Arabis pycnocarpa var. pycnocarpa
+Arceuthobium americanum
+Arceuthobium pusillum
+Arctagrostis
+Arctagrostis latifolia
+Arctagrostis latifolia subsp. arundinacea
+Arctagrostis latifolia subsp. latifolia
+Arctanthemum arcticum
+Arctanthemum arcticum subsp. polare
+Arctium lappa
+Arctium minus
+Arctium tomentosum
+Arctophila
+Arctophila fulva
+Arctostaphylos uva-ursi
+Arctous alpina
+Arctous rubra
+Arenaria humifusa
+Arenaria serpyllifolia
+Arenaria serpyllifolia var. serpyllifolia
+Arethusa bulbosa
+Argemone mexicana
+Arisaema dracontium
+Arisaema triphyllum
+Aristida
+Aristida basiramea
+Aristida dichotoma
+Aristida dichotoma var. dichotoma
+Aristida longespica
+Aristida longespica var. geniculata
+Aristida longespica var. longespica
+Aristida oligantha
+Aristida purpurascens
+Aristida purpurascens var. purpurascens
+Aristolochia clematitis
+Aristolochia macrophylla
+Armeria maritima
+Armeria maritima subsp. sibirica
+Armoracia rusticana
+Arnica angustifolia
+Arnica angustifolia subsp. angustifolia
+Arnica chamissonis
+Arnica cordifolia
+Arnica lonchophylla
+Arnoglossum plantagineum
+Aronia arbutifolia
+Aronia melanocarpa
+Arrhenatherum
+Arrhenatherum elatius
+Arrhenopterum heterostichum
+Artemisia abrotanum
+Artemisia absinthium
+Artemisia annua
+Artemisia biennis
+Artemisia campestris
+Artemisia campestris subsp. canadensis
+Artemisia campestris subsp. caudata
+Artemisia dracunculus
+Artemisia frigida
+Artemisia ludoviciana
+Artemisia ludoviciana subsp. ludoviciana
+Artemisia pontica
+Artemisia stelleriana
+Artemisia tilesii
+Artemisia vulgaris
+Aruncus dioicus
+Aruncus dioicus var. vulgaris
+Asarum canadense
+Asimina triloba
+Asparagus officinalis
+Asplenium platyneuron
+Asplenium rhizophyllum
+Asplenium ruta-muraria
+Asplenium scolopendrium
+Asplenium scolopendrium var. americanum
+Asplenium trichomanes
+Asplenium trichomanes subsp. quadrivalens
+Asplenium trichomanes subsp. trichomanes
+Asplenium trichomanes-ramosum
+Aster alpinus
+Aster alpinus subsp. vierhapperi
+Athyrium filix-femina
+Athyrium filix-femina var. angustum
+Athyrium filix-femina var. cyclosorum
+Atrichum altecristatum
+Atrichum angustatum
+Atrichum crispulum
+Atrichum crispum
+Atrichum tenellum
+Atrichum undulatum
+Atriplex dioica
+Atriplex heterosperma
+Atriplex hortensis
+Atriplex oblongifolia
+Atriplex patula
+Atriplex prostrata
+Atriplex rosea
+Aulacomnium acuminatum
+Aulacomnium androgynum
+Aulacomnium palustre
+Aulacomnium turgidum
+Aureolaria flava
+Aureolaria grandiflora
+Aureolaria pedicularia
+Aureolaria virginica
+Avena
+Avena fatua
+Avena sativa
+Avena sterilis
+Avenula
+Avenula pubescens
+Axyris amaranthoides
+Azolla caroliniana
+Barbarea orthoceras
+Barbarea stricta
+Barbarea vulgaris
+Barbula convoluta var. convoluta
+Barbula unguiculata
+Bartramia pomiformis
+Bartsia alpina
+Beckmannia
+Beckmannia syzigachne
+Bellis perennis
+Berberis thunbergii
+Berberis vulgaris
+Berteroa incana
+Betula alleghaniensis
+Betula cordifolia
+Betula glandulosa
+Betula lenta
+Betula minor
+Betula neoalaskana
+Betula occidentalis
+Betula papyrifera
+Betula pendula
+Betula populifolia
+Betula pumila
+Bidens aristosa
+Bidens beckii
+Bidens bipinnata
+Bidens cernua
+Bidens connata
+Bidens discoidea
+Bidens frondosa
+Bidens hyperborea
+Bidens pilosa
+Bidens polylepis
+Bidens trichosperma
+Bidens vulgata
+Bistorta vivipara
+Blindia acuta
+Blysmopsis rufa
+Boechera dentata
+Boechera grahamii
+Boechera laevigata
+Boechera retrofracta
+Boehmeria cylindrica
+Bolboschoenus fluviatilis
+Bolboschoenus maritimus
+Bolboschoenus maritimus subsp. paludosus
+Botrychium acuminatum
+Botrychium ascendens
+Botrychium campestre
+Botrychium dissectum
+Botrychium hesperium
+Botrychium lanceolatum
+Botrychium lanceolatum subsp. angustisegmentum
+Botrychium lunaria
+Botrychium matricariifolium
+Botrychium minganense
+Botrychium multifidum
+Botrychium oneidense
+Botrychium pallidum
+Botrychium pseudopinnatum
+Botrychium rugulosum
+Botrychium simplex
+Botrychium spathulatum
+Botrychium virginianum
+Bouteloua
+Bouteloua chondrosoides
+Bouteloua curtipendula
+Bouteloua curtipendula var. curtipendula
+Bouteloua gracilis
+Bouteloua subg. Bouteloua
+Bouteloua subg. Chondrosum
+Brachyelytrum
+Brachyelytrum aristosum
+Brachyelytrum erectum
+Brachytheciastrum velutinum var. velutinum
+Brachythecium acuminatum
+Brachythecium acutum
+Brachythecium campestre
+Brachythecium erythrorrhizon var. erythrorrhizon
+Brachythecium frigidum
+Brachythecium laetum
+Brachythecium rivulare
+Brachythecium rotaeanum
+Brachythecium rutabulum
+Brachythecium salebrosum
+Brachythecium turgidum
+Brasenia schreberi
+Brassica juncea
+Brassica napus
+Brassica nigra
+Brassica oleracea
+Brassica rapa
+Braya humilis
+Braya humilis subsp. humilis
+Briza
+Briza maxima
+Briza media
+Bromus
+Bromus aleutensis
+Bromus arvensis
+Bromus briziformis
+Bromus carinatus
+Bromus carinatus var. carinatus
+Bromus carinatus var. marginatus
+Bromus caroli-henrici
+Bromus catharticus
+Bromus catharticus var. catharticus
+Bromus catharticus var. elatus
+Bromus ciliatus
+Bromus commutatus
+Bromus danthoniae
+Bromus erectus
+Bromus hallii
+Bromus hordeaceus
+Bromus hordeaceus subsp. hordeaceus
+Bromus hordeaceus subsp. molliformis
+Bromus hordeaceus subsp. pseudothominei
+Bromus hordeaceus subsp. thominei
+Bromus inermis
+Bromus japonicus
+Bromus kalmii
+Bromus latiglumis
+Bromus nottowayanus
+Bromus pubescens
+Bromus pumpellianus
+Bromus pumpellianus subsp. dicksonii
+Bromus pumpellianus subsp. pumpellianus
+Bromus racemosus
+Bromus richardsonii
+Bromus riparius
+Bromus secalinus
+Bromus sect. Bromopsis
+Bromus sect. Bromus
+Bromus sect. Ceratochloa
+Bromus sect. Genea
+Bromus sect. Neobromus
+Bromus squarrosus
+Bromus sterilis
+Bromus tectorum
+Brotherella recurvans
+Bruchia flexuosa
+Bryhnia graminicolor
+Bryhnia novae-angliae
+Bryoandersonia illecebra
+Bryoerythrophyllum recurvirostrum
+Bryum argenteum var. argenteum
+Bryum blindii
+Bryum veronense
+Buchnera americana
+Bucklandiella affinis
+Bucklandiella microcarpa
+Bucklandiella venusta
+Buddleja davidii
+Bulbostylis capillaris
+Butomus umbellatus
+Buxbaumia aphylla
+Buxbaumia minakatae
+Cabomba caroliniana
+Cakile edentula
+Cakile edentula var. lacustris
+Calamagrostis
+Calamagrostis canadensis
+Calamagrostis canadensis var. canadensis
+Calamagrostis canadensis var. langsdorffii
+Calamagrostis canadensis var. macouniana
+Calamagrostis cinnoides
+Calamagrostis deschampsioides
+Calamagrostis epigejos
+Calamagrostis lapponica
+Calamagrostis pickeringii
+Calamagrostis purpurascens
+Calamagrostis stricta
+Calamagrostis stricta subsp. inexpansa
+Calamagrostis stricta subsp. stricta
+Calamagrostis ×acutiflora
+Calamovilfa
+Calamovilfa longifolia
+Calamovilfa longifolia var. longifolia
+Calamovilfa longifolia var. magna
+Calla palustris
+Callicladium haldanianum
+Calliergon cordifolium
+Calliergon giganteum
+Calliergon richardsonii
+Calliergonella cuspidata
+Callitriche hermaphroditica
+Callitriche heterophylla
+Callitriche palustris
+Callitriche stenoptera
+Calopogon tuberosus var. tuberosus
+Caltha natans
+Caltha palustris
+Calypso bulbosa var. americana
+Camassia scilloides
+Camelina microcarpa
+Camelina sativa
+Campyliadelphus chrysophyllus
+Campylium protensum
+Campylium stellatum
+Campylophyllum hispidulum
+Campylophyllum sommerfeltii
+Canadanthus modestus
+Capsella bursa-pastoris
+Cardamine bulbosa
+Cardamine concatenata
+Cardamine diphylla
+Cardamine douglassii
+Cardamine flexuosa
+Cardamine hirsuta
+Cardamine impatiens
+Cardamine maxima
+Cardamine parviflora
+Cardamine pensylvanica
+Cardamine pratensis
+Carduus acanthoides
+Carduus acanthoides subsp. acanthoides
+Carduus crispus
+Carduus nutans
+Carex acutiformis
+Carex adusta
+Carex aggregata
+Carex alata
+Carex albicans
+Carex albicans var. albicans
+Carex albicans var. emmonsii
+Carex albursina
+Carex alopecoidea
+Carex amphibola
+Carex annectens
+Carex appalachica
+Carex aquatilis
+Carex aquatilis var. aquatilis
+Carex aquatilis var. substricta
+Carex arcta
+Carex arctata
+Carex argyrantha
+Carex assiniboinensis
+Carex atherodes
+Carex atlantica
+Carex atlantica subsp. capillacea
+Carex atratiformis
+Carex atrofusca
+Carex aurea
+Carex backii
+Carex bebbii
+Carex bicknellii
+Carex bicolor
+Carex bigelowii
+Carex bigelowii subsp. bigelowii
+Carex blanda
+Carex brevior
+Carex bromoides
+Carex bromoides subsp. bromoides
+Carex brunnescens
+Carex brunnescens subsp. brunnescens
+Carex brunnescens subsp. sphaerostachya
+Carex buxbaumii
+Carex canescens
+Carex canescens subsp. canescens
+Carex canescens subsp. disjuncta
+Carex capillaris
+Carex capitata
+Carex careyana
+Carex castanea
+Carex cephaloidea
+Carex cephalophora
+Carex chordorrhiza
+Carex communis
+Carex communis var. communis
+Carex comosa
+Carex concinna
+Carex conoidea
+Carex crawei
+Carex crawfordii
+Carex crinita
+Carex crinita var. crinita
+Carex cristatella
+Carex crus-corvi
+Carex cryptolepis
+Carex cumulata
+Carex davisii
+Carex debilis
+Carex debilis var. rudgei
+Carex deflexa
+Carex deflexa var. deflexa
+Carex deweyana
+Carex deweyana var. deweyana
+Carex diandra
+Carex digitalis
+Carex digitalis var. digitalis
+Carex disperma
+Carex disticha
+Carex divulsa
+Carex divulsa subsp. divulsa
+Carex eburnea
+Carex echinata
+Carex echinata subsp. echinata
+Carex emoryi
+Carex exilis
+Carex festucacea
+Carex flacca
+Carex flava
+Carex foenea
+Carex folliculata
+Carex formosa
+Carex frankii
+Carex garberi
+Carex glacialis
+Carex glareosa
+Carex glareosa subsp. glareosa
+Carex glaucodea
+Carex gracilescens
+Carex gracillima
+Carex granularis
+Carex gravida
+Carex grayi
+Carex grisea
+Carex gynandra
+Carex gynocrates
+Carex haydenii
+Carex heleonastes
+Carex hirsutella
+Carex hirta
+Carex hirtifolia
+Carex hitchcockiana
+Carex hookeriana
+Carex houghtoniana
+Carex hyalinolepis
+Carex hystericina
+Carex inops
+Carex inops subsp. heliophila
+Carex interior
+Carex intumescens
+Carex jamesii
+Carex juniperorum
+Carex lacustris
+Carex laeviconica
+Carex laevivaginata
+Carex lasiocarpa
+Carex laxiculmis
+Carex laxiculmis var. copulata
+Carex laxiculmis var. laxiculmis
+Carex laxiflora
+Carex leavenworthii
+Carex lenticularis
+Carex lenticularis var. lenticularis
+Carex leptalea
+Carex leptonervia
+Carex limosa
+Carex livida
+Carex loliacea
+Carex longii
+Carex lucorum
+Carex lucorum var. lucorum
+Carex lupuliformis
+Carex lupulina
+Carex lurida
+Carex mackenziei
+Carex magellanica
+Carex magellanica subsp. irrigua
+Carex maritima
+Carex meadii
+Carex media
+Carex merritt-fernaldii
+Carex mesochorea
+Carex michauxiana
+Carex microglochin
+Carex microglochin subsp. microglochin
+Carex molesta
+Carex muehlenbergii
+Carex muehlenbergii var. enervis
+Carex muehlenbergii var. muehlenbergii
+Carex muricata
+Carex muricata subsp. lamprocarpa
+Carex muskingumensis
+Carex nardina
+Carex nigromarginata
+Carex normalis
+Carex norvegica
+Carex novae-angliae
+Carex obtusata
+Carex oligocarpa
+Carex oligosperma
+Carex ormostachya
+Carex paleacea
+Carex pallescens
+Carex parryana
+Carex pauciflora
+Carex peckii
+Carex pedunculata
+Carex pellita
+Carex pensylvanica
+Carex plantaginea
+Carex platyphylla
+Carex praegracilis
+Carex prairea
+Carex prasina
+Carex praticola
+Carex projecta
+Carex pseudocyperus
+Carex radiata
+Carex rariflora
+Carex recta
+Carex retroflexa
+Carex retrorsa
+Carex richardsonii
+Carex rosea
+Carex rossii
+Carex rostrata
+Carex rupestris
+Carex salina
+Carex sartwellii
+Carex saxatilis
+Carex saximontana
+Carex scabrata
+Carex schweinitzii
+Carex scirpoidea
+Carex scirpoidea subsp. convoluta
+Carex scirpoidea subsp. scirpoidea
+Carex scoparia
+Carex scoparia var. scoparia
+Carex seorsa
+Carex shortiana
+Carex siccata
+Carex sparganioides
+Carex spicata
+Carex sprengelii
+Carex squarrosa
+Carex sterilis
+Carex stipata
+Carex stipata var. stipata
+Carex stricta
+Carex suberecta
+Carex subspathacea
+Carex supina
+Carex supina subsp. spaniocarpa
+Carex swanii
+Carex sychnocephala
+Carex sylvatica
+Carex tenera
+Carex tenera var. echinodes
+Carex tenera var. tenera
+Carex tenuiflora
+Carex tetanica
+Carex tincta
+Carex tonsa
+Carex tonsa var. rugosperma
+Carex tonsa var. tonsa
+Carex tribuloides
+Carex tribuloides var. tribuloides
+Carex trichocarpa
+Carex trisperma
+Carex tuckermanii
+Carex typhina
+Carex umbellata
+Carex utriculata
+Carex vaginata
+Carex vesicaria
+Carex virescens
+Carex viridula
+Carex viridula var. viridula
+Carex vulpinoidea
+Carex wiegandii
+Carex willdenowii
+Carex williamsii
+Carex woodii
+Carex xerantica
+Carpinus caroliniana subsp. virginiana
+Carya cordiformis
+Carya glabra
+Carya laciniosa
+Carya ovata
+Carya ovata var. ovata
+Castanea dentata
+Castilleja coccinea
+Castilleja miniata
+Castilleja miniata var. miniata
+Castilleja raupii
+Castilleja septentrionalis
+Catabrosa
+Catabrosa aquatica
+Catoscopium nigritum
+Caulophyllum giganteum
+Caulophyllum thalictroides
+Ceanothus americanus
+Ceanothus herbaceus
+Celastrus orbiculatus
+Celastrus scandens
+Celtis occidentalis
+Celtis tenuifolia
+Cenchrus
+Cenchrus longispinus
+Centaurea benedicta
+Centaurea calcitrapa
+Centaurea cyanus
+Centaurea diffusa
+Centaurea jacea
+Centaurea macrocephala
+Centaurea montana
+Centaurea nigra
+Centaurea nigrescens
+Centaurea scabiosa
+Centaurea solstitialis
+Centaurea stoebe
+Centaurea stoebe subsp. micranthos
+Centaurea ×moncktonii
+Cerastium alpinum
+Cerastium alpinum subsp. alpinum
+Cerastium alpinum subsp. lanatum
+Cerastium arvense
+Cerastium arvense subsp. arvense
+Cerastium arvense subsp. strictum
+Cerastium beeringianum
+Cerastium brachypodum
+Cerastium fontanum
+Cerastium fontanum subsp. vulgare
+Cerastium glomeratum
+Cerastium nutans
+Cerastium nutans var. nutans
+Cerastium pumilum
+Cerastium semidecandrum
+Cerastium tomentosum
+Cerastium velutinum
+Cerastium velutinum var. velutinum
+Ceratodon purpureus subsp. purpureus
+Ceratophyllum demersum
+Ceratophyllum echinatum
+Chaenorhinum minus
+Chaenorhinum minus subsp. minus
+Chamaedaphne calyculata
+Chamaelirium luteum
+Chamaerhodos erecta
+Chelidonium majus
+Chelone glabra
+Chenopodium album
+Chenopodium berlandieri
+Chenopodium berlandieri var. bushianum
+Chenopodium berlandieri var. zschackei
+Chenopodium bonus-henricus
+Chenopodium capitatum
+Chenopodium capitatum var. capitatum
+Chenopodium foggii
+Chenopodium glaucum
+Chenopodium glaucum var. glaucum
+Chenopodium glaucum var. salinum
+Chenopodium murale
+Chenopodium opulifolium
+Chenopodium polyspermum
+Chenopodium polyspermum var. acutifolium
+Chenopodium pratericola
+Chenopodium rubrum
+Chenopodium rubrum var. rubrum
+Chenopodium simplex
+Chenopodium standleyanum
+Chenopodium strictum
+Chenopodium urbicum
+Chimaphila maculata
+Chimaphila umbellata
+Chimaphila umbellata subsp. umbellata
+Chondrilla juncea
+Chrysosplenium americanum
+Chrysosplenium tetrandrum
+Cichorium intybus
+Cimicifuga racemosa
+Cinclidium latifolium
+Cinclidium stygium
+Cinna
+Cinna arundinacea
+Cinna latifolia
+Cirriphyllum piliferum
+Cirsium arvense
+Cirsium discolor
+Cirsium drummondii
+Cirsium flodmanii
+Cirsium muticum
+Cirsium palustre
+Cirsium pitcheri
+Cirsium pumilum
+Cirsium pumilum var. hillii
+Cirsium vulgare
+Cladium mariscoides
+Claytonia caroliniana
+Claytonia virginica
+Clematis occidentalis
+Clematis occidentalis var. occidentalis
+Clematis orientalis
+Clematis recta
+Clematis terniflora
+Clematis virginiana
+Clematis vitalba
+Clematis viticella
+Climacium americanum
+Climacium dendroides
+Clintonia borealis
+Codriophorus acicularis
+Codriophorus fascicularis
+Coeloglossum viride
+Collinsia parviflora
+Collinsia verna
+Comandra umbellata
+Comandra umbellata subsp. umbellata
+Comarum palustre
+Commelina communis
+Comptonia peregrina
+Conardia compacta
+Conoclinium coelestinum
+Conopholis americana
+Conringia orientalis
+Consolida ajacis
+Consolida regalis
+Convallaria majalis var. majalis
+Conyza canadensis
+Coptis trifolia
+Corallorhiza maculata var. maculata
+Corallorhiza maculata var. occidentalis
+Corallorhiza odontorhiza var. odontorhiza
+Corallorhiza odontorhiza var. pringlei
+Corallorhiza striata var. striata
+Corallorhiza trifida
+Coreopsis grandiflora
+Coreopsis lanceolata
+Coreopsis tinctoria
+Coreopsis tripteris
+Coreopsis verticillata
+Corispermum americanum
+Corispermum americanum var. americanum
+Corispermum hookeri
+Corispermum hookeri var. hookeri
+Corispermum pallasii
+Corispermum villosum
+Cornus alternifolia
+Cornus canadensis
+Cornus drummondii
+Cornus florida
+Cornus obliqua
+Cornus racemosa
+Cornus rugosa
+Cornus sericea
+Corydalis aurea
+Corydalis aurea subsp. aurea
+Corydalis flavula
+Corydalis sempervirens
+Corylus americana
+Corylus cornuta subsp. cornuta
+Coscinodon cribrosus
+Cosmos bipinnatus
+Cota tinctoria
+Cotoneaster divaricatus
+Cotoneaster lucidus
+Crassula aquatica
+Crataegus beata
+Crataegus brainerdii
+Crataegus calpodendron
+Crataegus chrysocarpa
+Crataegus chrysocarpa var. chrysocarpa
+Crataegus chrysocarpa var. phoeniceoides
+Crataegus chrysocarpa var. subrotundifolia
+Crataegus chrysocarpa var. vigintistamina
+Crataegus coccinea
+Crataegus coccinea var. coccinea
+Crataegus coccinea var. fulleriana
+Crataegus coccinea var. pringlei
+Crataegus coccinioides
+Crataegus cognata
+Crataegus compacta
+Crataegus crus-galli
+Crataegus crus-galli var. crus-galli
+Crataegus dodgei
+Crataegus douglasii
+Crataegus flabellata
+Crataegus florifera
+Crataegus fluviatilis
+Crataegus formosa
+Crataegus holmesiana
+Crataegus intricata
+Crataegus irrasa
+Crataegus jesupii
+Crataegus lumaria
+Crataegus macracantha
+Crataegus macrosperma
+Crataegus magniflora
+Crataegus margarettae
+Crataegus margarettae var. angustifolia
+Crataegus margarettae var. margarettae
+Crataegus mollis
+Crataegus mollis var. incisifolia
+Crataegus mollis var. mollis
+Crataegus monogyna
+Crataegus monogyna var. monogyna
+Crataegus pennsylvanica
+Crataegus persimilis
+Crataegus phaenopyrum
+Crataegus populnea
+Crataegus prona
+Crataegus pruinosa
+Crataegus pruinosa var. dissona
+Crataegus pruinosa var. parvula
+Crataegus pruinosa var. pruinosa
+Crataegus pruinosa var. rugosa
+Crataegus pruinosa var. virella
+Crataegus punctata
+Crataegus scabrida
+Crataegus scabrida var. asperifolia
+Crataegus scabrida var. cyclophylla
+Crataegus scabrida var. scabrida
+Crataegus schuettei
+Crataegus schuettei var. schuettei
+Crataegus stolonifera
+Crataegus submollis
+Crataegus suborbiculata
+Crataegus succulenta
+Crataegus succulenta var. michiganensis
+Crataegus succulenta var. succulenta
+Crataegus ×lucorum
+Cratoneuron filicinum
+Crepis capillaris
+Crepis elegans
+Crepis pulchra
+Crepis tectorum
+Crocanthemum bicknellii
+Crocanthemum canadense
+Crypsis
+Crypsis schoenoides
+Cryptogramma acrostichoides
+Cryptogramma stelleri
+Ctenidium molluscum
+Cucumis melo
+Cucumis melo subsp. agrestis
+Cucumis melo subsp. melo
+Cucumis sativus
+Cucumis sativus var. sativus
+Cyclachaena xanthiifolia
+Cycloloma atriplicifolium
+Cydonia oblonga
+Cymbalaria muralis
+Cymbalaria muralis subsp. muralis
+Cynodontium gracilescens
+Cynodontium polycarpon
+Cynodontium schisti
+Cynodontium strumiferum
+Cynodontium tenellum
+Cynosurus
+Cynosurus cristatus
+Cyperus bipartitus
+Cyperus dentatus
+Cyperus diandrus
+Cyperus erythrorhizos
+Cyperus esculentus
+Cyperus esculentus var. leptostachyus
+Cyperus flavescens
+Cyperus fuscus
+Cyperus houghtonii
+Cyperus lupulinus
+Cyperus lupulinus subsp. lupulinus
+Cyperus lupulinus subsp. macilentus
+Cyperus odoratus
+Cyperus schweinitzii
+Cyperus squarrosus
+Cyperus strigosus
+Cypripedium acaule
+Cypripedium arietinum
+Cypripedium candidum
+Cypripedium parviflorum var. makasin
+Cypripedium parviflorum var. pubescens
+Cypripedium passerinum
+Cypripedium reginae
+Cyrto-hypnum minutulum
+Cyrto-hypnum pygmaeum
+Cyrtomnium hymenophylloides
+Cystopteris bulbifera
+Cystopteris fragilis
+Cystopteris laurentiana
+Cystopteris montana
+Cystopteris protrusa
+Cystopteris tenuis
+Dactylis
+Dactylis glomerata
+Dactylorhiza majalis var. junialis
+Danthonia
+Danthonia compressa
+Danthonia intermedia
+Danthonia spicata
+Daphne mezereum
+Dasiphora fruticosa
+Dennstaedtia punctilobula
+Deparia acrostichoides
+Deschampsia
+Deschampsia cespitosa
+Deschampsia cespitosa subsp. beringensis
+Deschampsia cespitosa subsp. cespitosa
+Deschampsia cespitosa subsp. holciformis
+Deschampsia flexuosa
+Deschampsia mackenzieana
+Deschampsia sukatschewii
+Descurainia incana
+Descurainia pinnata
+Descurainia pinnata subsp. brachycarpa
+Descurainia sophia
+Dianthus armeria subsp. armeria
+Dianthus barbatus subsp. barbatus
+Dianthus deltoides subsp. deltoides
+Dianthus plumarius subsp. plumarius
+Diarrhena
+Diarrhena obovata
+Dicentra canadensis
+Dicentra cucullaria
+Dichanthelium
+Dichanthelium acuminatum
+Dichanthelium acuminatum subsp. acuminatum
+Dichanthelium acuminatum subsp. columbianum
+Dichanthelium acuminatum subsp. fasciculatum
+Dichanthelium acuminatum subsp. implicatum
+Dichanthelium acuminatum subsp. leucothrix
+Dichanthelium acuminatum subsp. lindheimeri
+Dichanthelium acuminatum subsp. longiligulatum
+Dichanthelium acuminatum subsp. sericeum
+Dichanthelium acuminatum subsp. spretum
+Dichanthelium acuminatum subsp. thermale
+Dichanthelium boreale
+Dichanthelium chamaelonche
+Dichanthelium chamaelonche subsp. breve
+Dichanthelium chamaelonche subsp. chamaelonche
+Dichanthelium clandestinum
+Dichanthelium depauperatum
+Dichanthelium dichotomum
+Dichanthelium dichotomum subsp. dichotomum
+Dichanthelium dichotomum subsp. lucidum
+Dichanthelium dichotomum subsp. mattamuskeetense
+Dichanthelium dichotomum subsp. microcarpon
+Dichanthelium dichotomum subsp. nitidum
+Dichanthelium dichotomum subsp. roanokense
+Dichanthelium dichotomum subsp. yadkinense
+Dichanthelium ensifolium
+Dichanthelium ensifolium subsp. curtifolium
+Dichanthelium ensifolium subsp. ensifolium
+Dichanthelium latifolium
+Dichanthelium leibergii
+Dichanthelium linearifolium
+Dichanthelium nudicaule
+Dichanthelium oligosanthes
+Dichanthelium oligosanthes subsp. oligosanthes
+Dichanthelium oligosanthes subsp. scribnerianum
+Dichanthelium perlongum
+Dichanthelium polyanthes
+Dichanthelium portoricense
+Dichanthelium portoricense subsp. patulum
+Dichanthelium portoricense subsp. portoricense
+Dichanthelium sect. Angustifolia
+Dichanthelium sect. Clandestina
+Dichanthelium sect. Dichanthelium
+Dichanthelium sect. Ensifolia
+Dichanthelium sect. Lancearia
+Dichanthelium sect. Lanuginosa
+Dichanthelium sect. Linearifolia
+Dichanthelium sect. Macrocarpa
+Dichanthelium sect. Nudicaulia
+Dichanthelium sect. Oligosantha
+Dichanthelium sect. Pedicellata
+Dichanthelium sect. Sphaerocarpa
+Dichanthelium sect. Strigosa
+Dichanthelium sphaerocarpon
+Dichanthelium tenue
+Dichanthelium ×anthophysum
+Dichelyma capillaceum
+Dichelyma falcatum
+Dichelyma pallescens
+Dichelyma uncinatum
+Dichodontium pellucidum
+Dicranella cerviculata
+Dicranella crispa
+Dicranella heteromalla
+Dicranella schreberiana
+Dicranella varia
+Dicranoweisia crispula
+Dicranum acutifolium
+Dicranum bonjeanii
+Dicranum brevifolium
+Dicranum elongatum
+Dicranum flagellare
+Dicranum fragilifolium
+Dicranum fulvum
+Dicranum fuscescens var. fuscescens
+Dicranum groenlandicum
+Dicranum leioneuron
+Dicranum majus var. majus
+Dicranum montanum
+Dicranum muehlenbeckii
+Dicranum ontariense
+Dicranum scoparium
+Dicranum spadiceum
+Dicranum spurium
+Dicranum undulatum
+Dicranum viride
+Didymodon fallax
+Didymodon ferrugineus
+Didymodon rigidulus var. gracilis
+Didymodon rigidulus var. rigidulus
+Didymodon tophaceus
+Digitalis grandiflora
+Digitalis lanata
+Digitalis purpurea
+Digitalis purpurea subsp. purpurea
+Digitaria
+Digitaria bakeri
+Digitaria cognata
+Digitaria didactyla
+Digitaria ischaemum
+Digitaria leucocoma
+Digitaria sanguinalis
+Digitaria tomentosa
+Dioscorea villosa
+Diphasiastrum complanatum
+Diphasiastrum digitatum
+Diphasiastrum sitchense
+Diphasiastrum tristachyum
+Diphyscium foliosum
+Diplazium pycnocarpon
+Diplotaxis muralis
+Diplotaxis tenuifolia
+Dirca palustris
+Distichium capillaceum
+Distichium inclinatum
+Distichlis
+Distichlis spicata
+Ditrichum flexicaule
+Ditrichum gracile
+Ditrichum lineare
+Ditrichum pallidum
+Ditrichum pusillum
+Doellingeria umbellata
+Doellingeria umbellata var. pubens
+Doellingeria umbellata var. umbellata
+Draba alpina
+Draba arabisans
+Draba aurea
+Draba cana
+Draba cinerea
+Draba glabella
+Draba incana
+Draba nemorosa
+Draba nivalis
+Draba reptans
+Draba verna
+Drepanocladus aduncus
+Drepanocladus longifolius
+Drepanocladus polygamus
+Drepanocladus sordidus
+Drosera anglica
+Drosera intermedia
+Drosera linearis
+Drosera rotundifolia
+Drummondia prorepens
+Dryas drummondii
+Dryas integrifolia
+Dryas integrifolia subsp. integrifolia
+Drymocallis arguta
+Dryopteris carthusiana
+Dryopteris clintoniana
+Dryopteris cristata
+Dryopteris expansa
+Dryopteris filix-mas
+Dryopteris fragrans
+Dryopteris goldiana
+Dryopteris goldieana
+Dryopteris intermedia
+Dryopteris marginalis
+Duchesnea indica
+Duchesnea indica var. indica
+Dulichium arundinaceum
+Dulichium arundinaceum var. arundinaceum
+Dupontia
+Dupontia fisheri
+Dysphania ambrosioides
+Dysphania botrys
+Dyssodia papposa
+Echinacea pallida
+Echinacea purpurea
+Echinochloa
+Echinochloa crus-galli
+Echinochloa frumentacea
+Echinochloa muricata
+Echinochloa muricata var. microstachya
+Echinochloa muricata var. muricata
+Echinochloa oryzicola
+Echinochloa pyramidalis
+Echinochloa walteri
+Echinocystis lobata
+Echinops exaltatus
+Echinops sphaerocephalus
+Eclipta prostrata
+Elatine americana
+Elatine minima
+Elatine triandra
+Eleocharis acicularis
+Eleocharis compressa
+Eleocharis compressa var. compressa
+Eleocharis diandra
+Eleocharis elliptica
+Eleocharis engelmannii
+Eleocharis equisetoides
+Eleocharis erythropoda
+Eleocharis flavescens
+Eleocharis flavescens var. olivacea
+Eleocharis geniculata
+Eleocharis intermedia
+Eleocharis macrostachya
+Eleocharis mamillata
+Eleocharis mamillata subsp. mamillata
+Eleocharis nitida
+Eleocharis obtusa
+Eleocharis ovata
+Eleocharis palustris
+Eleocharis quadrangulata
+Eleocharis quinqueflora
+Eleocharis robbinsii
+Eleocharis rostellata
+Eleocharis uniglumis
+Eleusine
+Eleusine indica
+Elodea canadensis
+Elodea nuttallii
+Elodium blandowii
+Elodium elodioides
+Elodium paludosum
+Elymus
+Elymus alaskanus
+Elymus alaskanus subsp. alaskanus
+Elymus alaskanus subsp. hyperarcticus
+Elymus albicans
+Elymus canadensis
+Elymus canadensis var. brachystachys
+Elymus canadensis var. canadensis
+Elymus canadensis var. robustus
+Elymus ciliaris
+Elymus curvatus
+Elymus dahuricus
+Elymus diversiglumis
+Elymus glaucus
+Elymus glaucus subsp. glaucus
+Elymus glaucus subsp. mackenziei
+Elymus glaucus subsp. virescens
+Elymus hystrix
+Elymus lanceolatus
+Elymus lanceolatus subsp. lanceolatus
+Elymus lanceolatus subsp. psammophilus
+Elymus lanceolatus subsp. riparius
+Elymus macgregorii
+Elymus pringlei
+Elymus repens
+Elymus riparius
+Elymus sierrae
+Elymus trachycaulus
+Elymus trachycaulus subsp. subsecundus
+Elymus trachycaulus subsp. trachycaulus
+Elymus trachycaulus subsp. virescens
+Elymus tsukushiensis
+Elymus villosus
+Elymus violaceus
+Elymus virginicus
+Elymus virginicus var. intermedius
+Elymus virginicus var. jejunus
+Elymus virginicus var. virginicus
+Elymus wiegandii
+Elymus ×ebingeri
+Elymus ×pinalenoensis
+Elymus ×pseudorepens
+Empetrum nigrum
+Encalypta brevicollis
+Encalypta ciliata
+Encalypta procera
+Encalypta rhaptocarpa
+Encalypta vulgaris
+Enemion biternatum
+Entodon cladorrhizans
+Entodon seductrix
+Ephemerum cohaerens
+Ephemerum crassinervium var. crassinervium
+Ephemerum crassinervium var. texanum
+Ephemerum serratum
+Ephemerum spinulosum
+Epifagus virginiana
+Epigaea repens
+Epipactis helleborine
+Equisetum arvense
+Equisetum fluviatile
+Equisetum hyemale
+Equisetum hyemale subsp. affine
+Equisetum laevigatum
+Equisetum palustre
+Equisetum pratense
+Equisetum scirpoides
+Equisetum sylvaticum
+Equisetum variegatum
+Equisetum variegatum subsp. variegatum
+Equisetum ×ferrissii
+Equisetum ×litorale
+Equisetum ×mackaii
+Equisetum ×nelsonii
+Eragrostis
+Eragrostis capillaris
+Eragrostis cilianensis
+Eragrostis frankii
+Eragrostis hypnoides
+Eragrostis mexicana
+Eragrostis mexicana subsp. mexicana
+Eragrostis mexicana subsp. virescens
+Eragrostis minor
+Eragrostis obtusiflora
+Eragrostis pectinacea
+Eragrostis pectinacea var. miserrima
+Eragrostis pectinacea var. pectinacea
+Eragrostis pilosa
+Eragrostis pilosa var. perplexa
+Eragrostis pilosa var. pilosa
+Eragrostis reptans
+Eragrostis setifolia
+Eragrostis spectabilis
+Eranthis hyemalis
+Erechtites hieraciifolius
+Erechtites hieraciifolius var. hieraciifolius
+Erigeron acris
+Erigeron acris var. kamtschaticus
+Erigeron annuus
+Erigeron elatus
+Erigeron glabellus
+Erigeron glabellus var. pubescens
+Erigeron humilis
+Erigeron hyssopifolius
+Erigeron lonchophyllus
+Erigeron philadelphicus
+Erigeron philadelphicus var. philadelphicus
+Erigeron philadelphicus var. provancheri
+Erigeron pulchellus
+Erigeron pulchellus var. pulchellus
+Erigeron strigosus
+Erigeron strigosus var. septentrionalis
+Erigeron strigosus var. strigosus
+Eriocaulon aquaticum
+Eriochloa
+Eriochloa contracta
+Eriophorum angustifolium
+Eriophorum angustifolium subsp. angustifolium
+Eriophorum brachyantherum
+Eriophorum callitrix
+Eriophorum chamissonis
+Eriophorum gracile
+Eriophorum scheuchzeri
+Eriophorum tenellum
+Eriophorum vaginatum
+Eriophorum virginicum
+Eriophorum viridicarinatum
+Eruca vesicaria
+Eruca vesicaria subsp. sativa
+Erucastrum gallicum
+Erysimum cheiranthoides
+Erysimum hieraciifolium
+Erysimum inconspicuum
+Erysimum repandum
+Erythranthe geyeri
+Erythranthe moschata
+Erythronium albidum
+Erythronium americanum subsp. americanum
+Eucladium verticillatum
+Euonymus alatus
+Euonymus atropurpureus
+Euonymus europaeus
+Euonymus fortunei
+Euonymus obovatus
+Eupatorium altissimum
+Eupatorium perfoliatum
+Euphorbia commutata
+Euphorbia corollata
+Euphorbia cyparissias
+Euphorbia davidii
+Euphorbia dentata
+Euphorbia exigua
+Euphorbia glyptosperma
+Euphorbia helioscopia
+Euphorbia lathyris
+Euphorbia maculata
+Euphorbia marginata
+Euphorbia nutans
+Euphorbia peplus
+Euphorbia platyphyllos
+Euphorbia polygonifolia
+Euphorbia serpens
+Euphorbia serpillifolia
+Euphorbia serpillifolia subsp. serpillifolia
+Euphorbia spathulata
+Euphorbia vermiculata
+Euphorbia virgata
+Euphrasia arctica
+Euphrasia arctica subsp. arctica
+Euphrasia arctica subsp. borealis
+Euphrasia farlowii
+Euphrasia hudsoniana
+Euphrasia micrantha
+Euphrasia nemorosa
+Euphrasia ostenfeldii
+Euphrasia stricta
+Euphrasia stricta var. brevipila
+Euphrasia stricta var. stricta
+Euphrasia suborbicularis
+Euphrasia tetraquetra
+Euphrasia vinacea
+Euphrasia wettsteinii
+Eurhynchiastrum pulchellum var. pulchellum
+Eurybia divaricata
+Eurybia macrophylla
+Eurybia radula
+Eurybia schreberi
+Euthamia graminifolia
+Euthamia gymnospermoides
+Eutrochium maculatum
+Eutrochium maculatum var. bruneri
+Eutrochium maculatum var. foliosum
+Eutrochium maculatum var. maculatum
+Eutrochium purpureum
+Eutrochium purpureum var. purpureum
+Fagopyrum esculentum
+Fagopyrum tataricum
+Fagus grandifolia
+Fallopia cilinodis
+Fallopia convolvulus
+Fallopia dumetorum
+Fallopia japonica
+Fallopia japonica var. japonica
+Fallopia sachalinensis
+Fallopia scandens
+Festuca
+Festuca amethystina
+Festuca baffinensis
+Festuca brachyphylla
+Festuca brachyphylla subsp. brachyphylla
+Festuca brachyphylla subsp. breviculmis
+Festuca brachyphylla subsp. coloradensis
+Festuca campestris
+Festuca filiformis
+Festuca frederikseniae
+Festuca glauca
+Festuca hallii
+Festuca occidentalis
+Festuca paradoxa
+Festuca prolifera
+Festuca roemeri
+Festuca rubra
+Festuca rubra subsp. arctica
+Festuca rubra subsp. arenaria
+Festuca rubra subsp. aucta
+Festuca rubra subsp. commutata
+Festuca rubra subsp. fallax
+Festuca rubra subsp. mediana
+Festuca rubra subsp. pruinosa
+Festuca rubra subsp. rubra
+Festuca rubra subsp. secunda
+Festuca rubra subsp. vallicola
+Festuca saximontana
+Festuca saximontana var. robertsiana
+Festuca saximontana var. saximontana
+Festuca sect. Breviaristatae
+Festuca sect. Elmera
+Festuca sect. Festuca
+Festuca sect. Subulatae
+Festuca sect. Subuliflorae
+Festuca sect. Texanae
+Festuca subg. Festuca
+Festuca subg. Montanae
+Festuca subg. Obtusae
+Festuca subg. Subulatae
+Festuca subverticillata
+Festuca trachyphylla
+Filipendula rubra
+Filipendula ulmaria
+Filipendula vulgaris
+Fimbristylis autumnalis
+Fimbristylis puberula
+Fimbristylis puberula var. puberula
+Fissidens adianthoides
+Fissidens bryoides
+Fissidens bushii
+Fissidens dubius
+Fissidens fontanus
+Fissidens grandifrons
+Fissidens minutulus
+Fissidens obtusifolius
+Fissidens osmundioides
+Fissidens subbasilaris
+Fissidens taxifolius
+Floerkea proserpinacoides
+Fontinalis antipyretica
+Fontinalis dalecarlica
+Fontinalis hypnoides
+Fontinalis novae-angliae
+Fontinalis sphagnifolia
+Forsstroemia trichomitria
+Fragaria vesca
+Fragaria vesca subsp. americana
+Fragaria vesca subsp. vesca
+Fragaria virginiana
+Fragaria virginiana subsp. glauca
+Fragaria virginiana subsp. virginiana
+Frangula alnus
+Froelichia gracilis
+Fuirena pumila
+Fumaria officinalis
+Funaria flavicans
+Funaria hygrometrica var. hygrometrica
+Galanthus nivalis
+Galearis spectabilis
+Galinsoga parviflora
+Galinsoga parviflora var. parviflora
+Galinsoga quadriradiata
+Gamochaeta purpurea
+Gaultheria hispidula
+Gaultheria procumbens
+Gaylussacia baccata
+Gemmabryum caespiticium
+Gemmabryum dichotomum
+Gemmabryum klinggraeffii
+Gemmabryum ruderale
+Gemmabryum violaceum
+Geocaulon lividum
+Geum aleppicum
+Geum canadense
+Geum laciniatum
+Geum macrophyllum
+Geum macrophyllum var. macrophyllum
+Geum macrophyllum var. perincisum
+Geum rivale
+Geum triflorum
+Geum triflorum var. triflorum
+Geum urbanum
+Geum vernum
+Geum virginianum
+Gillenia trifoliata
+Glaucium flavum
+Glyceria
+Glyceria alnasteretum
+Glyceria borealis
+Glyceria canadensis
+Glyceria canadensis var. canadensis
+Glyceria canadensis var. laxa
+Glyceria elata
+Glyceria grandis
+Glyceria grandis var. grandis
+Glyceria maxima
+Glyceria melicaria
+Glyceria notata
+Glyceria sect. Glyceria
+Glyceria sect. Hydropoa
+Glyceria sect. Striatae
+Glyceria septentrionalis
+Glyceria septentrionalis var. arkansana
+Glyceria septentrionalis var. septentrionalis
+Glyceria striata
+Gnaphalium uliginosum
+Goodyera oblongifolia
+Goodyera pubescens
+Goodyera repens
+Goodyera tesselata
+Gratiola lutea
+Gratiola neglecta
+Gratiola quartermaniae
+Grimmia anodon
+Grimmia anomala
+Grimmia funalis
+Grimmia longirostris
+Grimmia montana
+Grimmia muehlenbeckii
+Grimmia olneyi
+Grimmia ovalis
+Grimmia pilifera
+Grimmia plagiopodia
+Grimmia pulvinata
+Grimmia teretinervis
+Grimmia torquata
+Grimmia unicolor
+Grindelia hirsutula
+Grindelia squarrosa
+Guizotia abyssinica
+Gymnocarpium dryopteris
+Gymnocarpium jessoense
+Gymnocarpium jessoense subsp. parvulum
+Gymnocarpium robertianum
+Gymnostomum aeruginosum
+Gypsophila elegans
+Gypsophila muralis
+Gypsophila paniculata
+Gypsophila scorzonerifolia
+Gyroweisia tenuis
+Hamamelis virginiana
+Hamatocaulis vernicosus
+Haplocladium microphyllum
+Haplocladium virginianum
+Hedwigia ciliata
+Helenium autumnale
+Helenium flexuosum
+Helianthus annuus
+Helianthus decapetalus
+Helianthus divaricatus
+Helianthus giganteus
+Helianthus grosseserratus
+Helianthus hirsutus
+Helianthus maximiliani
+Helianthus mollis
+Helianthus nuttallii
+Helianthus nuttallii subsp. rydbergii
+Helianthus pauciflorus
+Helianthus pauciflorus subsp. pauciflorus
+Helianthus pauciflorus subsp. subrhomboideus
+Helianthus petiolaris
+Helianthus petiolaris subsp. petiolaris
+Helianthus strumosus
+Helianthus tuberosus
+Helianthus ×laetiflorus
+Heliopsis helianthoides
+Heliopsis helianthoides var. helianthoides
+Heliopsis helianthoides var. scabra
+Helminthotheca echioides
+Hemerocallis fulva
+Hemerocallis lilioasphodelus
+Hennediella heimii var. arctica
+Hennediella heimii var. heimii
+Herniaria glabra
+Herzogiella striatella
+Herzogiella turfacea
+Hesperis matronalis
+Hesperostipa
+Hesperostipa comata
+Hesperostipa comata subsp. comata
+Hesperostipa comata subsp. intermedia
+Hesperostipa spartea
+Heteranthera dubia
+Heterocladium dimorphum
+Heterotheca villosa
+Heterotheca villosa var. ballardii
+Heterotheca villosa var. villosa
+Heuchera americana
+Heuchera americana var. americana
+Heuchera richardsonii
+Hibiscus laevis
+Hibiscus moscheutos
+Hibiscus moscheutos subsp. moscheutos
+Hibiscus trionum
+Hieracium aurantiacum
+Hieracium caespitosum
+Hieracium gronovii
+Hieracium longipilum
+Hieracium murorum
+Hieracium paniculatum
+Hieracium pilosella
+Hieracium piloselloides
+Hieracium scabrum
+Hieracium umbellatum
+Hieracium venosum
+Hieracium vulgatum
+Hippuris lanceolata
+Hippuris tetraphylla
+Hippuris vulgaris
+Holcus
+Holcus ianatus
+Holcus lanatus
+Holosteum umbellatum
+Holosteum umbellatum subsp. umbellatum
+Homalia trichomanoides var. trichomanoides
+Homomallium adnatum
+Honckenya peploides
+Honckenya peploides subsp. diffusa
+Hordeum
+Hordeum jubatum
+Hordeum jubatum subsp. intermedium
+Hordeum jubatum subsp. jubatum
+Hordeum secalinum
+Hordeum vulgare
+Hudsonia tomentosa
+Humulus japonicus
+Humulus lupulus
+Humulus lupulus var. lupuloides
+Humulus lupulus var. lupulus
+Huperzia appalachiana
+Huperzia lucidula
+Huperzia selago
+Hybanthus concolor
+Hydrangea paniculata
+Hydrastis canadensis
+Hydrocharis morsus-ranae
+Hygroamblystegium varium subsp. noterophilum
+Hygroamblystegium varium var. humile
+Hygroamblystegium varium var. varium
+Hygrohypnum alpestre
+Hygrohypnum bestii
+Hygrohypnum duriusculum
+Hygrohypnum luridum
+Hygrohypnum ochraceum
+Hygrohypnum subeugyrium
+Hylocomiastrum pyrenaicum
+Hylocomiastrum umbratum
+Hylocomium splendens
+Hylotelephium telephioides
+Hylotelephium telephium
+Hymenostylium recurvirostrum var. recurvirostrum
+Hyophila involuta
+Hypericum ascyron
+Hypericum ascyron subsp. pyramidatum
+Hypericum boreale
+Hypericum canadense
+Hypericum ellipticum
+Hypericum gentianoides
+Hypericum kalmianum
+Hypericum majus
+Hypericum mutilum
+Hypericum mutilum subsp. mutilum
+Hypericum perforatum
+Hypericum perforatum subsp. perforatum
+Hypericum prolificum
+Hypericum punctatum
+Hypericum sphaerocarpum
+Hypnum bambergeri
+Hypnum cupressiforme var. cupressiforme
+Hypnum curvifolium
+Hypnum fauriei
+Hypnum imponens
+Hypnum lindbergii
+Hypnum pallescens
+Hypnum plicatulum
+Hypnum pratense
+Hypnum recurvatum
+Hypnum revolutum var. revolutum
+Hypnum vaucheri
+Hypoxis hirsuta
+Iberis amara
+Iberis umbellata
+Imbribryum gemmiparum
+Imbribryum miniatum
+Imbribryum muehlenbeckii
+Inula britannica
+Inula helenium
+Iris brevicaulis
+Iris lacustris
+Iris pseudacorus
+Iris sibirica
+Iris versicolor
+Iris virginica
+Isatis tinctoria
+Isopterygiopsis muelleriana
+Isopterygiopsis pulchella
+Isothecium alopecuroides
+Isotria medeoloides
+Isotria verticillata
+Isoëtes echinospora
+Isoëtes engelmannii
+Isoëtes lacustris
+Isoëtes riparia
+Isoëtes tuckermanii
+Jeffersonia diphylla
+Juglans cinerea
+Juglans nigra
+Juncus acuminatus
+Juncus alpinoarticulatus
+Juncus anthelatus
+Juncus arcticus
+Juncus arcticus var. alaskanus
+Juncus arcticus var. balticus
+Juncus articulatus
+Juncus biglumis
+Juncus brachycarpus
+Juncus brachycephalus
+Juncus brevicaudatus
+Juncus bufonius
+Juncus canadensis
+Juncus castaneus
+Juncus compressus
+Juncus dudleyi
+Juncus effusus
+Juncus ensifolius
+Juncus ensifolius var. ensifolius
+Juncus filiformis
+Juncus gerardii
+Juncus greenei
+Juncus inflexus
+Juncus interior
+Juncus longistylis
+Juncus marginatus
+Juncus militaris
+Juncus nodosus
+Juncus pelocarpus
+Juncus secundus
+Juncus stygius
+Juncus stygius var. americanus
+Juncus subtilis
+Juncus tenuis
+Juncus torreyi
+Juncus triglumis
+Juncus triglumis var. albescens
+Juncus vaseyi
+Juniperus communis
+Juniperus communis var. depressa
+Juniperus horizontalis
+Juniperus virginiana
+Juniperus virginiana var. virginiana
+Kalmia angustifolia
+Kalmia angustifolia var. angustifolia
+Kalmia microphylla
+Kalmia microphylla var. microphylla
+Kalmia polifolia
+Kalmia procumbens
+Kerria japonica
+Kiaeria blyttii
+Kickxia elatine
+Kickxia spuria
+Kobresia myosuroides
+Kobresia simpliciuscula
+Kochia scoparia
+Kochia scoparia subsp. scoparia
+Koeleria
+Koeleria macrantha
+Koeleria pyramidata
+Koenigia islandica
+Krigia biflora
+Lactuca biennis
+Lactuca canadensis
+Lactuca floridana
+Lactuca hirsuta
+Lactuca saligna
+Lactuca sativa
+Lactuca serriola
+Lagurus
+Lagurus ovatus
+Laportea canadensis
+Lapsana communis
+Larix laricina
+Lechea intermedia
+Lechea intermedia var. intermedia
+Lechea intermedia var. laurentiana
+Lechea minor
+Lechea mucronata
+Lechea pulchella
+Lechea pulchella var. moniliformis
+Lechea stricta
+Leersia
+Leersia oryzoides
+Leersia virginica
+Lemna minor
+Lemna trisulca
+Lemna turionifera
+Leontodon hispidus
+Lepidium campestre
+Lepidium chalepense
+Lepidium coronopus
+Lepidium densiflorum
+Lepidium draba
+Lepidium perfoliatum
+Lepidium ramosissimum
+Lepidium ruderale
+Lepidium sativum
+Lepidium virginicum
+Lepidium virginicum subsp. virginicum
+Leptobryum pyriforme
+Leptochloa
+Leptochloa chinensis
+Leptochloa fusca
+Leptochloa fusca subsp. fascicularis
+Leptochloa fusca subsp. fusca
+Leptochloa fusca subsp. uninervia
+Leptodictyum riparium
+Leskea gracilescens
+Leskea obscura
+Leskea polycarpa
+Leskeella nervosa
+Leucanthemella serotina
+Leucanthemum vulgare
+Leucobryum albidum
+Leucobryum glaucum
+Leucodon andrewsianus
+Leucodon julaceus
+Leucospora multifida
+Leymus
+Leymus arenarius
+Leymus californicus
+Leymus innovatus
+Leymus innovatus subsp. innovatus
+Leymus innovatus subsp. velutinus
+Leymus mollis
+Leymus mollis subsp. mollis
+Leymus mollis subsp. villosissimus
+Leymus salina
+Leymus salina subsp. mojavensis
+Leymus salina subsp. salina
+Leymus salina subsp. salmonis
+Liatris aspera
+Liatris cylindracea
+Liatris spicata
+Liatris spicata var. spicata
+Lilium canadense
+Lilium lancifolium
+Lilium michiganense
+Lilium philadelphicum
+Limosella aquatica
+Linaria dalmatica
+Linaria dalmatica subsp. dalmatica
+Linaria dalmatica subsp. macedonica
+Linaria vulgaris
+Lindbergia brachyptera
+Lindera benzoin
+Lindernia dubia
+Linum catharticum
+Linum lewisii
+Linum lewisii var. lepagei
+Linum lewisii var. lewisii
+Linum medium
+Linum medium var. medium
+Linum medium var. texanum
+Linum perenne
+Linum striatum
+Linum sulcatum
+Linum usitatissimum
+Linum virginianum
+Liparis liliifolia
+Liparis loeselii
+Lipocarpha micrantha
+Liriodendron tulipifera
+Listera auriculata
+Listera australis
+Listera borealis
+Listera convallarioides
+Listera cordata var. cordata
+Listera ovata
+Littorella americana
+Lobularia maritima
+Loeskypnum badium
+Lolium
+Lolium multiflorum
+Lolium perenne
+Lolium persicum
+Lolium temulentum
+Lolium temulentum subsp. remotum
+Lolium temulentum subsp. temulentum
+Lunaria annua
+Luzula acuminata var. acuminata
+Luzula confusa
+Luzula luzuloides
+Luzula luzuloides subsp. luzuloides
+Luzula multiflora
+Luzula multiflora subsp. frigida
+Luzula multiflora subsp. multiflora
+Luzula parviflora
+Lycopodiella inundata
+Lycopodium annotinum
+Lycopodium clavatum
+Lycopodium dendroideum
+Lycopodium hickeyi
+Lycopodium lagopus
+Lycopodium obscurum
+Lysimachia ciliata
+Lysimachia hybrida
+Lysimachia lanceolata
+Lysimachia maritima
+Lysimachia nummularia
+Lysimachia punctata
+Lysimachia quadriflora
+Lysimachia quadrifolia
+Lysimachia terrestris
+Lysimachia thyrsiflora
+Lysimachia vulgaris
+Lysimachia ×producta
+Macleaya cordata
+Madia glomerata
+Magnolia acuminata
+Maianthemum canadense
+Maianthemum racemosum subsp. racemosum
+Maianthemum stellatum
+Maianthemum trifolium
+Malaxis monophyllos var. brachypoda
+Malaxis paludosa
+Malaxis unifolia
+Malus baccata
+Malus coronaria
+Malus pumila
+Malus toringo
+Malva alcea
+Malva moschata
+Malva neglecta
+Malva parviflora
+Malva pusilla
+Malva sylvestris
+Malva verticillata
+Marsilea quadrifolia
+Matricaria chamomilla
+Matricaria discoidea
+Matteuccia struthiopteris
+Matteuccia struthiopteris var. pensylvanica
+Matthiola longipetala
+Medeola virginiana
+Meesia longiseta
+Meesia triquetra
+Meesia uliginosa
+Melampyrum lineare
+Melica
+Melica altissima
+Melica californica
+Melica smithii
+Menispermum canadense
+Micranthes pensylvanica
+Micranthes virginiensis
+Microbryum davallianum var. davallianum
+Microbryum floerkeanum
+Milium
+Milium effusum
+Mimulus alatus
+Mimulus ringens
+Mimulus ringens var. ringens
+Minuartia dawsonensis
+Minuartia groenlandica
+Minuartia michauxii
+Minuartia rubella
+Minuartia stricta
+Mirabilis albida
+Mirabilis nyctaginea
+Miscanthus
+Miscanthus nepalensis
+Miscanthus oligostachyus
+Miscanthus sacchariflorus
+Miscanthus sinensis
+Misopates orontium
+Misopates orontium subsp. orontium
+Mitella diphylla
+Mitella nuda
+Mnium hornum
+Mnium lycopodioides
+Mnium marginatum
+Mnium spinulosum
+Mnium stellare
+Mnium thomsonii
+Moehringia lateriflora
+Moehringia macrophylla
+Molendoa sendtneriana
+Molinia
+Molinia caerulea
+Mollugo verticillata
+Moneses uniflora
+Monotropa hypopitys
+Monotropa uniflora
+Montia fontana
+Morus alba
+Morus rubra
+Muhlenbergia
+Muhlenbergia asperifolia
+Muhlenbergia diversiglumis
+Muhlenbergia frondosa
+Muhlenbergia glabrifloris
+Muhlenbergia glomerata
+Muhlenbergia mexicana
+Muhlenbergia racemosa
+Muhlenbergia richardsonis
+Muhlenbergia schreberi
+Muhlenbergia sericea
+Muhlenbergia sobolifera
+Muhlenbergia sylvatica
+Muhlenbergia tenuiflora
+Muhlenbergia uniflora
+Muhlenbergia ×curtisetosa
+Mulgedium pulchellum
+Muscari botryoides
+Mycelis muralis
+Myosoton aquaticum
+Myosurus minimus
+Myrica gale
+Myrica pensylvanica
+Myrinia pulvinata
+Myurella julacea
+Myurella sibirica
+Myurella tenerrima
+Najas flexilis
+Najas gracillima
+Najas guadalupensis
+Najas guadalupensis subsp. guadalupensis
+Najas guadalupensis subsp. olivacea
+Narcissus poeticus
+Narcissus pseudonarcissus
+Nardus
+Nardus stricta
+Nasturtium microphyllum
+Nasturtium officinale
+Neckera complanata
+Neckera pennata
+Nelumbo lutea
+Neomacounia
+Neomacounia nitida
+Neslia paniculata
+Nigella damascena
+Niphotrichum canescens subsp. canescens
+Niphotrichum elongatum
+Niphotrichum ericoides
+Nuphar advena
+Nuphar microphylla
+Nuphar rubrodisca
+Nuphar variegata
+Nuttallanthus canadensis
+Nymphaea leibergii
+Nymphaea odorata
+Nymphaea odorata subsp. odorata
+Nymphaea odorata subsp. tuberosa
+Nyssa sylvatica
+Oclemena acuminata
+Oclemena nemoralis
+Oclemena ×blakei
+Odontites vulgaris
+Omalotheca sylvatica
+Oncophorus virens
+Oncophorus wahlenbergii
+Onoclea sensibilis
+Onopordum acanthium
+Onopordum acanthium subsp. acanthium
+Ophioglossum pusillum
+Opuntia fragilis
+Opuntia humifusa
+Opuntia humifusa var. humifusa
+Ornithogalum nutans
+Ornithogalum umbellatum
+Orobanche fasciculata
+Orobanche uniflora
+Orobanche uniflora subsp. uniflora
+Orthilia secunda
+Orthocarpus luteus
+Orthothecium chryseum var. chryseum
+Orthotrichum alpestre
+Orthotrichum anomalum
+Orthotrichum cupulatum
+Orthotrichum elegans
+Orthotrichum lescurii
+Orthotrichum obtusifolium
+Orthotrichum ohioense
+Orthotrichum pallens var. pallens
+Orthotrichum pumilum
+Orthotrichum rupestre
+Orthotrichum sordidum
+Orthotrichum stellatum
+Orthotrichum strangulatum
+Oryzopsis
+Oryzopsis asperifolia
+Osmunda cinnamomea
+Osmunda claytoniana
+Osmunda regalis
+Osmunda regalis var. spectabilis
+Ostrya virginiana
+Oxalis corniculata
+Oxalis dillenii
+Oxalis montana
+Oxalis stricta
+Oxyrrhynchium hians
+Packera aurea
+Packera indecora
+Packera obovata
+Packera pauciflora
+Packera paupercula
+Packera plattensis
+Paludella squarrosa
+Palustriella falcata
+Panicum
+Panicum capillare
+Panicum capillare subsp. capillare
+Panicum capillare subsp. hillmanii
+Panicum dichotomiflorum
+Panicum dichotomiflorum subsp. bartowense
+Panicum dichotomiflorum subsp. dichotomiflorum
+Panicum dichotomiflorum subsp. puritanorum
+Panicum flexile
+Panicum gymnocarpon
+Panicum miliaceum
+Panicum miliaceum subsp. miliaceum
+Panicum miliaceum subsp. ruderale
+Panicum philadelphicum
+Panicum philadelphicum subsp. gattingeri
+Panicum philadelphicum subsp. lithophilum
+Panicum philadelphicum subsp. philadelphicum
+Panicum plenum
+Panicum rigidulum
+Panicum rigidulum subsp. abscissum
+Panicum rigidulum subsp. combsii
+Panicum rigidulum subsp. elongatum
+Panicum rigidulum subsp. pubescens
+Panicum rigidulum subsp. rigidulum
+Panicum sect. Agrostoidea
+Panicum sect. Antidotalia
+Panicum sect. Bulbosa
+Panicum sect. Dichotomiflora
+Panicum sect. Hemitonia
+Panicum sect. Monticola
+Panicum sect. Obtusa
+Panicum sect. Panicum
+Panicum sect. Phanopyrum
+Panicum sect. Repentia
+Panicum sect. Tenera
+Panicum sect. Urvilleana
+Panicum sect. Verrucosa
+Panicum subg. Agrostoidea
+Panicum subg. Panicum
+Panicum subg. Phanopyrum
+Panicum virgatum
+Papaver dubium
+Papaver orientale
+Papaver rhoeas
+Papaver somniferum
+Paraleucobryum longifolium
+Parietaria pensylvanica
+Parnassia glauca
+Parnassia kotzebuei
+Parnassia palustris
+Parnassia parviflora
+Paronychia canadensis
+Paronychia fastigiata var. fastigiata
+Parthenocissus quinquefolia
+Parthenocissus tricuspidata
+Parthenocissus vitacea
+Pascopyrum
+Pascopyrum smithii
+Paspalum
+Paspalum lividum
+Paspalum racemosum
+Paspalum repens
+Paspalum setaceum
+Paspalum setaceum var. ciliatifolium
+Paspalum setaceum var. longepedunculatum
+Paspalum setaceum var. muhlenbergii
+Paspalum setaceum var. psammophilum
+Paspalum setaceum var. rigidifolium
+Paspalum setaceum var. setaceum
+Paspalum setaceum var. stramineum
+Paspalum setaceum var. supinum
+Paspalum setaceum var. villosissimum
+Pedicularis canadensis
+Pedicularis flammea
+Pedicularis groenlandica
+Pedicularis labradorica
+Pedicularis lanceolata
+Pedicularis lapponica
+Pedicularis parviflora
+Pedicularis sudetica
+Pedicularis sudetica subsp. interior
+Pellaea atropurpurea
+Pellaea glabella
+Pellaea glabella subsp. glabella
+Peltandra virginica
+Penstemon albidus
+Penstemon calycosus
+Penstemon digitalis
+Penstemon gracilis
+Penstemon hirsutus
+Penstemon pallidus
+Penstemon tubaeflorus
+Penthorum sedoides
+Peritoma serrulata
+Persicaria amphibia
+Persicaria arifolia
+Persicaria careyi
+Persicaria hydropiper
+Persicaria hydropiperoides
+Persicaria lapathifolia
+Persicaria longiseta
+Persicaria maculosa
+Persicaria minor
+Persicaria orientalis
+Persicaria pensylvanica
+Persicaria punctata
+Persicaria robustior
+Persicaria sagittata
+Persicaria virginiana
+Petasites frigidus
+Petasites frigidus var. palmatus
+Petasites frigidus var. sagittatus
+Petasites frigidus var. ×vitifolius
+Petrorhagia saxifraga var. saxifraga
+Phalaris
+Phalaris arundinacea
+Phalaris canariensis
+Phedimus aizoon
+Phedimus hybridus
+Phedimus spurius
+Phegopteris connectilis
+Phegopteris hexagonoptera
+Philadelphus coronarius
+Philadelphus inodorus
+Philadelphus pubescens
+Philonotis fontana var. americana
+Philonotis fontana var. fontana
+Philonotis fontana var. pumila
+Philonotis yezoana
+Phippsia
+Phippsia algida
+Phleum
+Phleum alpinum
+Phleum phleoides
+Phleum pratense
+Phragmites
+Phragmites australis
+Phryma leptostachya
+Phryma leptostachya var. leptostachya
+Phyllodoce caerulea
+Physcomitrella patens
+Physcomitrium hookeri
+Physcomitrium immersum
+Physcomitrium pyriforme
+Physocarpus intermedius
+Physocarpus opulifolius
+Phytolacca americana
+Phytolacca americana var. americana
+Picea glauca
+Picea mariana
+Picea rubens
+Picris hieracioides
+Pilea fontana
+Pilea pumila
+Pinus banksiana
+Pinus resinosa
+Pinus rigida
+Pinus strobus
+Piperia unalascensis
+Piptochaetium
+Piptochaetium avenaceum
+Piptochaetium setosum
+Plagiomnium ciliare
+Plagiomnium cuspidatum
+Plagiomnium drummondii
+Plagiomnium ellipticum
+Plagiomnium medium
+Plagiomnium rostratum
+Plagiopus oederianus
+Plagiothecium cavifolium
+Plagiothecium denticulatum
+Plagiothecium laetum
+Plagiothecium latebricola
+Plantago aristata
+Plantago cordata
+Plantago indica
+Plantago lanceolata
+Plantago major
+Plantago maritima
+Plantago media
+Plantago rugelii
+Plantago virginica
+Platanthera aquilonis
+Platanthera blephariglottis var. blephariglottis
+Platanthera ciliaris
+Platanthera clavellata
+Platanthera dilatata var. dilatata
+Platanthera flava var. flava
+Platanthera flava var. herbiola
+Platanthera grandiflora
+Platanthera hookeri
+Platanthera huronensis
+Platanthera lacera
+Platanthera leucophaea
+Platanthera macrophylla
+Platanthera obtusata
+Platanthera orbiculata
+Platanthera psycodes
+Platanus occidentalis
+Platydictya confervoides
+Platydictya jungermannioides
+Platydictya subtilis
+Platygyrium repens
+Platylomella lescurii
+Pleuridium subulatum
+Pleuropogon
+Pleuropogon sabinei
+Pleurozium schreberi
+Pluchea odorata
+Pluchea odorata var. succulenta
+Poa
+Poa alpina
+Poa alpina subsp. alpina
+Poa alpina subsp. vivipara
+Poa alsodes
+Poa annua
+Poa arctica
+Poa arctica subsp. aperta
+Poa arctica subsp. arctica
+Poa arctica subsp. caespitans
+Poa arctica subsp. grayana
+Poa arctica subsp. lanata
+Poa arida
+Poa chaixii
+Poa compressa
+Poa diaboli
+Poa eminens
+Poa glauca
+Poa glauca subsp. glauca
+Poa glauca subsp. rupicola
+Poa glauca var. pekulnejensis
+Poa interior
+Poa laxa
+Poa laxa subsp. banffiana
+Poa laxa subsp. fernaldiana
+Poa nemoralis
+Poa palustris
+Poa pratensis
+Poa pratensis subsp. agassizensis
+Poa pratensis subsp. alpigena
+Poa pratensis subsp. angustifolia
+Poa pratensis subsp. colpodea
+Poa pratensis subsp. irrigata
+Poa pratensis subsp. pratensis
+Poa saltuensis
+Poa saltuensis subsp. languida
+Poa saltuensis subsp. saltuensis
+Poa sect. Abbreviatae
+Poa sect. Alpinae
+Poa sect. Arctopoa
+Poa sect. Arenariae
+Poa sect. Dioicopoa
+Poa sect. Homalopoa
+Poa sect. Madropoa
+Poa sect. Micrantherae
+Poa sect. Oreinos
+Poa sect. Pandemos
+Poa sect. Poa
+Poa sect. Secundae
+Poa sect. Stenopoa
+Poa sect. Sylvestres
+Poa sect. Tichopoa
+Poa secunda
+Poa secunda subsp. juncifolia
+Poa secunda subsp. secunda
+Poa subg. Arctopoa
+Poa subg. Poa
+Poa sublanata
+Poa subsect. Epiles
+Poa subsect. Halophytae
+Poa subsect. Madropoa
+Poa subsect. Poa
+Poa subsect. Secundae
+Poa supina
+Poa sylvestris
+Poa trivialis
+Poa ×gaspensis
+Podophyllum peltatum
+Podostemum ceratophyllum
+Pogonatum pensilvanicum
+Pogonatum urnigerum
+Pogonia ophioglossoides
+Pohlia andalusica
+Pohlia annotina
+Pohlia atropurpurea
+Pohlia bulbifera
+Pohlia cruda
+Pohlia drummondii
+Pohlia elongata
+Pohlia longicolla
+Pohlia ludwigii
+Pohlia melanodon
+Pohlia nutans
+Pohlia obtusifolia
+Pohlia proligera
+Pohlia wahlenbergii
+Polanisia dodecandra
+Polanisia dodecandra subsp. dodecandra
+Polanisia dodecandra subsp. trachysperma
+Polycnemum majus
+Polygonatum biflorum
+Polygonatum pubescens
+Polygonella articulata
+Polygonum achoreum
+Polygonum aviculare
+Polygonum aviculare subsp. aviculare
+Polygonum aviculare subsp. buxiforme
+Polygonum aviculare subsp. depressum
+Polygonum aviculare subsp. neglectum
+Polygonum douglasii
+Polygonum erectum
+Polygonum fowleri
+Polygonum fowleri subsp. fowleri
+Polygonum fowleri subsp. hudsonianum
+Polygonum ramosissimum
+Polygonum ramosissimum subsp. prolificum
+Polygonum ramosissimum subsp. ramosissimum
+Polygonum tenue
+Polymnia canadensis
+Polypodium appalachianum
+Polypodium sibiricum
+Polypodium virginianum
+Polypogon
+Polypogon monspeliensis
+Polystichum acrostichoides
+Polystichum braunii
+Polystichum lonchitis
+Polytrichastrum alpinum var. alpinum
+Polytrichastrum formosum var. densifolium
+Polytrichastrum formosum var. formosum
+Polytrichastrum longisetum
+Polytrichastrum ohioense
+Polytrichastrum pallidisetum
+Polytrichum commune var. commune
+Polytrichum commune var. perigoniale
+Polytrichum juniperinum
+Polytrichum piliferum
+Polytrichum strictum
+Pontederia cordata
+Populus balsamifera
+Populus deltoides
+Populus deltoides subsp. deltoides
+Populus deltoides subsp. monilifera
+Populus grandidentata
+Populus heterophylla
+Populus tremuloides
+Portulaca grandiflora
+Portulaca oleracea
+Potamogeton alpinus
+Potamogeton amplifolius
+Potamogeton bicupulatus
+Potamogeton confervoides
+Potamogeton crispus
+Potamogeton epihydrus
+Potamogeton foliosus
+Potamogeton foliosus subsp. foliosus
+Potamogeton friesii
+Potamogeton gramineus
+Potamogeton hillii
+Potamogeton illinoensis
+Potamogeton natans
+Potamogeton nodosus
+Potamogeton oakesianus
+Potamogeton obtusifolius
+Potamogeton ogdenii
+Potamogeton perfoliatus
+Potamogeton praelongus
+Potamogeton pulcher
+Potamogeton pusillus
+Potamogeton pusillus subsp. pusillus
+Potamogeton pusillus subsp. tenuissimus
+Potamogeton richardsonii
+Potamogeton robbinsii
+Potamogeton spirillus
+Potamogeton strictifolius
+Potamogeton subsibiricus
+Potamogeton vaseyi
+Potamogeton zosteriformis
+Potentilla anserina
+Potentilla anserina subsp. anserina
+Potentilla anserina subsp. groenlandica
+Potentilla argentea
+Potentilla bimundorum
+Potentilla bipinnatifida
+Potentilla canadensis
+Potentilla crantzii
+Potentilla gracilis
+Potentilla gracilis var. fastigiata
+Potentilla gracilis var. flabelliformis
+Potentilla hippiana
+Potentilla inclinata
+Potentilla intermedia
+Potentilla litoralis
+Potentilla norvegica
+Potentilla pensylvanica
+Potentilla pulchella
+Potentilla pulcherrima
+Potentilla recta
+Potentilla reptans
+Potentilla rivalis
+Potentilla simplex
+Potentilla supina
+Potentilla supina subsp. paradoxa
+Potentilla verna
+Poteridium annuum
+Poterium sanguisorba
+Poterium sanguisorba var. polygamum
+Prenanthes alba
+Prenanthes altissima
+Prenanthes racemosa
+Prenanthes trifoliolata
+Primula egaliksensis
+Primula incana
+Primula laurentiana
+Primula mistassinica
+Primula stricta
+Primula veris
+Prosartes lanuginosa
+Prosartes trachycarpa
+Prunus americana
+Prunus avium
+Prunus cerasifera
+Prunus cerasus
+Prunus domestica
+Prunus glandulosa
+Prunus mahaleb
+Prunus nigra
+Prunus padus
+Prunus pensylvanica
+Prunus persica
+Prunus pumila
+Prunus pumila var. besseyi
+Prunus pumila var. depressa
+Prunus pumila var. pumila
+Prunus pumila var. susquehanae
+Prunus serotina
+Prunus serotina var. serotina
+Prunus spinosa
+Prunus tomentosa
+Prunus virginiana
+Prunus virginiana var. virginiana
+Pseudobryum cinclidioides
+Pseudocalliergon trifarium
+Pseudocalliergon turgescens
+Pseudocampylium radicale
+Pseudognaphalium macounii
+Pseudognaphalium obtusifolium
+Pseudoleskeella rupestris
+Pseudoleskeella tectorum
+Pseudotaxiphyllum distichaceum
+Pseudotaxiphyllum elegans
+Pteridium aquilinum
+Pteridium aquilinum var. latiusculum
+Pterigynandrum filiforme
+Pterospora andromedea
+Pterygoneurum ovatum
+Ptilium crista-castrensis
+Ptychostomum bimum
+Ptychostomum cernuum
+Ptychostomum creberrimum
+Ptychostomum inclinatum
+Ptychostomum intermedium
+Ptychostomum neodamense
+Ptychostomum pallens
+Ptychostomum pallescens
+Ptychostomum pendulum
+Ptychostomum pseudotriquetrum
+Ptychostomum subneodamense
+Ptychostomum weigelii
+Puccinellia
+Puccinellia distans
+Puccinellia fasciculata
+Puccinellia nutkaensis
+Puccinellia nuttalliana
+Puccinellia phryganodes
+Puccinellia pumila
+Puccinellia tenella
+Puccinellia vaginata
+Pylaisia intricata
+Pylaisia polyantha
+Pylaisia selwynii
+Pylaisiadelpha tenuirostris
+Pyracantha coccinea
+Pyrola americana
+Pyrola asarifolia
+Pyrola asarifolia subsp. asarifolia
+Pyrola chlorantha
+Pyrola elliptica
+Pyrola grandiflora
+Pyrola minor
+Pyrus communis
+Quercus alba
+Quercus bicolor
+Quercus ellipsoidalis
+Quercus macrocarpa
+Quercus muehlenbergii
+Quercus palustris
+Quercus prinoides
+Quercus rubra
+Quercus shumardii
+Quercus velutina
+Racomitrium lanuginosum
+Ranunculus abortivus
+Ranunculus acris
+Ranunculus aquatilis
+Ranunculus aquatilis var. diffusus
+Ranunculus bulbosus
+Ranunculus fascicularis
+Ranunculus ficaria
+Ranunculus flabellaris
+Ranunculus flammula
+Ranunculus flammula var. ovalis
+Ranunculus flammula var. reptans
+Ranunculus gmelinii
+Ranunculus hispidus
+Ranunculus hispidus var. caricetorum
+Ranunculus hispidus var. hispidus
+Ranunculus hispidus var. nitidus
+Ranunculus hyperboreus
+Ranunculus lapponicus
+Ranunculus macounii
+Ranunculus pallasii
+Ranunculus pedatifidus
+Ranunculus pedatifidus var. affinis
+Ranunculus pensylvanicus
+Ranunculus recurvatus
+Ranunculus recurvatus var. recurvatus
+Ranunculus repens
+Ranunculus rhomboideus
+Ranunculus sceleratus
+Ranunculus sceleratus var. multifidus
+Ranunculus sceleratus var. sceleratus
+Raphanus raphanistrum
+Raphanus sativus
+Rapistrum rugosum
+Ratibida columnifera
+Ratibida pinnata
+Rauiella scita
+Reseda alba
+Reseda lutea
+Rhabdoweisia crispata
+Rhamnus alnifolia
+Rhamnus cathartica
+Rheum rhabarbarum
+Rhinanthus minor
+Rhinanthus minor subsp. groenlandicus
+Rhinanthus minor subsp. minor
+Rhizomnium appalachianum
+Rhizomnium gracile
+Rhizomnium magnifolium
+Rhizomnium pseudopunctatum
+Rhizomnium punctatum
+Rhodobryum ontariense
+Rhododendron canadense
+Rhododendron groenlandicum
+Rhododendron lapponicum
+Rhododendron tomentosum
+Rhodotypos scandens
+Rhynchospora alba
+Rhynchospora capillacea
+Rhynchospora capitellata
+Rhynchospora fusca
+Rhynchostegium aquaticum
+Rhynchostegium serrulatum
+Rhytidiadelphus subpinnatus
+Rhytidiadelphus triquetrus
+Rhytidium rugosum
+Ribes americanum
+Ribes aureum
+Ribes aureum var. aureum
+Ribes aureum var. villosum
+Ribes cynosbati
+Ribes glandulosum
+Ribes hirtellum
+Ribes hudsonianum
+Ribes lacustre
+Ribes missouriense
+Ribes nigrum
+Ribes oxyacanthoides
+Ribes oxyacanthoides var. oxyacanthoides
+Ribes oxyacanthoides var. setosum
+Ribes rubrum
+Ribes triste
+Ribes uva-crispa
+Rorippa aquatica
+Rorippa palustris
+Rorippa palustris subsp. hispida
+Rorippa palustris subsp. palustris
+Rorippa sinuata
+Rorippa sylvestris
+Rosa acicularis
+Rosa acicularis subsp. sayi
+Rosa arkansana
+Rosa blanda
+Rosa canina
+Rosa carolina
+Rosa carolina subsp. carolina
+Rosa carolina subsp. subserrulata
+Rosa cinnamomea
+Rosa gallica
+Rosa multiflora
+Rosa nitida
+Rosa palustris
+Rosa rubiginosa
+Rosa rubiginosa var. nemoralis
+Rosa rubiginosa var. rubiginosa
+Rosa rugosa
+Rosa setigera
+Rosa spinosissima
+Rosa virginiana
+Rosa woodsii
+Rosa woodsii subsp. woodsii
+Rosulabryum capillare
+Rosulabryum flaccidum
+Rosulabryum laevifilum
+Rubus allegheniensis
+Rubus arcticus
+Rubus arcticus subsp. acaulis
+Rubus bifrons
+Rubus caesius
+Rubus canadensis
+Rubus chamaemorus
+Rubus flagellaris
+Rubus hispidus
+Rubus idaeus
+Rubus idaeus subsp. idaeus
+Rubus idaeus subsp. strigosus
+Rubus illecebrosus
+Rubus laciniatus
+Rubus nutkanus
+Rubus occidentalis
+Rubus odoratus
+Rubus parviflorus
+Rubus pensilvanicus
+Rubus pubescens
+Rubus repens
+Rubus setosus
+Rudbeckia fulgida
+Rudbeckia fulgida var. speciosa
+Rudbeckia hirta
+Rudbeckia hirta var. pulcherrima
+Rudbeckia laciniata
+Rudbeckia laciniata var. laciniata
+Rudbeckia triloba
+Rudbeckia triloba var. triloba
+Rumex acetosa
+Rumex acetosella
+Rumex altissimus
+Rumex britannica
+Rumex crispus
+Rumex dentatus
+Rumex fueginus
+Rumex longifolius
+Rumex obtusifolius
+Rumex occidentalis
+Rumex pallidus
+Rumex patientia
+Rumex pseudonatronatus
+Rumex sanguineus
+Rumex stenophyllus
+Rumex thyrsiflorus
+Rumex triangulivalvis
+Rumex verticillatus
+Ruppia maritima
+Saelania glaucescens
+Sagina japonica
+Sagina nodosa
+Sagina nodosa subsp. borealis
+Sagina procumbens
+Sagittaria cristata
+Sagittaria cuneata
+Sagittaria engelmanniana
+Sagittaria graminea
+Sagittaria graminea subsp. graminea
+Sagittaria latifolia
+Sagittaria rigida
+Salicornia maritima
+Salicornia rubra
+Salix alba
+Salix amygdaloides
+Salix arbusculoides
+Salix arctica
+Salix arctophila
+Salix atrocinerea
+Salix ballii
+Salix bebbiana
+Salix brachycarpa
+Salix brachycarpa var. brachycarpa
+Salix calcicola
+Salix calcicola var. calcicola
+Salix candida
+Salix caprea
+Salix cinerea
+Salix cordata
+Salix daphnoides
+Salix discolor
+Salix elaeagnos
+Salix eriocephala
+Salix euxina
+Salix famelica
+Salix glauca
+Salix glauca var. cordifolia
+Salix humilis
+Salix humilis var. humilis
+Salix interior
+Salix lucida
+Salix maccalliana
+Salix myricoides
+Salix myrsinifolia
+Salix myrtillifolia
+Salix nigra
+Salix pedicellaris
+Salix pellita
+Salix pentandra
+Salix petiolaris
+Salix planifolia
+Salix pseudomonticola
+Salix pseudomyrsinites
+Salix purpurea
+Salix pyrifolia
+Salix reticulata
+Salix sect. Nigricantes
+Salix triandra
+Salix vestita
+Salix viminalis
+Salix ×fragilis
+Salix ×jesupii
+Salix ×pendulina
+Salix ×sepulcralis
+Salsola collina
+Salsola tragus
+Samolus parviflorus
+Sanguinaria canadensis
+Sanionia uncinata
+Saponaria officinalis
+Sarmentypnum exannulatum
+Sarmentypnum sarmentosum
+Sarmentypnum tundrae
+Sarracenia purpurea
+Sarracenia purpurea subsp. purpurea
+Sassafras albidum
+Saururus cernuus
+Saxifraga aizoides
+Saxifraga cernua
+Saxifraga cespitosa
+Saxifraga hirculus
+Saxifraga oppositifolia
+Saxifraga oppositifolia subsp. oppositifolia
+Saxifraga paniculata
+Saxifraga tricuspidata
+Schedonorus
+Schedonorus arundinaceus
+Schedonorus giganteus
+Schedonorus pratensis
+Scheuchzeria palustris
+Schistidium agassizii
+Schistidium apocarpum
+Schistidium boreale
+Schistidium dupretii
+Schistidium frigidum
+Schistidium papillosum
+Schistidium pulchrum
+Schistidium rivulare
+Schistidium robustum
+Schistostega pennata
+Schizachne
+Schizachne purpurascens
+Schizachyrium
+Schizachyrium scoparium
+Schizachyrium scoparium var. scoparium
+Schoenoplectus acutus
+Schoenoplectus acutus var. acutus
+Schoenoplectus heterochaetus
+Schoenoplectus pungens
+Schoenoplectus purshianus
+Schoenoplectus purshianus var. purshianus
+Schoenoplectus smithii
+Schoenoplectus smithii var. setosus
+Schoenoplectus smithii var. smithii
+Schoenoplectus subterminalis
+Schoenoplectus tabernaemontani
+Schoenoplectus torreyi
+Scilla siberica
+Scirpus atrocinctus
+Scirpus atrovirens
+Scirpus cyperinus
+Scirpus expansus
+Scirpus georgianus
+Scirpus hattorianus
+Scirpus microcarpus
+Scirpus pallidus
+Scirpus pedicellatus
+Scirpus pendulus
+Sciuro-hypnum curtum
+Sciuro-hypnum plumosum
+Sciuro-hypnum populeum
+Sciuro-hypnum reflexum
+Sciuro-hypnum starkei
+Scleranthus annuus subsp. annuus
+Scleria pauciflora
+Scleria pauciflora var. pauciflora
+Scleria triglomerata
+Scleria verticillata
+Sclerochloa
+Sclerochloa dura
+Scorpidium cossonii
+Scorpidium revolvens
+Scorpidium scorpioides
+Scrophularia lanceolata
+Scrophularia marilandica
+Secale
+Secale cereale
+Secale strictum
+Sedum acre
+Sedum album
+Sedum hispanicum
+Sedum sarmentosum
+Sedum sexangulare
+Sedum ternatum
+Selaginella densa
+Selaginella eclipes
+Selaginella rupestris
+Selaginella selaginoides
+Seligeria calcarea
+Seligeria campylopoda
+Seligeria donniana
+Seligeria recurvata
+Senecio eremophilus
+Senecio eremophilus var. eremophilus
+Senecio jacobaea
+Senecio viscosus
+Senecio vulgaris
+Setaria
+Setaria adhaerans
+Setaria chapmanii
+Setaria faberi
+Setaria italica
+Setaria pumila
+Setaria pumila subsp. pallidefusca
+Setaria pumila subsp. pumila
+Setaria subg. Paurochaetium
+Setaria subg. Ptychophyllum
+Setaria subg. Reverchoniae
+Setaria subg. Setaria
+Setaria verticillata
+Setaria viridis
+Setaria viridis var. viridis
+Sibbaldiopsis tridentata
+Sicyos angulatus
+Sida hermaphrodita
+Sida spinosa
+Silene acaulis
+Silene antirrhina
+Silene armeria
+Silene chalcedonica
+Silene coronaria
+Silene csereii
+Silene dichotoma subsp. dichotoma
+Silene dioica
+Silene flos-cuculi subsp. flos-cuculi
+Silene gallica
+Silene involucrata subsp. involucrata
+Silene involucrata subsp. tenella
+Silene latifolia
+Silene noctiflora
+Silene uralensis subsp. ogilviensis
+Silene uralensis subsp. uralensis
+Silene vulgaris
+Silphium integrifolium
+Silphium integrifolium var. laeve
+Silphium laciniatum
+Silphium perfoliatum
+Silphium perfoliatum var. perfoliatum
+Silphium terebinthinaceum
+Silphium terebinthinaceum var. terebinthinaceum
+Silybum marianum
+Sinapis alba
+Sinapis arvensis
+Sisymbrium altissimum
+Sisymbrium officinale
+Sisyrinchium albidum
+Sisyrinchium angustifolium
+Sisyrinchium montanum var. crebrum
+Sisyrinchium montanum var. montanum
+Sisyrinchium mucronatum
+Smilax ecirrata
+Smilax herbacea
+Smilax illinoensis
+Smilax lasioneura
+Smilax rotundifolia
+Smilax tamnoides
+Solidago altissima
+Solidago altissima subsp. altissima
+Solidago altissima subsp. gilvocanescens
+Solidago arguta
+Solidago arguta var. arguta
+Solidago bicolor
+Solidago caesia
+Solidago caesia var. caesia
+Solidago canadensis
+Solidago canadensis var. canadensis
+Solidago canadensis var. hargeri
+Solidago flexicaulis
+Solidago gigantea
+Solidago hispida
+Solidago houghtonii
+Solidago juncea
+Solidago lepida
+Solidago lepida var. lepida
+Solidago macrophylla
+Solidago missouriensis
+Solidago multiradiata
+Solidago nemoralis
+Solidago nemoralis subsp. decemflora
+Solidago nemoralis subsp. nemoralis
+Solidago ohioensis
+Solidago ptarmicoides
+Solidago puberula
+Solidago puberula subsp. puberula
+Solidago riddellii
+Solidago rigida
+Solidago rigida subsp. humilis
+Solidago rigida subsp. rigida
+Solidago rugosa
+Solidago rugosa var. aspera
+Solidago rugosa var. rugosa
+Solidago sempervirens
+Solidago sempervirens subsp. sempervirens
+Solidago simplex
+Solidago simplex var. gillmanii
+Solidago simplex var. ontarioensis
+Solidago simplex var. simplex
+Solidago speciosa
+Solidago speciosa var. rigidiuscula
+Solidago squarrosa
+Solidago uliginosa
+Solidago ulmifolia
+Solidago ulmifolia var. ulmifolia
+Sonchus arvensis
+Sonchus arvensis subsp. arvensis
+Sonchus arvensis subsp. uliginosus
+Sonchus asper
+Sonchus oleraceus
+Sonchus palustris
+Sorbaria sorbifolia
+Sorbus americana
+Sorbus aucuparia
+Sorbus decora
+Sorbus intermedia
+Sorghastrum
+Sorghastrum nutans
+Sorghum
+Sorghum bicolor
+Sorghum bicolor subsp. arundinaceum
+Sorghum bicolor subsp. bicolor
+Sorghum bicolor subsp. ×drummondii
+Sorghum halepense
+Sparganium americanum
+Sparganium androcladum
+Sparganium angustifolium
+Sparganium emersum
+Sparganium eurycarpum
+Sparganium fluctuans
+Sparganium glomeratum
+Sparganium hyperboreum
+Sparganium natans
+Spartina
+Spartina patens
+Spartina pectinata
+Spergula arvensis
+Spergularia canadensis
+Spergularia canadensis var. canadensis
+Spergularia media var. media
+Spergularia rubra
+Spergularia salina
+Sphagnum angustifolium
+Sphagnum annulatum
+Sphagnum balticum
+Sphagnum capillifolium
+Sphagnum centrale
+Sphagnum compactum
+Sphagnum contortum
+Sphagnum cuspidatum
+Sphagnum fallax
+Sphagnum fimbriatum subsp. fimbriatum
+Sphagnum flexuosum
+Sphagnum fuscum
+Sphagnum girgensohnii
+Sphagnum jensenii
+Sphagnum lindbergii
+Sphagnum magellanicum
+Sphagnum majus subsp. majus
+Sphagnum majus subsp. norvegicum
+Sphagnum obtusum
+Sphagnum palustre
+Sphagnum papillosum
+Sphagnum platyphyllum
+Sphagnum pulchrum
+Sphagnum quinquefarium
+Sphagnum riparium
+Sphagnum rubellum
+Sphagnum russowii
+Sphagnum squarrosum
+Sphagnum subfulvum
+Sphagnum subsecundum
+Sphagnum subtile
+Sphagnum teres
+Sphagnum warnstorfii
+Sphagnum wulfianum
+Sphenopholis
+Sphenopholis intermedia
+Sphenopholis nitida
+Sphenopholis obtusata
+Spiraea alba
+Spiraea alba var. alba
+Spiraea alba var. latifolia
+Spiraea chamaedryfolia
+Spiraea corymbosa
+Spiraea japonica
+Spiraea prunifolia
+Spiraea salicifolia
+Spiraea thunbergii
+Spiraea tomentosa
+Spiraea tomentosa var. rosea
+Spiraea tomentosa var. tomentosa
+Spiraea ×vanhouttei
+Spiranthes casei var. casei
+Spiranthes cernua
+Spiranthes lacera var. gracilis
+Spiranthes lacera var. lacera
+Spiranthes lucida
+Spiranthes magnicamporum
+Spiranthes ochroleuca
+Spiranthes ovalis var. erostellata
+Spiranthes romanzoffiana
+Spirodela polyrrhiza
+Splachnum ampullaceum
+Splachnum luteum
+Splachnum rubrum
+Splachnum sphaericum
+Sporobolus
+Sporobolus coahuilensis
+Sporobolus compositus
+Sporobolus compositus var. compositus
+Sporobolus cryptandrus
+Sporobolus heterolepis
+Sporobolus jacquemontii
+Sporobolus neglectus
+Sporobolus vaginiflorus
+Sporobolus vaginiflorus var. ozarkanus
+Sporobolus vaginiflorus var. vaginiflorus
+Staphylea trifolia
+Stellaria borealis
+Stellaria borealis subsp. borealis
+Stellaria crassifolia
+Stellaria graminea
+Stellaria humifusa
+Stellaria longifolia
+Stellaria longipes
+Stellaria longipes subsp. longipes
+Stellaria media
+Stellaria pallida
+Straminergon stramineum
+Streptopus amplexifolius
+Streptopus lanceolatus
+Stuckenia filiformis
+Stuckenia filiformis subsp. alpina
+Stuckenia filiformis subsp. occidentalis
+Stuckenia pectinata
+Stuckenia vaginata
+Stylophorum diphyllum
+Suaeda calceoliformis
+Subularia aquatica
+Subularia aquatica subsp. americana
+Symphyotrichum boreale
+Symphyotrichum ciliatum
+Symphyotrichum ciliolatum
+Symphyotrichum cordifolium
+Symphyotrichum dumosum
+Symphyotrichum ericoides
+Symphyotrichum ericoides var. ericoides
+Symphyotrichum ericoides var. pansum
+Symphyotrichum falcatum
+Symphyotrichum falcatum var. commutatum
+Symphyotrichum firmum
+Symphyotrichum laeve
+Symphyotrichum laeve var. geyeri
+Symphyotrichum laeve var. laeve
+Symphyotrichum lanceolatum
+Symphyotrichum lanceolatum var. hesperium
+Symphyotrichum lanceolatum var. hirsuticaule
+Symphyotrichum lanceolatum var. interior
+Symphyotrichum lanceolatum var. lanceolatum
+Symphyotrichum lanceolatum var. latifolium
+Symphyotrichum lateriflorum
+Symphyotrichum novae-angliae
+Symphyotrichum ontarionis
+Symphyotrichum ontarionis var. glabratum
+Symphyotrichum ontarionis var. ontarionis
+Symphyotrichum oolentangiense
+Symphyotrichum pilosum
+Symphyotrichum pilosum var. pilosum
+Symphyotrichum pilosum var. pringlei
+Symphyotrichum praealtum
+Symphyotrichum prenanthoides
+Symphyotrichum puniceum
+Symphyotrichum puniceum var. puniceum
+Symphyotrichum racemosum
+Symphyotrichum robynsianum
+Symphyotrichum sericeum
+Symphyotrichum shortii
+Symphyotrichum subulatum
+Symphyotrichum subulatum var. subulatum
+Symphyotrichum undulatum
+Symphyotrichum urophyllum
+Symphyotrichum ×amethystinum
+Symplocarpus foetidus
+Syntrichia cainii
+Syntrichia norvegica
+Syntrichia papillosa
+Syntrichia ruralis
+Tanacetum balsamita
+Tanacetum bipinnatum
+Tanacetum parthenium
+Tanacetum vulgare
+Taraxacum ceratophorum
+Taraxacum erythrospermum
+Taraxacum officinale
+Taraxacum palustre
+Taxiphyllum deplanatum
+Taxus canadensis
+Tayloria acuminata
+Tayloria lingulata
+Tayloria serrata
+Tephroseris palustris
+Tetraneuris herbacea
+Tetraphis pellucida var. pellucida
+Tetraplodon angustatus
+Tetraplodon mnioides
+Thalictrum amphibolum
+Thalictrum confine
+Thalictrum dasycarpum
+Thalictrum dioicum
+Thalictrum pubescens
+Thalictrum sparsiflorum
+Thalictrum thalictroides
+Thalictrum venulosum
+Thamnobryum alleghaniense
+Thelia asprella
+Thelia hirtella
+Thelypteris noveboracensis
+Thelypteris palustris
+Thelypteris palustris var. pubescens
+Thelypteris simulata
+Thinopyrum
+Thinopyrum junceum
+Thinopyrum ponticum
+Thladiantha dubia
+Thlaspi arvense
+Thuidium delicatulum var. delicatulum
+Thuidium delicatulum var. radicans
+Thuidium recognitum
+Thuja occidentalis
+Thymelaea passerina
+Tiarella cordifolia
+Tilia americana
+Timmia megapolitana subsp. bavarica
+Timmia megapolitana subsp. megapolitana
+Tofieldia pusilla
+Tomentypnum falcifolium
+Tomentypnum nitens
+Torreyochloa
+Torreyochloa pallida
+Torreyochloa pallida var. fernaldii
+Torreyochloa pallida var. pallida
+Tortella fragilis
+Tortella humilis
+Tortella inclinata var. inclinata
+Tortella rigens
+Tortella tortuosa var. tortuosa
+Tortula acaulon
+Tortula cernua
+Tortula modica
+Tortula mucronifolia
+Tortula muralis
+Tortula nevadensis
+Tortula obtusifolia
+Tortula porteri
+Tortula truncata
+Tradescantia ohiensis
+Tradescantia virginiana
+Tragopogon dubius
+Tragopogon porrifolius
+Tragopogon pratensis
+Trematodon ambiguus
+Triadenum fraseri
+Triadenum virginicum
+Triantha glutinosa
+Tribulus terrestris
+Trichodon cylindricus var. cylindricus
+Trichophorum alpinum
+Trichophorum cespitosum
+Trichophorum clintonii
+Trichophorum planifolium
+Trichostomum arcticum
+Trichostomum crispulum
+Trichostomum spirale
+Trichostomum tenuirostre var. tenuirostre
+Tridens
+Tridens flavus
+Tridens flavus var. flavus
+Trientalis borealis
+Triglochin maritima
+Triglochin palustris
+Trillium cernuum
+Trillium erectum var. album
+Trillium erectum var. erectum
+Trillium flexipes
+Trillium grandiflorum
+Trillium undulatum
+Triphora trianthophoros subsp. trianthophoros
+Triplasis
+Triplasis purpurea
+Tripleurospermum inodorum
+Tripleurospermum maritimum
+Tripleurospermum maritimum subsp. phaeocephalum
+Trisetum
+Trisetum cernuum
+Trisetum flavescens
+Trisetum melicoides
+Trisetum spicatum
+Triticum
+Triticum aestivum
+Triticum boeoticum
+Triticum carthlicum
+Triticum dicoccoides
+Triticum dicoccum
+Triticum monococcum
+Triticum polonicum
+Triticum timopheevii
+Triticum turgidum
+Triticum urartu
+Tsuga canadensis
+Turritis glabra
+Tussilago farfara
+Typha angustifolia
+Typha latifolia
+Ulmus americana
+Ulmus procera
+Ulmus pumila
+Ulmus rubra
+Ulmus thomasii
+Ulota coarctata
+Ulota crispa
+Ulota curvifolia
+Ulota hutchinsiae var. hutchinsiae
+Urtica dioica
+Urtica dioica subsp. dioica
+Urtica dioica subsp. gracilis
+Urtica urens
+Uvularia grandiflora
+Uvularia perfoliata
+Uvularia sessilifolia
+Vaccaria hispanica
+Vaccinium angustifolium
+Vaccinium cespitosum
+Vaccinium corymbosum
+Vaccinium macrocarpon
+Vaccinium membranaceum
+Vaccinium myrtilloides
+Vaccinium ovalifolium
+Vaccinium oxycoccos
+Vaccinium pallidum
+Vaccinium stamineum
+Vaccinium uliginosum
+Vaccinium vitis-idaea
+Vahlodea
+Vahlodea atropurpurea
+Vallisneria americana
+Ventenata
+Ventenata dubia
+Verbascum blattaria
+Verbascum lychnitis
+Verbascum lychnitis subsp. lychnitis
+Verbascum nigrum
+Verbascum phlomoides
+Verbascum thapsus
+Verbascum thapsus subsp. thapsus
+Verbascum virgatum
+Verbesina alternifolia
+Vernonia gigantea
+Veronica americana
+Veronica anagallis-aquatica
+Veronica arvensis
+Veronica beccabunga
+Veronica beccabunga subsp. beccabunga
+Veronica catenata
+Veronica chamaedrys
+Veronica filiformis
+Veronica hederifolia
+Veronica longifolia
+Veronica officinalis
+Veronica peregrina
+Veronica persica
+Veronica polita
+Veronica scutellata
+Veronica serpyllifolia
+Veronica spicata
+Veronica teucrium
+Veronica verna
+Veronica wormskjoldii
+Veronica wormskjoldii subsp. wormskjoldii
+Veronicastrum virginicum
+Viola adunca
+Viola adunca var. adunca
+Viola affinis
+Viola arvensis
+Viola bicolor
+Viola blanda
+Viola canadensis
+Viola canadensis var. canadensis
+Viola canadensis var. rugulosa
+Viola cucullata
+Viola epipsila
+Viola epipsila var. repens
+Viola labradorica
+Viola lanceolata
+Viola macloskeyi
+Viola nephrophylla
+Viola novae-angliae
+Viola odorata
+Viola palmata
+Viola palmata var. palmata
+Viola palustris
+Viola pedata
+Viola pedata var. pedata
+Viola pedatifida
+Viola pubescens
+Viola pubescens var. pubescens
+Viola pubescens var. scabriuscula
+Viola renifolia
+Viola rostrata
+Viola rotundifolia
+Viola sagittata
+Viola sagittata var. ovata
+Viola sagittata var. sagittata
+Viola selkirkii
+Viola sororia
+Viola striata
+Viola subsinuata
+Viola tricolor
+Viola tricolor var. tricolor
+Vitis aestivalis
+Vitis labrusca
+Vitis riparia
+Vitis vulpina
+Vitis ×novae-angliae
+Vulpia
+Vulpia myuros
+Vulpia octoflora
+Vulpia octoflora var. glauca
+Vulpia octoflora var. octoflora
+Vulpia sciurea
+Waldsteinia fragarioides
+Warnstorfia fluitans
+Warnstorfia pseudostraminea
+Weissia brachycarpa
+Weissia controversa
+Weissia muhlenbergiana
+Wolffia borealis
+Wolffia columbiana
+Woodsia alpina
+Woodsia glabella
+Woodsia ilvensis
+Woodsia obtusa
+Woodsia obtusa subsp. obtusa
+Woodsia oregana
+Woodsia oregana subsp. cathcartiana
+Woodsia scopulina
+Woodsia scopulina subsp. laurentiana
+Woodwardia virginica
+Xanthium spinosum
+Xanthium strumarium
+Xyris difformis
+Xyris difformis var. difformis
+Xyris montana
+Yucca flaccida
+Zannichellia palustris
+Zea
+Zea diploperennis
+Zea luxurians
+Zea mays
+Zea mays subsp. huehuetenangensis
+Zea mays subsp. mays
+Zea mays subsp. mexicana
+Zea mays subsp. parviglumis
+Zigadenus elegans
+Zizania
+Zizania aquatica
+Zizania aquatica var. aquatica
+Zizania palustris
+Zizania palustris var. interior
+Zizania palustris var. palustris
+Zostera marina
+Zoysia
+Zoysia japonica
+Zoysia pacifica
+Zygodon viridissimus var. rupestris
+×elyhordeum
+×elyhordeum jordalii
+×elyhordeum macounii
+×elyleymus
+×elyleymus hirtiflorus
+×elyleymus hultenii
+×elyleymus jamesensis
+×elyleymus mossii
+×elyleymus ontariensis
+×elyleymus uclueletensis
+Abies bifolia
+Achnatherum
+Achnatherum arnowiae
+Achnatherum hymenoides
+Achnatherum nelsonii
+Achnatherum nelsonii subsp. dorei
+Achnatherum nelsonii subsp. nelsonii
+Achnatherum occidentale
+Achnatherum occidentale subsp. californicum
+Achnatherum occidentale subsp. occidentale
+Achnatherum occidentale subsp. pubescens
+Achnatherum richardsonii
+Achnatherum splendens
+Aconitum delphiniifolium
+Adiantum aleuticum
+Agoseris aurantiaca
+Agoseris aurantiaca var. aurantiaca
+Agoseris glauca var. dasycephala
+Agropyron fragile
+Agrostis exarata
+Agrostis variabilis
+Allium geyeri var. geyeri
+Allium geyeri var. tenerum
+Allium textile
+Almutaster pauciflorus
+Alnus incana subsp. tenuifolia
+Alnus viridis subsp. fruticosa
+Alnus viridis subsp. sinuata
+Alopecurus arundinaceus
+Alopecurus carolinianus
+Alyssum desertorum
+Amaranthus californicus
+Ambrosia acanthicarpa
+Amphiscirpus nevadensis
+Anagallis minima
+Androsace chamaejasme
+Androsace chamaejasme subsp. lehmanniana
+Anemone drummondii
+Anemone drummondii var. lithophila
+Anemone multifida var. saxicola
+Anemone occidentalis
+Anemone richardsonii
+Anomobryum julaceum
+Antennaria anaphaloides
+Antennaria aromatica
+Antennaria dimorpha
+Antennaria lanata
+Antennaria luzuloides
+Antennaria luzuloides subsp. luzuloides
+Antennaria media
+Antennaria monocephala
+Antennaria monocephala subsp. angustata
+Antennaria racemosa
+Antennaria rosea subsp. arida
+Antennaria rosea subsp. pulvinata
+Antennaria umbrinella
+Aongstroemia longipes
+Aquilegia flavescens
+Aquilegia formosa
+Aquilegia formosa var. formosa
+Aquilegia jonesii
+Arabidopsis lyrata subsp. kamchatica
+Arabis eschscholtziana
+Arabis nuttallii
+Arctoa fulvella
+Arenaria longipedunculata
+Aristida purpurea
+Aristida purpurea var. longiseta
+Arnica angustifolia subsp. tomentosa
+Arnica fulgens
+Arnica gracilis
+Arnica lanceolata
+Arnica lanceolata subsp. prima
+Arnica latifolia
+Arnica longifolia
+Arnica louiseana
+Arnica mollis
+Arnica ovata
+Arnica parryi
+Arnica rydbergii
+Arnica sororia
+Artemisia borealis
+Artemisia borealis subsp. borealis
+Artemisia campestris subsp. pacifica
+Artemisia cana
+Artemisia cana subsp. cana
+Artemisia furcata
+Artemisia longifolia
+Artemisia ludoviciana subsp. candicans
+Artemisia ludoviciana subsp. incompta
+Artemisia michauxiana
+Artemisia norvegica
+Artemisia norvegica subsp. saxatilis
+Artemisia tridentata
+Artemisia tridentata subsp. tridentata
+Aruncus dioicus var. acuminatus
+Athyrium distentifolium
+Athyrium distentifolium var. americanum
+Atrichum selwynii
+Atriplex argentea
+Atriplex argentea var. argentea
+Atriplex canescens
+Atriplex canescens var. canescens
+Atriplex gardneri
+Atriplex gardneri var. aptera
+Atriplex gardneri var. gardneri
+Atriplex glabriuscula
+Atriplex glabriuscula var. glabriuscula
+Atriplex powellii
+Atriplex powellii var. powellii
+Atriplex suckleyi
+Atriplex truncata
+Avenula hookeri
+Bacopa rotundifolia
+Balsamorhiza sagittata
+Barbula amplexifolia
+Barbula indica var. gregaria
+Bartramia halleriana
+Bartramia ithyphylla
+Bassia hyssopifolia
+Berberis repens
+Betula nana
+Betula nana subsp. exilis
+Bidens tripartita
+Bistorta bistortoides
+Boechera calderi
+Boechera collinsii
+Boechera drepanoloba
+Boechera lemmonii
+Boechera stricta
+Boschniakia rossica
+Botrychium lanceolatum subsp. lanceolatum
+Botrychium paradoxum
+Botrychium pedunculosum
+Botrychium pinnatum
+Brachytheciastrum collinum
+Brachytheciastrum fendleri
+Brachytheciastrum leibergii
+Brachythecium albicans
+Brachythecium asperrimum
+Brachythecium cirrosum
+Brachythecium coruscum
+Braya glabella
+Braya glabella subsp. glabella
+Braya humilis subsp. maccallae
+Braya humilis subsp. porsildii
+Briza minor
+Bromus anomalus
+Bromus lanceolatus
+Bromus vulgaris
+Bryobrittonia longipes
+Bryoerythrophyllum ferruginascens
+Bryum calobryoides
+Bryum lanatum
+Bucklandiella sudetica
+Buxbaumia piperi
+Buxbaumia viridis
+Calamagrostis montanensis
+Calamagrostis rubescens
+Calochortus apiculatus
+Caltha leptosepala
+Camassia quamash subsp. quamash
+Camelina alyssum
+Campylophyllum halleri
+Cardamine bellidifolia
+Cardamine umbellata
+Carex albonigra
+Carex aperta
+Carex athrostachya
+Carex atrosquama
+Carex concinnoides
+Carex cordillerana
+Carex deflexa var. boottii
+Carex douglasii
+Carex duriuscula
+Carex epapillosa
+Carex filifolia
+Carex filifolia var. filifolia
+Carex fuliginosa
+Carex geyeri
+Carex haydeniana
+Carex hoodii
+Carex illota
+Carex incurviformis
+Carex infirminervia
+Carex lachenalii
+Carex lapponica
+Carex lenticularis var. dolia
+Carex lenticularis var. lipocarpa
+Carex macloviana
+Carex mertensii
+Carex micropoda
+Carex microptera
+Carex nebrascensis
+Carex nigricans
+Carex pachystachya
+Carex paysonis
+Carex petasata
+Carex petricosa
+Carex petricosa var. petricosa
+Carex phaeocephala
+Carex podocarpa
+Carex preslii
+Carex raynoldsii
+Carex scopulorum
+Carex scopulorum var. bracteosa
+Carex simulata
+Carex spectabilis
+Carex tahoensis
+Carex torreyi
+Carthamus tinctorius
+Cassiope mertensiana
+Cassiope mertensiana subsp. mertensiana
+Cassiope tetragona
+Cassiope tetragona subsp. saximontana
+Cassiope tetragona subsp. tetragona
+Castilleja cusickii
+Castilleja hispida
+Castilleja hispida var. hispida
+Castilleja lutescens
+Castilleja miniata var. fulva
+Castilleja occidentalis
+Castilleja parviflora
+Castilleja parviflora var. parviflora
+Castilleja purpurascens
+Castilleja rhexiifolia
+Castilleja sessiliflora
+Ceanothus velutinus
+Ceanothus velutinus var. velutinus
+Chaenactis douglasii
+Chaenactis douglasii var. douglasii
+Cheilanthes feei
+Cheilanthes gracillima
+Chenopodium atrovirens
+Chenopodium desiccatum
+Chenopodium foliosum
+Chenopodium fremontii
+Chenopodium hians
+Chenopodium incanum
+Chenopodium incanum var. incanum
+Chenopodium leptophyllum
+Chenopodium rubrum var. humile
+Chenopodium subglabrum
+Chenopodium watsonii
+Chorispora tenella
+Chrysosplenium iowense
+Cinclidium subrotundum
+Cirsium foliosum
+Cirsium hookerianum
+Cirsium scariosum
+Cirsium scariosum var. scariosum
+Cirsium undulatum
+Claopodium bolanderi
+Claopodium crispifolium
+Claopodium whippleanum
+Claytonia lanceolata
+Claytonia megarhiza
+Clematis ligusticifolia
+Clematis occidentalis var. grosseserrata
+Clematis tangutica
+Clematis tangutica var. tangutica
+Clintonia uniflora
+Comandra umbellata subsp. pallida
+Conimitella williamsii
+Conostomum tetragonum
+Corallorhiza mertensiana
+Cornus unalaschkensis
+Coryphantha vivipara
+Coscinodon calyptratus
+Crataegus aquacervensis
+Crataegus castlegarensis
+Crataegus cupressocollina
+Crataegus rivuloadamensis
+Crataegus rivulopugnensis
+Crataegus rubribracteolata
+Crataegus sheridana
+Crataegus ursopedensis
+Crepis atribarba
+Crepis intermedia
+Crepis nana
+Crepis occidentalis
+Crepis occidentalis subsp. occidentalis
+Crepis runcinata
+Crepis runcinata subsp. glauca
+Crepis runcinata subsp. hispidulosa
+Crepis runcinata subsp. runcinata
+Cynodontium alpestre
+Cynodontium glaucescens
+Cynodontium strumulosum
+Cypripedium montanum
+Danthonia californica
+Danthonia parryi
+Danthonia unispicata
+Delphinium bicolor
+Delphinium bicolor subsp. bicolor
+Delphinium glaucum
+Deschampsia elongata
+Descurainia incisa
+Descurainia incisa subsp. incisa
+Dichanthelium wilcoxianum
+Dichodontium olympicum
+Dicranella palustris
+Dicranella subulata
+Dicranum pallidisetum
+Dicranum polysetum
+Dicranum tauricum
+Didymodon asperifolius
+Didymodon johansenii
+Didymodon rigidulus var. icmadophilus
+Didymodon subandreaeoides
+Didymodon vinealis var. vinealis
+Dieteria canescens
+Dieteria canescens var. canescens
+Diphasiastrum alpinum
+Discelium nudum
+Ditrichum montanum
+Dodecatheon conjugens
+Dodecatheon conjugens var. viscidum
+Dodecatheon pulchellum
+Dodecatheon pulchellum var. pulchellum
+Douglasia montana
+Draba albertina
+Draba borealis
+Draba crassifolia
+Draba densifolia
+Draba incerta
+Draba juvenilis
+Draba lonchocarpa
+Draba macounii
+Draba novolympica
+Draba oligosperma
+Draba porsildii
+Draba praealta
+Draba ruaxes
+Draba stenoloba
+Draba ventosa
+Dryas hookeriana
+Drymocallis convallaria
+Drymocallis pseudorupestris
+Drymocallis pseudorupestris var. pseudorupestris
+Drymocallis pseudorupestris var. saxicola
+Eleocharis suksdorfiana
+Elodea bifoliata
+Elymus elymoides
+Elymus elymoides subsp. brevifolius
+Elymus elymoides subsp. californicus
+Elymus elymoides subsp. elymoides
+Elymus elymoides subsp. hordeoides
+Elymus scribneri
+Encalypta affinis
+Encalypta alpina
+Encalypta brevipes
+Encalypta longicollis
+Encalypta mutica
+Encalypta spathulata
+Entodon concinnus
+Entodon schleicheri
+Eremogone capillaris
+Eremogone capillaris var. americana
+Eremogone congesta
+Eremogone congesta var. lithophila
+Eremogone congesta var. prolifera
+Eremopyrum
+Eremopyrum triticeum
+Ericameria nauseosa
+Ericameria nauseosa var. nauseosa
+Ericameria nauseosa var. speciosa
+Erigeron aureus
+Erigeron caespitosus
+Erigeron compositus
+Erigeron divergens
+Erigeron flagellaris
+Erigeron glabellus var. glabellus
+Erigeron glacialis
+Erigeron glacialis var. glacialis
+Erigeron grandiflorus
+Erigeron lackschewitzii
+Erigeron lanatus
+Erigeron nivalis
+Erigeron ochroleucus
+Erigeron pallens
+Erigeron peregrinus
+Erigeron peregrinus var. peregrinus
+Erigeron pumilus
+Erigeron pumilus var. pumilus
+Erigeron radicatus
+Erigeron speciosus
+Erigeron trifidus
+Eriogonum androsaceum
+Eriogonum cernuum
+Eriogonum flavum var. flavum
+Eriogonum flavum var. piperi
+Eriogonum ovalifolium var. depressum
+Eriogonum ovalifolium var. purpureum
+Eriogonum umbellatum var. majus
+Erysimum asperum
+Erysimum coarctatum
+Erythranthe breweri
+Erythranthe floribunda
+Erythranthe guttata
+Erythranthe lewisii
+Erythranthe patula
+Erythranthe tilingii
+Erythronium grandiflorum subsp. grandiflorum
+Eucephalus engelmannii
+Euphorbia agraria
+Euphrasia subarctica
+Eurhynchiastrum pulchellum var. barnesii
+Eurybia conspicua
+Eurybia sibirica
+Festuca altaica
+Festuca idahoensis
+Festuca minutiflora
+Festuca saximontana var. purpusiana
+Festuca subulata
+Festuca viviparoidea
+Festuca viviparoidea subsp. krajinae
+Festuca viviparoidea subsp. viviparoidea
+Fissidens crispus
+Fissidens sublimbatus
+Fontinalis neomexicana
+Fragaria vesca subsp. bracteata
+Fragaria virginiana subsp. platypetala
+Gaillardia aristata
+Gaultheria humifusa
+Geum triflorum var. ciliatum
+Glyceria pulchella
+Gnaphalium palustre
+Grimmia alpestris
+Grimmia caespiticia
+Grimmia donniana
+Grimmia elatior
+Grimmia elongata
+Grimmia incurva
+Grimmia mollis
+Grimmia ramondii
+Grimmia sessitana
+Gutierrezia sarothrae
+Gymnocarpium disjunctum
+Hamatocaulis lapponicus
+Haplodontium macrocarpum
+Helianthus nuttallii subsp. nuttallii
+Herzogiella seligeri
+Hesperostipa curtiseta
+Heterotheca villosa var. foliosa
+Heterotheca villosa var. minor
+Heuchera cylindrica
+Heuchera glabra
+Heuchera parvifolia
+Hieracium albiflorum
+Hieracium scouleri
+Hieracium triste
+Hippuris montana
+Homalothecium aeneum
+Homalothecium aureum
+Homalothecium nevadense
+Hordeum brachyantherum
+Hordeum brachyantherum subsp. brachyantherum
+Hordeum brachyantherum subsp. californicum
+Hordeum murinum
+Hordeum murinum subsp. glaucum
+Hordeum murinum subsp. leporinum
+Hordeum murinum subsp. murinum
+Hordeum pusillum
+Huperzia haleakalae
+Huperzia occidentalis
+Hygrohypnum smithii
+Hygrohypnum styriacum
+Hymenopappus filifolius
+Hymenopappus filifolius var. polycephalus
+Hymenoxys richardsonii
+Hymenoxys richardsonii var. richardsonii
+Hypericum scouleri
+Hypnum callichroum
+Hypnum circinale
+Hypnum hamulosum
+Hypnum holmenii
+Hypnum procerrimum
+Hypnum revolutum var. ravaudii
+Iliamna rivularis
+Iris missouriensis
+Isothecium stoloniferum
+Isoëtes bolanderi
+Iva axillaris
+Jaffueliobryum raui
+Jaffueliobryum wrightii
+Juncus confusus
+Juncus drummondii
+Juncus ensifolius var. montanus
+Juncus mertensianus
+Juncus nevadensis
+Juncus parryi
+Juncus regelii
+Juniperus scopulorum
+Kiaeria falcata
+Kiaeria starkei
+Krascheninnikovia lanata
+Larix lyallii
+Lechea intermedia var. depauperata
+Lepidium appelianum
+Lepidium latifolium
+Leptarrhena pyrolifolia
+Lescuraea saxicola
+Lewisia pygmaea
+Lewisia rediviva
+Lewisia rediviva var. rediviva
+Leymus angustus
+Leymus cinereus
+Leymus condensatus
+Leymus flavescens
+Liatris ligulistylis
+Liatris punctata
+Liatris punctata var. punctata
+Lilaea scilloides
+Linum australe
+Linum australe var. australe
+Linum compactum
+Linum rigidum
+Linum rigidum var. rigidum
+Listera caurina
+Listera cordata var. nephrophylla
+Lithophragma glabrum
+Lithophragma parviflorum
+Luetkea pectinata
+Luzula arcuata
+Luzula arcuata subsp. unalaschkensis
+Luzula comosa
+Luzula hitchcockii
+Luzula piperi
+Luzula spicata
+Lygodesmia juncea
+Machaeranthera tanacetifolia
+Maianthemum racemosum subsp. amplexicaule
+Marsilea vestita
+Melica spectabilis
+Melica subulata
+Mentzelia decapetala
+Menziesia ferruginea
+Micranthes ferruginea
+Micranthes lyallii
+Micranthes nelsoniana
+Micranthes nelsoniana var. porsildiana
+Micranthes nivalis
+Micranthes occidentalis
+Micranthes odontoloma
+Micranthes oregana
+Microseris nutans
+Mielichhoferia elongata
+Minuartia austromontana
+Minuartia biflora
+Minuartia elegans
+Minuartia nuttallii
+Minuartia nuttallii var. nuttallii
+Minuartia obtusiloba
+Mirabilis linearis
+Mirabilis linearis var. linearis
+Mitella breweri
+Mitella pentandra
+Mitella trifida
+Mnium arizonicum
+Mnium blyttii
+Monolepis nuttalliana
+Montia linearis
+Montia parvifolia
+Muhlenbergia cuspidata
+Munroa
+Munroa squarrosa
+Myosurus apetalus
+Myosurus apetalus var. borealis
+Myosurus apetalus var. montanus
+Nassella
+Nassella viridula
+Neckera menziesii
+Niphotrichum canescens subsp. latifolium
+Nothocalaïs cuspidata
+Nuttallanthus texanus
+Nymphaea tetragona
+Oligotrichum hercynicum
+Opuntia polyacantha
+Opuntia polyacantha var. polyacantha
+Oreas martiana
+Orobanche corymbosa
+Orobanche corymbosa subsp. mutabilis
+Orobanche ludoviciana
+Orobanche uniflora subsp. occidentalis
+Orthothecium strictum
+Orthotrichum affine
+Orthotrichum laevigatum
+Orthotrichum pellucidum
+Orthotrichum pylaisii
+Orthotrichum rivulare
+Orthotrichum speciosum
+Oxyria digyna
+Packera cana
+Packera contermina
+Packera cymbalaria
+Packera pseudaurea
+Packera pseudaurea var. pseudaurea
+Packera streptanthifolia
+Packera subnuda
+Packera subnuda var. subnuda
+Papaver pygmaeum
+Papaver radicatum
+Papaver radicatum subsp. kluanense
+Papaver radicatum subsp. kluanensis
+Paraleucobryum enerve
+Parnassia fimbriata
+Paronychia sessiliflora
+Paxistima myrsinites
+Pedicularis bracteosa
+Pedicularis bracteosa var. bracteosa
+Pedicularis capitata
+Pedicularis contorta
+Pedicularis contorta var. contorta
+Pedicularis lanata
+Pedicularis lanata subsp. lanata
+Pedicularis langsdorffii
+Pedicularis langsdorffii subsp. arctica
+Pedicularis oederi
+Pedicularis racemosa
+Pedicularis racemosa subsp. alba
+Pellaea gastonyi
+Pellaea glabella subsp. simplex
+Penstemon albertinus
+Penstemon confertus
+Penstemon ellipticus
+Penstemon eriantherus
+Penstemon eriantherus var. eriantherus
+Penstemon fruticosus
+Penstemon fruticosus var. scouleri
+Penstemon lyallii
+Penstemon nitidus
+Penstemon nitidus var. nitidus
+Penstemon procerus
+Penstemon procerus var. procerus
+Petasites frigidus var. frigidus
+Philadelphus lewisii
+Philonotis marchica
+Phyllodoce empetriformis
+Phyllodoce glanduliflora
+Physaria arctica
+Physaria arenosa
+Physaria arenosa subsp. arenosa
+Physaria didymocarpa
+Physaria didymocarpa subsp. didymocarpa
+Physaria spatulata
+Physocarpus malvaceus
+Picea engelmannii
+Picea engelmannii var. engelmannii
+Pinus albicaulis
+Pinus contorta
+Pinus contorta var. latifolia
+Pinus flexilis
+Pinus monticola
+Plagiobryum demissum
+Plagiobryum zieri
+Plantago canescens
+Plantago elongata
+Plantago eriopoda
+Plantago patagonica
+Platanthera dilatata var. albiflora
+Platanthera stricta
+Poa abbreviata
+Poa abbreviata subsp. abbreviata
+Poa abbreviata subsp. marshii
+Poa abbreviata subsp. pattersonii
+Poa cusickii
+Poa cusickii subsp. cusickii
+Poa cusickii subsp. epilis
+Poa cusickii subsp. pallida
+Poa cusickii subsp. purpurascens
+Poa fendleriana
+Poa fendleriana subsp. albescens
+Poa fendleriana subsp. fendleriana
+Poa fendleriana subsp. longiligula
+Poa leptocoma
+Poa lettermanii
+Poa nervosa
+Poa paucispicula
+Poa stenantha
+Poa stenantha var. stenantha
+Poa stenantha var. vivipara
+Poa wheeleri
+Poa ×limosa
+Poa ×nematophylla
+Pogonatum dentatum
+Pohlia brevinervis
+Pohlia crudoides
+Pohlia filum
+Pohlia vexans
+Polygonum austiniae
+Polygonum aviculare subsp. rurivagum
+Polygonum engelmannii
+Polygonum minimum
+Polygonum polygaloides
+Polygonum polygaloides subsp. confertiflorum
+Polygonum polygaloides subsp. polygaloides
+Polygonum sawatchense
+Polygonum sawatchense subsp. sawatchense
+Polytrichastrum alpinum var. septentrionale
+Polytrichastrum sexangulare var. sexangulare
+Populus angustifolia
+Populus trichocarpa
+Potentilla anserina subsp. yukonensis
+Potentilla arenosa
+Potentilla arenosa subsp. arenosa
+Potentilla biennis
+Potentilla concinna
+Potentilla concinna var. concinna
+Potentilla concinna var. divisa
+Potentilla drummondii
+Potentilla effusa
+Potentilla effusa var. effusa
+Potentilla flabellifolia
+Potentilla glaucophylla
+Potentilla glaucophylla var. glaucophylla
+Potentilla glaucophylla var. perdissecta
+Potentilla hookeriana
+Potentilla hyparctica
+Potentilla hyparctica subsp. elatior
+Potentilla jepsonii
+Potentilla lasiodonta
+Potentilla macounii
+Potentilla nivea
+Potentilla ovina
+Potentilla ovina var. ovina
+Potentilla plattensis
+Potentilla rubricaulis
+Potentilla subgorodkovii
+Potentilla subjuga
+Potentilla subvahliana
+Potentilla villosula
+Prenanthes alata
+Prenanthes sagittata
+Prosartes hookeri
+Prunus virginiana var. demissa
+Psathyrostachys
+Psathyrostachys juncea
+Pseudocalliergon angustifolium
+Pseudognaphalium thermale
+Pseudoleskea incurvata var. incurvata
+Pseudoleskea incurvata var. tenuiretis
+Pseudoleskea patens
+Pseudoleskea radicosa var. compacta
+Pseudoleskea radicosa var. denudata
+Pseudoleskea radicosa var. radicosa
+Pseudoleskea stenophylla
+Pseudoroegneria
+Pseudoroegneria spicata
+Pseudotsuga menziesii
+Pseudotsuga menziesii var. glauca
+Psilocarphus brevissimus
+Psilocarphus brevissimus var. brevissimus
+Pteridium aquilinum var. pubescens
+Pterygoneurum subsessile var. subsessile
+Ptychostomum archangelicum
+Ptychostomum arcticum
+Ptychostomum cryophilum
+Ptychostomum cyclophyllum
+Ptychostomum knowltonii
+Ptychostomum lonchocaulon
+Ptychostomum marratii
+Ptychostomum schleicheri
+Ptychostomum turbinatum
+Puccinellia angustata
+Pyrola asarifolia subsp. bracteata
+Pyrola picta
+Pyrrocoma lanceolata
+Pyrrocoma lanceolata var. lanceolata
+Pyrrocoma uniflora
+Pyrrocoma uniflora var. uniflora
+Ranunculus cardiophyllus
+Ranunculus eschscholtzii
+Ranunculus eschscholtzii var. eschscholtzii
+Ranunculus eschscholtzii var. suksdorfii
+Ranunculus gelidus
+Ranunculus glaberrimus
+Ranunculus glaberrimus var. ellipticus
+Ranunculus inamoenus
+Ranunculus inamoenus var. inamoenus
+Ranunculus nivalis
+Ranunculus occidentalis
+Ranunculus occidentalis var. brevistylis
+Ranunculus pygmaeus
+Ranunculus uncinatus
+Rhizomnium andrewsianum
+Rhizomnium nudum
+Rhodiola integrifolia
+Rhodiola integrifolia subsp. integrifolia
+Rhododendron albiflorum
+Rhododendron columbianum
+Rhytidiopsis robusta
+Ribes cereum
+Ribes cereum var. cereum
+Ribes inerme
+Ribes inerme var. inerme
+Ribes laxiflorum
+Ribes viscosissimum
+Ribes watsonianum
+Roellobryon roellii
+Rorippa austriaca
+Rorippa curvipes
+Rorippa tenerrima
+Rosulabryum elegans
+Rubus arcticus subsp. arcticus
+Rubus pedatus
+Rumex confertus
+Rumex lapponicus
+Rumex paucifolius
+Rumex utahensis
+Rumex venosus
+Ruppia cirrhosa
+Sagina nivalis
+Sagina saginoides
+Salix alaxensis
+Salix alaxensis var. alaxensis
+Salix athabascensis
+Salix barclayi
+Salix barrattiana
+Salix boothii
+Salix calcicola var. glandulosior
+Salix commutata
+Salix drummondiana
+Salix exigua
+Salix exigua var. exigua
+Salix farriae
+Salix glauca var. villosa
+Salix lasiandra
+Salix lasiandra var. caudata
+Salix lasiandra var. lasiandra
+Salix melanopsis
+Salix nivalis
+Salix petrophila
+Salix prolixa
+Salix raupii
+Salix scouleriana
+Salix serissima
+Salix sitchensis
+Salix stolonifera
+Salix tyrrellii
+Sarcobatus vermiculatus
+Saussurea amara
+Saussurea amara var. glomerata
+Saussurea americana
+Saussurea nuda
+Saxifraga adscendens
+Saxifraga bronchialis
+Saxifraga bronchialis subsp. austromontana
+Saxifraga flagellaris
+Saxifraga flagellaris subsp. setigera
+Saxifraga hyperborea
+Saxifraga mertensiana
+Schedonnardus
+Schedonnardus paniculatus
+Schistidium atrichum
+Schistidium atrofuscum
+Schistidium confertum
+Schistidium flaccidum
+Schistidium subjulaceum
+Schistidium tenerum
+Sciuro-hypnum hylotapetum
+Sciuro-hypnum latifolium
+Scleropodium cespitans
+Scolochloa
+Scolochloa festucacea
+Scouleria aquatica
+Sedum divergens
+Sedum lanceolatum
+Sedum lanceolatum var. lanceolatum
+Sedum stenopetalum
+Sedum stenopetalum var. stenopetalum
+Selaginella scopulorum
+Selaginella standleyi
+Selaginella wallacei
+Seligeria subimmersa
+Senecio fremontii
+Senecio fremontii var. fremontii
+Senecio hydrophiloides
+Senecio integerrimus
+Senecio integerrimus var. exaltatus
+Senecio integerrimus var. integerrimus
+Senecio integerrimus var. ochroleucus
+Senecio lugens
+Senecio megacephalus
+Senecio triangularis
+Shinnersoseris rostrata
+Sibbaldia procumbens
+Silene conoidea
+Silene drummondii subsp. drummondii
+Silene hitchguirei
+Silene menziesii
+Silene parryi
+Silene scouleri subsp. hallii
+Sisymbrium loeselii
+Sisyrinchium septentrionale
+Smelowskia americana
+Solidago lepida var. salebrosa
+Solidago mollis
+Sorbus scopulina
+Sorbus sitchensis
+Sorbus sitchensis var. sitchensis
+Spartina gracilis
+Spergularia diandra
+Sphaeralcea coccinea
+Sphaeralcea coccinea var. coccinea
+Sphagnum isoviitae
+Spiraea lucida
+Spiraea splendens
+Spiraea splendens var. rosea
+Spiraea splendens var. splendens
+Stegonia latifolia var. latifolia
+Stegonia latifolia var. pilifera
+Stellaria americana
+Stellaria calycantha
+Stellaria crispa
+Stellaria longipes subsp. arenicola
+Stellaria obtusa
+Stellaria umbellata
+Stenanthium occidentale
+Stephanomeria runcinata
+Streptopus streptopoides
+Suaeda nigra
+Suckleya suckleyana
+Suksdorfia ranunculifolia
+Suksdorfia violacea
+Symphyotrichum ascendens
+Symphyotrichum bracteolatum
+Symphyotrichum campestre
+Symphyotrichum cusickii
+Symphyotrichum falcatum var. falcatum
+Symphyotrichum foliaceum
+Symphyotrichum foliaceum var. foliaceum
+Symphyotrichum foliaceum var. parryi
+Symphyotrichum spathulatum
+Symphyotrichum spathulatum var. spathulatum
+Symphyotrichum subspicatum
+Synthyris wyomingensis
+Syntrichia caninervis
+Syntrichia montana
+Taraxacum scopulorum
+Taxus brevifolia
+Tayloria froelichiana
+Tayloria hornschuchii
+Telesonix heucheriformis
+Tetraneuris acaulis
+Tetraneuris acaulis var. acaulis
+Tetraphis geniculata
+Tetraplodon urceolatus
+Thalictrum occidentale
+Thelesperma subnudum
+Thesium ramosum
+Thinopyrum pycnanthum
+Thuja plicata
+Tiarella trifoliata
+Tiarella trifoliata var. trifoliata
+Tiarella trifoliata var. unifoliata
+Timmia austriaca
+Timmia norvegica var. norvegica
+Timmia sibirica
+Tonestus lyallii
+Torreyochloa pallida var. pauciflora
+Tortella alpicola
+Tortella tortuosa var. fragilifolia
+Tortula atrovirens
+Tortula hoppeana
+Tortula laureri
+Tortula subulata
+Tortula systylia
+Townsendia condensata
+Townsendia exscapa
+Townsendia hookeri
+Townsendia parryi
+Transberingia bursifolia
+Transberingia bursifolia subsp. virgata
+Triantha occidentalis subsp. brevistyla
+Triantha occidentalis subsp. montana
+Trichophorum pumilum
+Trientalis europaea
+Trillium ovatum var. ovatum
+Tripterocalyx micranthus
+Trisetum canescens
+Trisetum wolfii
+Triticum durum
+Trollius albiflorus
+Tsuga heterophylla
+Vaccinium myrtillus
+Vaccinium scoparium
+Veratrum viride var. eschscholzianum
+Veronica wormskjoldii subsp. nutans
+Viola glabella
+Viola nuttallii
+Viola orbiculata
+Viola praemorsa
+Viola praemorsa var. linguifolia
+Voitia nivalis
+Woodsia oregana subsp. oregana
+Woodsia scopulina subsp. scopulina
+Xanthisma grindelioides
+Xanthisma grindelioides var. grindeloides
+Xanthisma spinulosum
+Xanthisma spinulosum var. spinulosum
+Xerophyllum tenax
+Yucca glauca
+Zigadenus venenosus var. gramineus
+×achnella
+×achnella caduca
+×elyleymus turneri
+Abies amabilis
+Abies grandis
+Abies lasiocarpa
+Abronia latifolia
+Abronia umbellata
+Abronia umbellata var. acutalata
+Achlys californica
+Achlys triphylla
+Achnatherum lemmonii
+Achnatherum lemmonii subsp. lemmonii
+Achnatherum lemmonii subsp. pubescens
+Aconitum columbianum
+Aconitum columbianum subsp. columbianum
+Adiantum capillus-veneris
+Agoseris grandiflora
+Agoseris grandiflora var. leptophylla
+Agoseris heterophylla
+Agoseris heterophylla var. heterophylla
+Agrostis idahoensis
+Agrostis microphylla
+Agrostis oregonensis
+Agrostis pallens
+Aira
+Aira caryophyllea
+Aira caryophyllea var. capillaris
+Aira caryophyllea var. caryophyllea
+Aira praecox
+Alchemilla subcrenata
+Allium acuminatum
+Allium amplectens
+Allium crenulatum
+Allium validum
+Allotropa virgata
+Alnus rubra
+Alsia californica
+Amberboa moschata
+Ambrosia chamissonis
+Amelanchier alnifolia var. semiintegrifolia
+Amelanchier cusickii
+Ammophila arenaria
+Amphidium californicum
+Anacolia menziesii
+Andreaea blyttii
+Andreaea heinemannii
+Andreaea megistospora
+Andreaea mutabilis
+Andreaea nivalis
+Andreaea obovata
+Andreaea schofieldiana
+Andreaea sinuosa
+Andreaeobryum macrosporum
+Anemone drummondii var. drummondii
+Anemone lyallii
+Anemone narcissiflora
+Anemone narcissiflora var. monantha
+Anemone piperi
+Anisocarpus madioides
+Anoectangium aestivum
+Anomobryum concinnatum
+Antennaria densifolia
+Antennaria flagellaris
+Antennaria monocephala subsp. monocephala
+Anthoxanthum aristatum
+Antitrichia californica
+Antitrichia curtipendula
+Aphanes arvensis
+Aphanes australis
+Aphanes occidentalis
+Arbutus menziesii
+Arceuthobium campylopodum
+Arceuthobium campylopodum subsp. laricis
+Arceuthobium campylopodum subsp. tsugense
+Arceuthobium douglasii
+Arctanthemum arcticum subsp. arcticum
+Arctostaphylos columbiana
+Armeria maritima subsp. californica
+Arnica griscomii
+Arnica griscomii subsp. frigida
+Arnica lessingii
+Artemisia alaskana
+Artemisia suksdorfii
+Artemisia tridentata subsp. vaseyana
+Artemisia tripartita
+Artemisia tripartita subsp. tripartita
+Asarum caudatum
+Aspidotis densa
+Asplenium adulterinum
+Athysanus pusillus
+Atrichum flavisetum
+Atriplex gmelinii
+Atriplex gmelinii var. alaskensis
+Atriplex gmelinii var. gmelinii
+Azolla filiculoides
+Azolla mexicana
+Balsamorhiza deltoidea
+Barbarea verna
+Barbula convoluta var. eustegia
+Barbula convoluta var. gallinula
+Bartramia stricta
+Bartramiopsis lescurii
+Bellardia viscosa
+Berberis aquifolium
+Berberis nervosa
+Betula pubescens
+Betula pubescens subsp. pubescens
+Bidens amplissima
+Bistorta plumosa
+Blechnum spicant
+Boechera lyallii
+Boechera macounii
+Boechera microphylla
+Boechera pauciflora
+Boechera pendulocarpa
+Boechera sparsiflora
+Botrychium montanum
+Boykinia occidentalis
+Brachydontium olympicum
+Braya glabella subsp. purpurascens
+Brickellia oblongifolia
+Brickellia oblongifolia var. oblongifolia
+Brodiaea coronaria subsp. coronaria
+Bromus diandrus
+Bromus pacificus
+Bromus polyanthus
+Bromus sitchensis
+Brotherella canadensis
+Brotherella henonii
+Brotherella roellii
+Bryhnia hultenii
+Bryoerythrophyllum columbianum
+Bryolawtonia vancouveriensis
+Bryum oblongum
+Buckiella undulata
+Bucklandiella brevipes
+Bucklandiella heterosticha
+Bucklandiella lawtoniae
+Bucklandiella macounii subsp. alpina
+Bucklandiella macounii subsp. macounii
+Bucklandiella obesa
+Bucklandiella occidentalis
+Bucklandiella pacifica
+Bunias orientalis
+Cacaliopsis nardosmia
+Cakile edentula var. edentula
+Cakile maritima
+Cakile maritima subsp. maritima
+Calamagrostis nutkaensis
+Calamagrostis sesquiflora
+Calandrinia ciliata
+Callitriche brutia
+Callitriche brutia var. hamulata
+Callitriche marginata
+Callitriche stagnalis
+Calluna vulgaris
+Calochortus lyallii
+Calochortus macrocarpus var. macrocarpus
+Calypso bulbosa var. occidentalis
+Camassia leichtlinii subsp. suksdorfii
+Camassia quamash subsp. maxima
+Campylopus atrovirens var. atrovirens
+Campylopus flexuosus
+Campylopus fragilis
+Campylopus gracilis
+Campylopus introflexus
+Campylopus schimperi
+Campylopus sinensis
+Cardamine angulata
+Cardamine breweri
+Cardamine cordifolia
+Cardamine nuttallii
+Cardamine occidentalis
+Cardamine oligosperma
+Carex amplifolia
+Carex anthoxanthea
+Carex aquatilis var. dives
+Carex arctiformis
+Carex bigelowii subsp. lugens
+Carex bolanderi
+Carex brevicaulis
+Carex circinata
+Carex cusickii
+Carex echinata subsp. phyllomanica
+Carex eleusinoides
+Carex engelmannii
+Carex exsiccata
+Carex feta
+Carex gmelinii
+Carex hassei
+Carex hendersonii
+Carex inops subsp. inops
+Carex interrupta
+Carex laeviculmis
+Carex lenticularis var. limnophila
+Carex leptopoda
+Carex luzulina
+Carex luzulina var. ablata
+Carex luzulina var. luzulina
+Carex lyngbyei
+Carex macrocephala
+Carex macrochaeta
+Carex membranacea
+Carex microchaeta
+Carex microchaeta subsp. microchaeta
+Carex obnupta
+Carex ovalis
+Carex pansa
+Carex pluriflora
+Carex praeceptorum
+Carex scirpoidea subsp. pseudoscirpoidea
+Carex scirpoidea subsp. stenochlaena
+Carex scopulorum var. prionophylla
+Carex stylosa
+Carex tumulicola
+Carex unilateralis
+Carex vallicola
+Carthamus creticus
+Cassiope lycopodioides
+Castilleja ambigua
+Castilleja ambigua var. ambigua
+Castilleja attenuata
+Castilleja cervina
+Castilleja elmeri
+Castilleja hyperborea
+Castilleja levisecta
+Castilleja miniata var. dixonii
+Castilleja minor
+Castilleja minor var. exilis
+Castilleja parviflora var. albida
+Castilleja parviflora var. olympica
+Castilleja rupicola
+Castilleja tenuis
+Castilleja thompsonii
+Castilleja unalaschcensis
+Castilleja victoriae
+Ceanothus sanguineus
+Ceanothus velutinus var. laevigatus
+Cephalanthera austiniae
+Cerastium fischerianum
+Ceratodon purpureus subsp. conicus
+Chamaecyparis nootkatensis
+Chenopodium macrospermum
+Chimaphila menziesii
+Chrysosplenium wrightii
+Chrysothamnus viscidiflorus
+Chrysothamnus viscidiflorus subsp. lanceolatus
+Cimicifuga elata
+Cinclidium arcticum
+Cirsium brevistylum
+Cirsium edule
+Cirsium edule var. macounii
+Cistanthe tweedyi
+Cistanthe umbellata
+Cladanthus mixtus
+Claopodium pellucinerve
+Claytonia cordifolia
+Claytonia exigua
+Claytonia exigua subsp. exigua
+Claytonia exigua subsp. glauca
+Claytonia multiscapa
+Claytonia parviflora
+Claytonia parviflora subsp. parviflora
+Claytonia perfoliata
+Claytonia perfoliata subsp. intermontana
+Claytonia perfoliata subsp. perfoliata
+Claytonia rubra
+Claytonia rubra subsp. depressa
+Claytonia rubra subsp. rubra
+Claytonia sarmentosa
+Claytonia sibirica
+Claytonia tuberosa
+Claytonia washingtoniana
+Cochlearia groenlandica
+Codriophorus mollis
+Codriophorus ryszardii
+Codriophorus varius
+Coleanthus
+Coleanthus subtilis
+Collinsia grandiflora
+Comandra umbellata subsp. californica
+Coptis aspleniifolia
+Corispermum hookeri var. pseudodeclinatum
+Cornus nuttallii
+Cornus occidentalis
+Cornus suecica
+Corrigiola litoralis subsp. litoralis
+Corydalis pauciflora
+Corydalis scouleri
+Corylus avellana
+Corylus cornuta subsp. californica
+Corynephorus
+Corynephorus canescens
+Coscinodon yukonensis
+Cotoneaster crispii
+Cotoneaster dammeri
+Cotoneaster dielsianus
+Cotoneaster franchetii
+Cotoneaster horizontalis
+Cotoneaster lacteus
+Cotoneaster qungbixiensis
+Cotoneaster rehderi
+Cotoneaster salicifolius
+Cotoneaster simonsii
+Cotoneaster sternianus
+Cotoneaster ×suecicus
+Crassula connata
+Crassula tillaea
+Crataegus atrovirens
+Crataegus chrysocarpa var. piperi
+Crataegus chrysocarpa var. vernonensis
+Crataegus enderbyensis
+Crataegus gaylussacia
+Crataegus okanaganensis
+Crataegus okanaganensis var. okanaganensis
+Crataegus okanaganensis var. wellsii
+Crataegus okennonii
+Crataegus orbicularis
+Crataegus phippsii
+Crataegus sheila-phippsiae
+Crataegus sheila-phippsiae var. sheila-phippsiae
+Crataegus shuswapensis
+Crepis modocensis
+Crepis modocensis subsp. modocensis
+Crepis modocensis subsp. rostrata
+Crepis nicaeënsis
+Crepis occidentalis subsp. costata
+Crepis occidentalis subsp. pumila
+Crepis vesicaria
+Crocidium multicaule
+Crocosmia ×crocosmiiflora
+Crossidium seriatum
+Crumia latifolia
+Crypsis alopecuroides
+Cryptogramma cascadensis
+Cryptogramma sitchensis
+Ctenidium schofieldii
+Cynodon
+Cynodon dactylon
+Cynodon dactylon var. aridus
+Cynodon dactylon var. dactylon
+Cynodon incompletus
+Cynodon nlemfu
+Cynodon nlemfuënsis
+Cynodon ×magennisii
+Cynodontium jenneri
+Cynosurus echinatus
+Cyperus eragrostis
+Cyrtomnium hymenophyllum
+Daltonia splachnoides
+Danthonia decumbens
+Daphne laureola
+Darlingtonia californica
+Delphinium distichum
+Delphinium elatum
+Delphinium glareosum
+Delphinium menziesii
+Delphinium menziesii subsp. menziesii
+Delphinium nuttallianum
+Delphinium sutherlandii
+Dendroalsia abietina
+Deschampsia danthonioides
+Descurainia longepedicellata
+Descurainia nelsonii
+Descurainia sophioides
+Diapensia obovata
+Dicentra formosa
+Dicentra formosa subsp. formosa
+Dicentra uniflora
+Dicranella pacifica
+Dicranella rufescens
+Dicranodontium asperulum
+Dicranodontium denudatum
+Dicranodontium uncinatum
+Dicranoweisia cirrata
+Dicranum fuscescens var. flexicaule
+Dicranum howellii
+Dicranum majus var. orthophyllum
+Didymodon brachyphyllus
+Didymodon eckeliae
+Didymodon giganteus
+Didymodon leskeoides
+Didymodon maschalogena
+Didymodon murrayae
+Didymodon nevadensis
+Didymodon nicholsonii
+Didymodon nigrescens
+Didymodon norrisii
+Didymodon vinealis var. rubiginosus
+Dieteria canescens var. incana
+Digitalis lutea
+Ditrichum heteromallum
+Ditrichum schimperi
+Dodecatheon dentatum
+Dodecatheon frigidum
+Dodecatheon hendersonii
+Dodecatheon jeffreyi
+Dodecatheon pulchellum var. cusickii
+Dodecatheon pulchellum var. macrocarpum
+Doronicum orientale
+Doronicum pardalianches
+Douglasia gormanii
+Douglasia laevigata
+Draba corymbosa
+Draba fladnizensis
+Draba grandis
+Drymocallis glandulosa
+Drymocallis glandulosa var. glandulosa
+Dryopteris arguta
+Echinophyllum sachalinense
+Elatine brachysperma
+Eleocharis atropurpurea
+Eleocharis compressa var. acutisquamata
+Eleocharis kamtschatica
+Eleocharis parvula
+Elliottia pyroliflora
+Elmera racemosa
+Elymus hirsutus
+Elymus sibiricus
+Elymus ×yukonensis
+Enemion savilei
+Entosthodon fascicularis
+Entosthodon rubiginosus
+Epipactis gigantea
+Epipterygium tozeri
+Equisetum telmateia
+Equisetum telmateia subsp. braunii
+Equisetum variegatum subsp. alaskanum
+Eremopyrum orientale
+Ericameria bloomeri
+Erigeron corymbosus
+Erigeron denalii
+Erigeron filifolius
+Erigeron leibergii
+Erigeron linearis
+Erigeron philadelphicus var. glaber
+Erigeron poliospermus
+Erigeron poliospermus var. poliospermus
+Erigeron pumilus var. intermedius
+Erigeron salishii
+Erigeron uniflorus
+Erigeron uniflorus var. eriocephalus
+Eriogonum heracleoides var. heracleoides
+Eriogonum niveum
+Eriogonum ovalifolium var. nivale
+Eriogonum pyrolifolium var. coryphaeum
+Eriophyllum lanatum
+Eriophyllum lanatum var. leucophyllum
+Erysimum arenicola
+Erysimum cheiri
+Erythranthe alsinoides
+Erythranthe arvensis
+Erythranthe breviflora
+Erythranthe caespitosa
+Erythranthe decora
+Erythranthe dentata
+Erythranthe microphylla
+Erythranthe nasuta
+Erythranthe ptilota
+Erythranthe suksdorfii
+Erythronium montanum
+Erythronium oregonum
+Erythronium revolutum
+Eucephalus paucicapitatus
+Euonymus occidentalis
+Euonymus occidentalis var. occidentalis
+Eupatorium cannabinum
+Euphorbia myrsinites
+Eurybia merita
+Eurybia radulina
+Euthamia occidentalis
+Eutrema edwardsii
+Eutrema salsugineum
+Fabronia pusilla
+Fallopia ×bohemica
+Festuca pseudovivipara
+Festuca subuliflora
+Festuca viridula
+Festuca washingtonica
+Filago pyramidata
+Filago pyramidata var. pyramidata
+Filago vulgaris
+Fissidens aphelotaxifolius
+Fissidens pauperculus
+Fissidens ventricosus
+Fontinalis howellii
+Fragaria chiloensis
+Fragaria chiloensis subsp. lucida
+Fragaria chiloensis subsp. pacifica
+Frangula purshiana
+Frangula purshiana subsp. purshiana
+Fritillaria affinis
+Fritillaria camschatcensis
+Fritillaria pudica
+Funaria muhlenbergii
+Gamochaeta ustulata
+Gastridium
+Gastridium phleoides
+Gaultheria ovatifolia
+Gaultheria shallon
+Gemmabryum barnesii
+Gemmabryum subapiculatum
+Gemmabryum tenuisetum
+Geum calthifolium
+Geum rossii
+Geum schofieldii
+Glyceria declinata
+Glyceria leptostachya
+Glyceria ×occidentalis
+Gollania turgens
+Gratiola ebracteata
+Grimmia attenuata
+Grimmia crinitoleucophaea
+Grimmia laevigata
+Grimmia leibergii
+Grimmia lisae
+Grimmia trichophylla
+Grindelia integrifolia
+Hageniella micans
+Harrimanella stelleriana
+Hedwigia stellata
+Helianthella uniflora
+Hemitomes congestum
+Hemizonella minima
+Herzogiella adscendens
+Heterocladium macounii
+Heterocladium procurrens
+Heuchera chlorantha
+Heuchera micrantha
+Heuchera micrantha var. diversifolia
+Hieracium flagellare
+Hieracium sabaudum
+Hilpertia velenovskyi
+Holcus mollis
+Holodiscus discolor
+Holodiscus discolor var. discolor
+Homalothecium arenarium
+Homalothecium fulgescens
+Homalothecium megaptilum
+Homalothecium nuttallii
+Honckenya peploides subsp. major
+Hookeria acutifolia
+Hookeria lucens
+Hordeum depressum
+Hordeum marinum
+Hordeum marinum subsp. gussoneanum
+Hordeum marinum subsp. marinum
+Hornungia procumbens
+Hulteniella integrifolia
+Humulus lupulus var. neomexicanus
+Huperzia miyoshiana
+Hyacinthoides non-scripta
+Hygrohypnum alpinum
+Hygrohypnum molle
+Hygrohypnum norvegicum
+Hygrohypnum polare
+Hymenophyllum wrightii
+Hymenostylium recurvirostrum var. insigne
+Hypericum anagalloides
+Hypericum maculatum
+Hypericum maculatum subsp. obtusiusculum
+Hypnum cupressiforme var. subjulaceum
+Hypnum dieckei
+Hypnum subimponens
+Hypochaeris radicata
+Hypopterygium flavolimbatum
+Idahoa scapigera
+Ionactis stenomeres
+Iris setosa
+Isolepis cernua
+Isolepis setacea
+Isothecium cardotii
+Isothecium cristatum
+Isoëtes howellii
+Isoëtes maritima
+Isoëtes nuttallii
+Isoëtes occidentalis
+Iwatsukiella leucotricha
+Jaumea carnosa
+Juncus bolanderi
+Juncus bulbosus
+Juncus covillei
+Juncus covillei var. covillei
+Juncus covillei var. obtusatus
+Juncus falcatus
+Juncus falcatus var. sitchensis
+Juncus kelloggii
+Juncus lesueurii
+Juncus orthophyllus
+Juncus oxymeris
+Juncus supiniformis
+Juniperus communis var. montana
+Kalmia microphylla var. occidentalis
+Kindbergia oregana
+Kindbergia praelonga
+Kopsiopsis hookeri
+Krigia virginica
+Lactuca ludoviciana
+Larix occidentalis
+Lasthenia glaberrima
+Lasthenia maritima
+Leontodon saxatilis
+Leontodon saxatilis subsp. saxatilis
+Lepidium didymum
+Lepidium heterophyllum
+Lepidium virginicum subsp. menziesii
+Leucolepis acanthoneura
+Lewisia columbiana
+Lewisia columbiana var. columbiana
+Lewisia columbiana var. rupicola
+Lewisia triphylla
+Leymus triticoides
+Leymus ×vancouverensis
+Lilium columbianum
+Limnanthes macounii
+Linaria purpurea
+Linum bienne
+Lithophragma tenellum
+Lloydia serotina var. flava
+Lloydia serotina var. serotina
+Loeskypnum wickesiae
+Logfia arvensis
+Luina hypoleuca
+Luzula arctica
+Luzula groenlandica
+Luzula kjellmaniana
+Luzula rufescens
+Luzula wahlenbergii
+Lysichiton americanus
+Madia exigua
+Madia gracilis
+Madia sativa
+Maianthemum dilatatum
+Malus fusca
+Marah oregana
+Meconella oregana
+Meiotrichum lyallii
+Melica bulbosa
+Melica geyeri
+Melica geyeri var. geyeri
+Melica harfordii
+Mentzelia albicaulis
+Mentzelia dispersa
+Mentzelia laevicaulis
+Mentzelia laevicaulis var. parviflora
+Micranthes hieraciifolia
+Micranthes integrifolia
+Micranthes nelsoniana var. carlottae
+Micranthes nelsoniana var. cascadensis
+Micranthes nidifica
+Micranthes reflexa
+Micranthes rufidula
+Micranthes tenuis
+Micranthes tischii
+Micranthes tolmiei
+Microbryum vlassovii
+Micromitrium tenerum
+Microseris bigelovii
+Microseris borealis
+Mielichhoferia mielichhoferiana
+Minuartia macrocarpa
+Minuartia pusilla
+Minuartia tenella
+Minuartia yukonensis
+Mitella caulescens
+Mitella ovalis
+Mnium spinosum
+Moenchia erecta
+Moenchia erecta subsp. erecta
+Montia bostockii
+Montia chamissoi
+Montia dichotoma
+Montia diffusa
+Montia howellii
+Muhlenbergia andina
+Muhlenbergia filiformis
+Myrica californica
+Narcissus jonquilla
+Neckera douglasii
+Niphotrichum muticum
+Niphotrichum pygmaeum
+Nogopterium gracile
+Nothocalaïs troximoides
+Nothochelone nemorosa
+Nuphar polysepala
+Oedipodium griffithianum
+Oemleria cerasiformis
+Oligotrichum aligerum
+Oligotrichum parallelum
+Olsynium douglasii var. douglasii
+Olsynium douglasii var. inflatum
+Opuntia ×columbiana
+Orobanche californica
+Orobanche californica subsp. californica
+Orobanche pinorum
+Orthocarpus barbatus
+Orthocarpus bracteosus
+Orthocarpus imbricatus
+Orthocarpus tenuifolius
+Orthothecium intricatum
+Orthotrichum consimile
+Orthotrichum diaphanum
+Orthotrichum hallii
+Orthotrichum lyellii
+Orthotrichum pulchellum
+Orthotrichum striatum
+Orthotrichum tenellum
+Oxalis oregana
+Oxalis suksdorfii
+Packera macounii
+Packera ogotorukensis
+Packera subnuda var. moresbiensis
+Papaver alboroseum
+Papaver lapponicum
+Parnassia cirrata
+Parnassia cirrata var. intermedia
+Parrya nudicaulis
+Pedicularis bracteosa var. atrosanguinea
+Pedicularis bracteosa var. latifolia
+Pedicularis ornithorhynchos
+Pedicularis pennellii
+Pedicularis racemosa subsp. racemosa
+Pedicularis verticillata
+Penstemon davidsonii
+Penstemon davidsonii var. davidsonii
+Penstemon davidsonii var. menziesii
+Penstemon fruticosus var. fruticosus
+Penstemon gormanii
+Penstemon ovatus
+Penstemon procerus var. tolmiei
+Penstemon pruinosus
+Penstemon richardsonii
+Penstemon richardsonii var. richardsonii
+Penstemon serrulatus
+Pentagramma triangularis subsp. triangularis
+Persicaria nepalensis
+Persicaria wallichii
+Persicaria wallichii var. wallichii
+Petrorhagia nanteuilii
+Petrorhagia prolifera
+Phemeranthus sediformis
+Philonotis capillaris
+Phyllospadix scouleri
+Phyllospadix serrulatus
+Phyllospadix torreyi
+Physaria douglasii
+Physaria douglasii subsp. douglasii
+Physocarpus capitatus
+Picea sitchensis
+Pinus contorta var. contorta
+Pinus ponderosa
+Pinus ponderosa var. ponderosa
+Pinus ponderosa var. scopulorum
+Piperia candida
+Piperia elegans subsp. elegans
+Piperia elongata
+Piperia transversa
+Plagiomnium insigne
+Plagiomnium undulatum
+Plagiomnium venustum
+Plagiothecium piliferum
+Plantago coronopus
+Plantago macrocarpa
+Platanthera chorisiana
+Platanthera dilatata var. leucostachys
+Pleuricospora fimbriolata
+Pleuridium acuminatum
+Pleuropogon refractus
+Pleuroziopsis ruthenica
+Poa bolanderi
+Poa confinis
+Poa howellii
+Poa infirma
+Poa laxiflora
+Poa macrantha
+Poa macrocalyx
+Poa marcida
+Poa pseudoabbreviata
+Poa suksdorfii
+Pogonatum contortum
+Pohlia bolanderi
+Pohlia camptotrachela
+Pohlia cardotii
+Pohlia columbica
+Pohlia erecta
+Pohlia longibracteata
+Pohlia pacifica
+Polycarpon tetraphyllum subsp. tetraphyllum
+Polycnemum arvense
+Polygonum majus
+Polygonum nuttallii
+Polygonum paronychia
+Polygonum polygaloides subsp. kelloggii
+Polygonum sawatchense subsp. oblivium
+Polygonum spergulariiforme
+Polypodium amorphum
+Polypodium glycyrrhiza
+Polypodium hesperium
+Polypodium scouleri
+Polypogon viridis
+Polystichum andersonii
+Polystichum californicum
+Polystichum imbricans
+Polystichum imbricans subsp. imbricans
+Polystichum kruckebergii
+Polystichum kwakiutlii
+Polystichum lemmonii
+Polystichum munitum
+Polystichum scopulinum
+Polystichum setigerum
+Polytrichastrum alpinum var. sylvaticum
+Polytrichastrum sexangulare var. vulcanicum
+Porotrichum bigelovii
+Potentilla anglica
+Potentilla anserina subsp. pacifica
+Potentilla biflora
+Potentilla elegans
+Potentilla furcata
+Potentilla gracilis var. gracilis
+Potentilla nana
+Potentilla villosa
+Poteridium occidentale
+Primula cuneifolia
+Primula cuneifolia subsp. saxifragifolia
+Prosartes smithii
+Prunus emarginata
+Prunus laurocerasus
+Prunus lusitanica
+Pseudephemerum nitidum
+Pseudobraunia californica
+Pseudocrossidium hornschuchianum
+Pseudocrossidium obtusulum
+Pseudognaphalium stramineum
+Pseudoleskea atricha
+Pseudoleskea baileyi
+Pseudoleskea incurvata var. gigantea
+Pseudoscleropodium purum
+Pseudotsuga menziesii var. menziesii
+Psilocarphus elatior
+Psilocarphus tenellus
+Pterygoneurum kozlovii
+Pterygoneurum lamellatum
+Ptychomitrium gardneri
+Ptychostomum meesioides
+Purshia tridentata
+Purshia tridentata var. tridentata
+Pyrrocoma carthamoides
+Pyrrocoma carthamoides var. carthamoides
+Quercus garryana
+Quercus garryana var. garryana
+Quercus robur
+Ranunculus alismifolius
+Ranunculus alismifolius var. alismifolius
+Ranunculus aquatilis var. aquatilis
+Ranunculus cooleyae
+Ranunculus eschscholtzii var. eximius
+Ranunculus flammula var. flammula
+Ranunculus glaberrimus var. glaberrimus
+Ranunculus lobbii
+Ranunculus occidentalis var. hexasepalus
+Ranunculus occidentalis var. occidentalis
+Ranunculus orthorhynchus
+Ranunculus orthorhynchus var. orthorhynchus
+Ranunculus orthorhynchus var. platyphyllus
+Ranunculus sardous
+Ranunculus sulphureus
+Ranunculus testiculatus
+Reseda luteola
+Reseda odorata
+Rhizomnium glabrescens
+Rhodobryum roseum
+Rhododendron macrophyllum
+Rhytidiadelphus loreus
+Rhytidiadelphus squarrosus
+Ribes acerifolium
+Ribes bracteosum
+Ribes divaricatum
+Ribes divaricatum var. divaricatum
+Ribes lobbii
+Ribes montigenum
+Ribes oxyacanthoides var. cognatum
+Ribes oxyacanthoides var. irriguum
+Ribes sanguineum
+Ribes sanguineum var. sanguineum
+Rorippa curvisiliqua
+Rorippa indica
+Rosa gymnocarpa
+Rosa gymnocarpa var. gymnocarpa
+Rosa nutkana
+Rosa nutkana subsp. macdougalii
+Rosa nutkana subsp. nutkana
+Rosa pisocarpa
+Rosa pisocarpa subsp. pisocarpa
+Rosa woodsii subsp. ultramontana
+Rosulabryum canariense
+Rosulabryum erythroloma
+Rosulabryum gemmascens
+Rosulabryum rubens
+Rosulabryum torquescens
+Rubus arcticus subsp. stellatus
+Rubus lasiococcus
+Rubus leucodermis
+Rubus leucodermis var. leucodermis
+Rubus nivalis
+Rubus phoenicolasius
+Rubus spectabilis
+Rubus ursinus
+Rubus vestitus
+Rudbeckia laciniata var. ampla
+Rumex arcticus
+Rumex conglomeratus
+Rumex persicarioides
+Rumex transitorius
+Sagina apetala
+Sagina decumbens
+Sagina decumbens subsp. occidentalis
+Sagina maxima
+Sagina maxima subsp. crassicaulis
+Sagina maxima subsp. maxima
+Salicornia depressa
+Salix alaxensis var. longistylis
+Salix cascadensis
+Salix geyeriana
+Salix glauca var. acutifolia
+Salix hookeriana
+Salix lemmonii
+Salix niphoclada
+Salix polaris
+Salix pulchra
+Salix richardsonii
+Salix sessilifolia
+Salix setchelliana
+Salix tweedyi
+Sandbergia whitedii
+Sanguisorba menziesii
+Sanguisorba officinalis
+Sanguisorba stipulata
+Sanionia orthothecioides
+Sanionia symmetrica
+Sarcocornia perennis
+Saussurea angustifolia var. angustifolia
+Saxifraga bronchialis subsp. funstonii
+Saxifraga taylorii
+Saxifraga tridactylites
+Schistidium crassipilum
+Schistidium heterophyllum
+Schistidium maritimum
+Schistidium strictum
+Schistidium trichodon
+Schistidium venetum
+Schoenoplectus acutus var. occidentalis
+Schoenoplectus americanus
+Schoenoplectus saximontanus
+Sciuro-hypnum oedipodium
+Scleropodium obtusifolium
+Scleropodium occidentale
+Scleropodium touretii var. colpophyllum
+Scleropodium touretii var. touretii
+Scouleria marginata
+Scrophularia californica
+Sedum lanceolatum var. nesioticum
+Sedum oreganum
+Sedum oreganum var. oreganum
+Sedum oreganum var. tenue
+Sedum spathulifolium
+Sedum spathulifolium var. pruinosum
+Sedum spathulifolium var. spathulifolium
+Selaginella oregana
+Seligeria acutifolia
+Seligeria careyana
+Seligeria tristichoides
+Senecio elmeri
+Senecio hydrophilus
+Senecio pseudoarnica
+Senecio sheldonensis
+Senecio sylvaticus
+Sericocarpus rigidus
+Sidalcea hendersonii
+Sidalcea oregana
+Sidalcea oregana subsp. oregana
+Silene douglasii var. douglasii
+Silene ostenfeldii
+Silene pendula
+Silene repens
+Silene scouleri subsp. scouleri
+Silene spaldingii
+Sinosenecio
+Sinosenecio newcombei
+Sisymbrium linifolium
+Sisymbrium orientale
+Sisyrinchium californicum
+Sisyrinchium idahoense var. idahoense
+Sisyrinchium idahoense var. macounii
+Sisyrinchium idahoense var. segetum
+Sisyrinchium littorale
+Smelowskia ovalis
+Solidago simplex var. nana
+Soliva sessilis
+Sorbus sitchensis var. grayi
+Spartina anglica
+Spartina densiflora
+Spartina ×townsendii
+Spergularia canadensis var. occidentalis
+Spergularia macrotheca
+Spergularia macrotheca var. macrotheca
+Sphaeralcea munroana
+Sphagnum alaskense
+Sphagnum andersonianum
+Sphagnum aongstroemii
+Sphagnum austinii
+Sphagnum bartlettianum
+Sphagnum henryense
+Sphagnum inexspectatum
+Sphagnum inundatum
+Sphagnum junghuhnianum
+Sphagnum mendocinum
+Sphagnum pacificum
+Sphagnum rubiginosum
+Sphagnum subnitens
+Sphagnum tenellum
+Sphagnum wilfii
+Spiraea douglasii
+Spiraea douglasii var. douglasii
+Spiraea douglasii var. menziesii
+Spiraea stevenii
+Spiraea ×pyramidata
+Sporobolus airoides
+Stellaria alsine
+Stellaria borealis subsp. sitchana
+Stellaria nitens
+Stephanomeria tenuifolia
+Symphyotrichum chilense
+Symphyotrichum foliaceum var. apricum
+Symphyotrichum frondosum
+Symphyotrichum spathulatum var. intermedium
+Syntrichia laevipila
+Syntrichia latifolia
+Syntrichia papillosissima
+Syntrichia princeps
+Takakia lepidozioides
+Tayloria splachnoides
+Teesdalia nudicaulis
+Tellima grandiflora
+Tephroseris frigida
+Tephroseris lindstroemii
+Tetradymia canescens
+Tetraphis pellucida var. trachypoda
+Tetraplodon pallidus
+Tetrodontium brownianum var. ovatum
+Tetrodontium repandum
+Thalictrum alpinum
+Thamnobryum neckeroides
+Thelypodium laciniatum
+Thelypodium milleflorum
+Thelypteris nevadensis
+Thelypteris quelpaertensis
+Thinopyrum intermedium
+Thinopyrum intermedium subsp. barbulatum
+Thinopyrum intermedium subsp. intermedium
+Thysanocarpus curvipes
+Tiarella trifoliata var. laciniata
+Timmiella crassinervis
+Tofieldia coccinea
+Tolmiea menziesii
+Tonella tenella
+Tortella inclinata var. densa
+Tortella tortuosa var. arctica
+Tortula amplexa
+Tortula bolanderi
+Tortula leucostoma
+Tortula protobryoides
+Trautvetteria caroliniensis
+Trematodon boasii
+Trichostomum recurvifolium
+Trientalis latifolia
+Triphysaria pusilla
+Triphysaria versicolor
+Triphysaria versicolor subsp. versicolor
+Tripterocladium leucocladulum
+Triteleia grandiflora
+Triteleia hyacinthina
+Tsuga mertensiana
+Ulota barclayi
+Ulota drummondii
+Ulota megalospora
+Ulota obtusiuscula
+Ulota phyllantha
+Uropappus lindleyi
+Vaccinium deliciosum
+Vaccinium ovatum
+Vaccinium parvifolium
+Veronica argute-serrata
+Veronica biloba
+Veronica cusickii
+Viola adunca var. bellidifolia
+Viola biflora
+Viola biflora var. biflora
+Viola biflora var. carlottae
+Viola howellii
+Viola langsdorffii
+Viola praemorsa var. praemorsa
+Viola purpurea
+Viola purpurea var. venosa
+Viola riviniana
+Viola sempervirens
+Viola vallicola
+Viscum album
+Viscum album subsp. album
+Vitis vinifera
+Vulpia bromoides
+Vulpia microstachys
+Vulpia microstachys var. confusa
+Vulpia microstachys var. pauciflora
+Vulpia octoflora var. hirtella
+Wijkia
+Wijkia carlottae
+Woodwardia fimbriata
+Zigadenus venenosus var. venenosus
+Zostera japonica
+Zygodon gracilis
+Zygodon reinwardtii
+Agalinis aspera
+Alopecurus myosuroides
+Andropogon hallii
+Antennaria plantaginifolia
+Aplodon wormskioldii
+Boltonia asteroides
+Boltonia asteroides var. recognita
+Bromus porteri
+Cardamine nymanii
+Carex adelostoma
+Carex hallii
+Carex marina
+Carex rotundata
+Carex rufina
+Carex ursina
+Castilleja elegans
+Cotoneaster melanocarpus
+Delphinium carolinianum
+Delphinium carolinianum subsp. virescens
+Diapensia lapponica
+Dodecatheon meadia
+Echinacea angustifolia
+Eleocharis coloradoensis
+Eriogonum pauciflorum
+Euphorbia geyeri
+Euphorbia geyeri var. geyeri
+Lavatera thuringiaca
+Lolium rigidum
+Pellaea glabella subsp. occidentalis
+Platanthera praeclara
+Potentilla arenosa subsp. chamissonis
+Ptychostomum salinum
+Puccinellia andersonii
+Ribes diacanthum
+Sagina caespitosa
+Salix fuscescens
+Salix herbacea
+Sarmentypnum trichophyllum
+Sisyrinchium campestre
+Sphagnum steerei
+Splachnum vasculosum
+Suaeda maritima
+Tradescantia occidentalis
+Tradescantia occidentalis var. occidentalis
+Vernonia fasciculata
+Agalinis neoscotica
+Agrostis canina
+Alchemilla filicaulis subsp. vestita
+Alchemilla glabra
+Alchemilla venosa
+Alchemilla xanthochlora
+Amelanchier canadensis
+Amelanchier canadensis var. canadensis
+Amelanchier fernaldii
+Arnica lanceolata subsp. lanceolata
+Atriplex glabriuscula var. acadiensis
+Atriplex glabriuscula var. franktonii
+Atriplex laciniata
+Atriplex littoralis
+Bidens eatonii
+Bidens heterodoxa
+Bolboschoenus maritimus subsp. maritimus
+Callitriche terrestris
+Carex hormathodes
+Carex nigra
+Carex panicea
+Carex scoparia var. tessellata
+Carex silicea
+Carex vacillans
+Carex viridula var. elatior
+Cotula coronopifolia
+Crataegus jonesiae
+Dicranum condensatum
+Dryopteris campyloptera
+Eleocharis tenuis
+Eleocharis tenuis var. tenuis
+Entodon brevisetus
+Euphrasia randii
+Gaylussacia bigeloviana
+Glyceria obtusa
+Hieracium robinsonii
+Honckenya peploides subsp. robusta
+Hydrangea arborescens
+Hygrohypnum eugyrium
+Hygrohypnum montanum
+Hypnum cupressiforme var. filiforme
+Ionactis linariifolia
+Iris hookeri
+Isoëtes acadiensis
+Isoëtes prototypus
+Juncus trifidus
+Lechea intermedia var. juniperina
+Lechea maritima
+Lechea maritima var. subcylindrica
+Leontodon autumnalis
+Leucodon brachypus
+Limonium carolinianum
+Limosella australis
+Linaria repens
+Loeskeobryum brevirostre
+Luzula pallidula
+Lycopodiella appressa
+Malus prunifolia
+Packera schweinitziana
+Pedicularis furbishiae
+Phalaris minor
+Pohlia lescuriana
+Polygonum oxyspermum
+Polygonum oxyspermum subsp. raii
+Puccinellia maritima
+Radiola linoides
+Rhodiola rosea
+Rosa glauca
+Sagina nodosa subsp. nodosa
+Sagittaria montevidensis
+Sagittaria montevidensis subsp. spongiosa
+Salix sericea
+Salix ×smithiana
+Salsola kali
+Salsola kali subsp. kali
+Sanguisorba canadensis
+Schistidium crassithecium
+Schistidium liliputanum
+Schizaea pusilla
+Schoenoplectus smithii var. levisetus
+Seligeria brevifolia
+Seligeria diversifolia
+Solidago lepida subsp. fallax
+Solidago simplex var. racemosa
+Sorbus hybrida
+Spartina alterniflora
+Spartina ×caespitosa
+Sphagnum angermanicum
+Sphagnum atlanticum
+Sphagnum flavicomans
+Sphagnum strictum
+Sphagnum torreyanum
+Splachnum pensylvanicum
+Suaeda rolandii
+Symphyotrichum anticostense
+Symphyotrichum laurentianum
+Symphyotrichum novi-belgii var. crenifolium
+Symphyotrichum novi-belgii var. elodes
+Symphyotrichum novi-belgii var. novibelgii
+Symphyotrichum novi-belgii var. villicaule
+Symphyotrichum tradescantii
+Tetrodontium brownianum var. brownianum
+Triglochin gaspensis
+Tripleurospermum maritimum subsp. maritimum
+Vaccinium boreale
+Veratrum viride var. viride
+Zizania aquatica var. brevis
+Ranunculus hederaceus
+Antennaria friesiana
+Arabis alpina
+Carex holostoma
+Carex hostiana
+Carex petricosa var. misandroides
+Carex viridula subsp. oedocarpa
+Carex viridula var. saxilittoralis
+Cerastium cerastoides
+Cochlearia tridactylites
+Draba lactea
+Draba norvegica
+Empetrum atropurpureum
+Empetrum eamesii
+Euphrasia disjuncta
+Euphrasia frigida
+Euphrasia oakesii var. oakesii
+Euphrasia oakesii var. williamsii
+Harrimanella hypnoides
+Imbribryum alpinum
+Micranthes foliolosa
+Omalotheca norvegica
+Omalotheca supina
+Ptychostomum acutiforme
+Ptychostomum longisetum
+Salix argyrocarpa
+Salix uva-ursi
+Saxifraga rivularis subsp. rivularis
+Silene suecica
+Taraxacum lapponicum
+Aconogonon alaskanum
+Aconogonon alaskanum var. glabrescens
+Allium fistulosum
+Antennaria friesiana subsp. alaskana
+Antennaria friesiana subsp. friesiana
+Antennaria friesiana subsp. neoalaskana
+Artemisia borealis subsp. richardsoniana
+Barbula indica var. indica
+Betula nana subsp. nana
+Braya pilosa
+Braya thorild-wulffii
+Braya thorild-wulffii subsp. glabrata
+Braya thorild-wulffii subsp. thorild-wulffii
+Calliergon megalophyllum
+Cardamine digitata
+Cardamine microphylla
+Carex aquatilis var. minor
+Carex bonanzensis
+Carex krausei
+Castilleja pallida
+Castilleja pallida var. caudata
+Castilleja pallida var. yukonis
+Cerastium arcticum
+Cerastium bialynickii
+Cerastium maximum
+Cerastium regelii
+Ceratodon heterophyllus
+Corispermum ochotense
+Corispermum ochotense var. ochotense
+Coscinodon arctolimnius
+Cypripedium guttatum
+Deschampsia brevifolia
+Didymodon perobtusus
+Didymodon rigidulus var. ditrichoides
+Distichium hagenii
+Douglasia arctica
+Douglasia ochotensis
+Draba arctogena
+Draba micropetala
+Draba oblongata
+Draba ogilviensis
+Draba palanderiana
+Draba pauciflora
+Draba pilosa
+Draba simmonsii
+Draba subcapitata
+Drepanocladus arcticus
+Dryas ajanensis
+Dryas ajanensis subsp. beringensis
+Dryas incisa
+Dryas integrifolia subsp. sylvatica
+Elymus macrourus
+Encalypta vittiana
+Eremogone capillaris var. capillaris
+Erigeron porsildii
+Erigeron yukonensis
+Eriophorum angustifolium subsp. triste
+Erysimum pallasii
+Festuca brevissima
+Festuca edlundiae
+Festuca hyperborea
+Festuca lenensis
+Fissidens arcticus
+Funaria arctica
+Funaria microstoma
+Funaria polaris
+Geum glaciale
+Hypnum cupressiforme var. julaceum
+Juncus triglumis var. triglumis
+Kiaeria glacialis
+Kobresia sibirica
+Koeleria asiatica
+Lagotis glauca
+Lagotis glauca subsp. lanceolata
+Micranthes nelsoniana var. nelsoniana
+Micranthes razshivinii
+Minuartia arctica
+Minuartia rossii
+Orthothecium acuminatum
+Orthothecium rufescens
+Packera hyperborealis
+Papaver macounii
+Papaver macounii subsp. discolor
+Papaver mcconnellii
+Papaver radicatum subsp. polare
+Papaver radicatum subsp. radicatum
+Parrya arctica
+Pedicularis hirsuta
+Pedicularis sudetica subsp. albolabiata
+Pedicularis sudetica subsp. arctoeuropaea
+Physaria calderi
+Plagiothecium berggrenianum
+Poa ammophila
+Poa hartzii
+Poa hartzii subsp. alaskana
+Poa hartzii subsp. hartzii
+Poa hartzii subsp. vrangelica
+Poa porsildii
+Pohlia andrewsii
+Polygonum humifusum
+Polygonum humifusum subsp. caurianum
+Polytrichastrum alpinum var. fragile
+Polytrichum hyperboreum
+Polytrichum jensenii
+Polytrichum swartzii
+Potentilla hyparctica subsp. hyparctica
+Potentilla pedersenii
+Potentilla tikhomirovii
+Potentilla uschakovii
+Potentilla vulcanicola
+Primula borealis
+Primula pumila
+Pseudocalliergon brevifolium
+Pseudoditrichaceae
+Pseudoditrichum
+Pseudoditrichum mirabile
+Ptychostomum calophyllum
+Ptychostomum nitidulum
+Ptychostomum rutilans
+Ptychostomum wrightii
+Puccinellia arctica
+Puccinellia vahliana
+Ranunculus allenii
+Ranunculus sabinei
+Ranunculus turneri
+Rorippa calycina
+Rorippa crystallina
+Rumex sibiricus
+Salix chamissonis
+Salix glauca var. stipulata
+Salix hastata
+Salix ovalifolia
+Salix ovalifolia var. arctolitoralis
+Salix ovalifolia var. ovalifolia
+Salix phlebophylla
+Salix rotundifolia
+Salix rotundifolia var. dodgeana
+Salix rotundifolia var. rotundifolia
+Salix sphenophylla
+Saussurea angustifolia var. yukonensis
+Saxifraga eschscholtzii
+Saxifraga flagellaris subsp. platysepala
+Saxifraga radiata
+Saxifraga serpyllifolia
+Schistidium cryptocarpum
+Schistidium frisvollianum
+Schistidium grandirete
+Schistidium holmenianum
+Selaginella sibirica
+Seligeria oelandica
+Seligeria polaris
+Silene sorensenis
+Smelowskia borealis
+Smelowskia media
+Sphagnum fimbriatum subsp. concinnum
+Sphagnum lenense
+Sphagnum orientale
+Sphagnum perfoliatum
+Stuckenia filiformis subsp. filiformis
+Symphyotrichum nahanniense
+Symphyotrichum pygmaeum
+Symphyotrichum yukonense
+Synthyris borealis
+Taraxacum holmenianum
+Taraxacum hyparcticum
+Taraxacum phymatocarpum
+Tephroseris kjellmanii
+Tetraplodon paradoxus
+Timmia norvegica var. excurrens
+Transberingia bursifolia subsp. bursifolia
+Trichodon cylindricus var. oblongus
+Voitia hyperborea
+Wilhelmsia physodes
+Agalinis maritima
+Agalinis maritima var. maritima
+Alchemilla micans
+Alnus serrulata
+Amelanchier nantucketensis
+Arnoseris minima
+Baccharis halimifolia
+Betula michauxii
+Bistorta officinalis
+Carex atlantica subsp. atlantica
+Carex bullata
+Chenopodium berlandieri var. macrocalycium
+Clethra alnifolia
+Corema conradii
+Coreopsis rosea
+Ditrichum rhynchostegium
+Drosera filiformis
+Eleocharis fallax
+Eleocharis tenuis var. pseudoptera
+Eleocharis tuberculosa
+Elymus virginicus var. halophilus
+Erica tetralix
+Euthamia caroliniana
+Eutrochium dubium
+Fontinalis sullivantii
+Geum peckii
+Glyceria fluitans
+Hieracium lactucella
+Hudsonia ericoides
+Hypnum andoi
+Hypnum jutlandicum
+Isopterygium tenerum
+Isothecium myosuroides
+Iva frutescens
+Juncus caesariensis
+Juncus subcaudatus
+Juniperus communis var. megistocarpa
+Lachnanthes caroliniana
+Leucojum aestivum
+Lophiola aurea
+Malaxis bayardii
+Pedicularis palustris
+Pedicularis palustris subsp. palustris
+Physcomitrium collenchymatum
+Polygonum oxyspermum subsp. oxyspermum
+Potamogeton oblongus
+Potentilla erecta
+Rumex alpinus
+Scirpus longii
+Sematophyllum demissum
+Sematophyllum marylandicum
+Senecio squalidus
+Sisyrinchium atlanticum
+Sisyrinchium fuscatum
+Solidago fistulosa
+Solidago latissimifolia
+Solidago rugosa var. sphagnophila
+Sphagnum affine
+Sphagnum cyclophyllum
+Sphagnum lescurii
+Sphagnum macrophyllum
+Sphagnum pylaesii
+Sphagnum recurvum
+Sphagnum viride
+Spiranthes casei var. novaescotiae
+Trichostomum brachydontium
+Veronica agrestis
+Woodwardia areolata
+Zygodon conoideus
+Zygodon viridissimus var. viridissimus
+×elyhordeum montanense
+Alchemilla glaucescens
+Alchemilla glomerulans
+Amelanchier gaspensis
+Arnica griscomii subsp. griscomii
+Aurinia saxatilis
+Boechera canadensis
+Boechera quebecensis
+Campylostelium saxicola
+Cannabis sativa
+Carex baileyi
+Carex deweyana var. collectanea
+Chenopodium ficifolium
+Corallorhiza striata var. vreelandii
+Crataegus chrysocarpa var. blanchardii
+Crataegus chrysocarpa var. faxonii
+Crataegus laurentiana
+Crataegus scabrida var. egglestonii
+Deschampsia alpina
+Diplotaxis erucoides
+Dulichium arundinaceum var. boreale
+Elatine ojibwayensis
+Eleocharis ambigens
+Elymus ×cayouetteorum
+Eriocaulon parkeri
+Euphrasia oakesii
+Fissidens exilis
+Gemmabryum demaretianum
+Grimmia hartmanii
+Lemna perpusilla
+Linaria bipartita
+Linaria maroccana
+Micranthes gaspensis
+Micranthes stellaris
+Mimulus ringens var. colpophilus
+Minuartia marcescens
+Niphotrichum panschii
+Phippsia concinna
+Platydictya minutissima
+Poa autumnalis
+Potamogeton pusillus subsp. gemmiparus
+Potentilla thuringiaca
+Potentilla vahliana
+Pseudorchis albida subsp. straminea
+Ptychostomum warneum
+Rorippa amphibia
+Rumex subarcticus
+Sagina decumbens subsp. decumbens
+Salix chlorolepis
+Saxifraga rivularis
+Schistidium flexipile
+Scirpus ancistrochaetus
+Scleranthus perennis subsp. perennis
+Sedum rupestre
+Sedum villosum
+Solidago leiocarpa
+Solidago simplex var. chlorolepis
+Solidago simplex var. monticola
+Sphagnum arcticum
+Sphagnum brevifolium
+Sphagnum splendens
+Stellaria palustris
+Taraxacum latilobum
+Taraxacum laurentianum
+Tarenaya hassleriana
+Veronica alpina
+Weissia phascopsis
+×dupoa
+×dupoa labradorica
+×elyleymus ungavensis
+Avena hybrida
+Rosa tomentosa
+Braya glabella subsp. prostrata
+Braya humilis subsp. ellesmerensis
+Calliergon orbicularicordatum
+Tortula cuneifolia var. blissii
+Armeria maritima subsp. interior
+Crataegus purpurella
+Crataegus sheila-phippsiae var. saskatchewanensis
+Ericameria nauseosa var. graveolens
+Rorippa barbareifolia
+Sagittaria brevirostra
+Salix brachycarpa var. psammophila
+Salix silicicola
+Salix turnorii
+Senecio integerrimus var. scribneri
+Silene drummondii subsp. striata
+Silene sibirica
+Stenotus armerioides
+Stenotus armerioides var. armerioides
+Claytonia ogilviensis
+Draba kluanei
+Draba scotteri
+Draba yukonensis
+Nestotus macleanii

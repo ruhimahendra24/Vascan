@@ -80,3 +80,10 @@ This will download a csv file of taxa that are located in each province in Canad
 
 ### Generating the final CSV file
 
+To generate the final CSV file, we must run  `taxize-vascan-long-data.R` or `taxize-vascan-wide-data.R`, depending on the size of the data. 
+
+Make sure you have installed the R packages `taxize` , `stringi` , `jsonlite` and `purr`. 
+
+In this script, we want to run the function `processfile(filepath)` where filepath is the pathway link of where the text file is located. The final CSV file can be found in the `/Output` folder. 
+
+## License

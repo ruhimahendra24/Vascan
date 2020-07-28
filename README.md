@@ -2,7 +2,7 @@
 
 ## Project
 
-The purpose of this project is to validate the taxa that are present in FNA with those that are present in VASCAN. This will allow the users to determine which taxa are not present in FNA... edit  
+The purpose of this project is to search the taxa that are present in FNA with those that are present in the VASCAN API. If there is a "match", we can determine if the matched taxon from FNA is an accepted name used in VASCAN or a synonym. The output of this project returns a CSV file that tells us if there has been a match for every taxon in FNA and what is the status of the match. 
 
 ## Dependencies
 
@@ -29,9 +29,9 @@ Download the taxa found in Canada from the FNA API and merge all the taxa names 
 
 2) `canada-taxa-files/query.R`
 
-This script was slightly modified from https://github.com/jocelynpender/fna-query/blob/master/R/src/query.R
-
 This script contains the function to download a list of taxa that are distributed in a certain location. In this case, we want all the taxa in Canada.
+
+This script was slightly modified from https://github.com/jocelynpender/fna-query/blob/master/R/src/query.R The function `ask_query_titles()` was modified to return a data frame. 
 
 3) `taxize-vascan-long-data.R` or `taxize-vascan-wide-data.R`
 
@@ -43,7 +43,7 @@ The output of this project creates a final CSV file that shows the taxa from FNA
 
 Two different output files are produced depending on if "wide data" (`Canada_Taxa.CSV`) or "long data" (`Canada_Taxa_long.CSV`) is wanted.
 
-Here is a preview of `Canada_Taxa.CSV`:
+Here is a preview of `Canada_Taxa_wide.CSV` (wide data):
 
 |Taxon Name          |Match|Number of Matches|Match Number|Matches                         |Scientific Name Authorship|Canonical Name|Taxon Rank|Name According To                                                                                                                                 |Taxonic Status|Higher Classification                                                                     |
 |--------------------|-----|-----------------|------------|--------------------------------|--------------------------|--------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------------------------------|
@@ -51,7 +51,7 @@ Here is a preview of `Canada_Taxa.CSV`:
 |Abies bifolia       |yes  |1                |1           |Abies bifolia A. Murray         |A. Murray                 |Abies bifolia |species   |FNA Editorial Committee. 1993. Flora of North America north of Mexico. Volume 2: Pteridophytes and Gymnosperms. Oxford University Press, New York.|accepted      |Equisetopsida;Pinidae;Pinales;Pinaceae;Abies;Abies sect. Balsamea;Abies subsect. Laterales|
 |Abietinella abietina|no   |0                |1           | NA                             |NULL                      |NULL          |NULL      |NULL                                                                                                                                              |NULL          |NULL                                                                                      |
 
-Here is a preview of `Canada_Taxa_long.CSV`:
+Here is a preview of `Canada_Taxa_long.CSV` (long data):
 
 |Taxon Name          |Match|Variable|Value|
 |--------------------|-----|--------|-----|
@@ -90,4 +90,4 @@ Make sure you have installed the R packages `taxize` , `stringi` , `jsonlite` an
 
 In this script, we want to run the function `processfile(filepath)` where filepath is the pathway link of where the text file is located. The final CSV file can be found in the `/Output` folder. 
 
-## License
+

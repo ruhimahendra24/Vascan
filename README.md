@@ -27,7 +27,7 @@ This repository contains three main scripts:
 
 Download the taxa found in Canada from the FNA API and merge all the taxa names together in a text file.
 
-2)`canada-taxa-files/query.R`
+2) `canada-taxa-files/query.R`
 
 This script was slightly modified from https://github.com/jocelynpender/fna-query/blob/master/R/src/query.R
 

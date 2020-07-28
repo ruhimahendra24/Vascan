@@ -67,3 +67,16 @@ Here is a preview of `Canada_Taxa_long.CSV`:
 ## Workflow
 <img width="638" alt="Capture" src="https://user-images.githubusercontent.com/65621746/88696053-bd8b0100-d0d0-11ea-8bb3-24a00978d0b6.PNG">
 
+### Generating the text file 
+
+To generate the text file with the list of Taxa from FNA, we must run `canada-taxa-files/QUERY-CSV.R`. Make sure that you have installed the R packages `tidyverse` and
+`WikipediaR` to be able to run this script. 
+
+To install the packages in R, type this into the console : `install.packages('tidyverse')` or `install.packages('WikipediaR')`.
+
+In this script, we want to run the function `merge_canada`, to do this input `merge_canada()` into the console. 
+
+This will download a csv file of taxa that are located in each province in Canada. The function will also merge all the csv files together to create a final text file. The text file can be found in `canada-taxa-files/canada_taxa.txt`
+
+### Generating the final CSV file
+

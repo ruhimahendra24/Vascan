@@ -4,24 +4,42 @@
 
 The purpose of this project is to validate the taxa that are present in FNA with those that are present in VASCAN. This will allow the users to determine which taxa are not present in FNA... edit  
 
+## Dependencies
+
+`R version 4.0.2`
+
+R packages:
+
+`tidyverse`
+`WikipediaR`
+`taxize`
+`stringi`
+`jsonlite`
+`purr`
+
 ## Repository
 
 ### Scripts
 
-This repository contains two main scripts:
+This repository contains three main scripts:
 
 1) `canada-taxa-files/QUERY-CSV.R`
 
-Download the taxa found in Canada from the FNA API and merge all the taxa names together in text file that can be used to search through the VASCAN API
+Download the taxa found in Canada from the FNA API and merge all the taxa names together in a text file.
 
-2) `taxize-vascan-long-data.R` or `taxize-vascan-wide-data.R`
+2)`canada-taxa-files/query.R`
 
-Validate all the names from the newly curated text file against the names from the VASCAN API
+This script was slightly modified from https://github.com/jocelynpender/fna-query/blob/master/R/src/query.R
+
+This script contains the function to download a list of taxa that are distributed in a certain location. In this case, we want all the taxa in Canada.
+
+3) `taxize-vascan-long-data.R` or `taxize-vascan-wide-data.R`
+
+Validate all the names from the newly curated text file against the names from the VASCAN API.
 
 ### CSV files
 
-
-The output of this project creates a final CSV file that shows the taxa from FNA that shows the "matched" taxa against the taxa in VASCAN
+The output of this project creates a final CSV file that shows the taxa from FNA and whether or not each taxa has a "match" in the VASCAN API.
 
 Two different output files are produced depending on if "wide data" (`Canada_Taxa.CSV`) or "long data" (`Canada_Taxa_long.CSV`) is wanted.
 

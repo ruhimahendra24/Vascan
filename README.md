@@ -63,3 +63,5 @@ Here is a preview of `Canada_Taxa_long.CSV`:
 |Abies bifolia       |Abies bifolia A. Murray|Taxonomic Status|accepted|
 |Abies bifolia       |Abies bifolia A. Murray|Higher Classification|Equisetopsida;Pinidae;Pinales;Pinaceae;Abies;Abies sect. Balsamea;Abies subsect. Laterales|
 |Abietinella abietina|NA   |NA      |NA   |
+
+## Workflow

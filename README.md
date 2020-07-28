@@ -65,3 +65,5 @@ Here is a preview of `Canada_Taxa_long.CSV`:
 |Abietinella abietina|NA   |NA      |NA   |
 
 ## Workflow
+<img width="638" alt="Capture" src="https://user-images.githubusercontent.com/65621746/88696053-bd8b0100-d0d0-11ea-8bb3-24a00978d0b6.PNG">
+

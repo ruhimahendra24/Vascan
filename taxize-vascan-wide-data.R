@@ -74,7 +74,7 @@ processFile = function(filepath){
   }
   close(con)
   #write final csv file
-  write.table(column_names, file ="/home/ruhimahendra24/Desktop/Vascan/Output/Canada_Taxa.csv", row.names = FALSE, append = FALSE, col.names = FALSE, sep = ", " )
+  write.table(column_names, file ="/home/ruhimahendra24/Desktop/Vascan/Output/Canada_Taxa_wide.csv", row.names = FALSE, append = FALSE, col.names = FALSE, sep = ", " )
   
   
 }

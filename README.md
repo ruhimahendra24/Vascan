@@ -67,6 +67,10 @@ Here is a preview of `Canada_Taxa_long.CSV`:
 ## Workflow
 <img width="638" alt="Capture" src="https://user-images.githubusercontent.com/65621746/88696053-bd8b0100-d0d0-11ea-8bb3-24a00978d0b6.PNG">
 
+### Cloning the repository
+
+To clone this repository onto your local computer, open your terminal and type `git clone https://github.com/ruhimahendra24/Vascan.git`
+
 ### Generating the text file 
 
 To generate the text file with the list of Taxa from FNA, we must run `canada-taxa-files/QUERY-CSV.R`. Make sure that you have installed the R packages `tidyverse` and

@@ -10,18 +10,21 @@ library(purrr)
 
 processFile = function(filepath){
   #creates header names for csv file
-  column_names <- data.frame(TaxonName = "Taxon Name", Match = "Match", NumberofMatches = "Number of Matches", MatchNumber = "Match Number", Matches = "Matches", ScientificNameAuthorship ="Scientific Name Authorship", CanonicalName = "Canonical Name", TaxonRank = "Taxon Rank", NameAccordingTo = "Name According To", TaxonomicStatus = "Taxonic Status", HigherClassification = "Higher Classification" )
+  column_names <- data.frame(TaxonName = "Taxon Name", Volume = "Volume", Match = "Match", NumberofMatches = "Number of Matches", MatchNumber = "Match Number", Matches = "Matches", ScientificNameAuthorship ="Scientific Name Authorship", CanonicalName = "Canonical Name", TaxonRank = "Taxon Rank", NameAccordingTo = "Name According To", TaxonomicStatus = "Taxonic Status", HigherClassification = "Higher Classification" )
   con = file(filepath, "r")
   while(TRUE) {
     line = readLines (con, n=1) #loops over every line (taxon) in the text file
-    print(line)
+
     if ( length(line) == 0) {
       break
     }
     
+    l = strsplit(line, ",")[[1]][2]
+    v = strsplit(line, ",")[[1]][1]
+    print(l)
     
-    v_search <- vascan_search(q = line) #this will provide us the API data in "list" format
-    j_search <- vascan_search (q = line, raw = TRUE) # this provides us API data data in "json" format
+    v_search <- vascan_search(q = l) #this will provide us the API data in "list" format
+    j_search <- vascan_search (q = l, raw = TRUE) # this provides us API data data in "json" format
     j_son = jsonlite::fromJSON(j_search) #allows us the extract data from "json" format
     
     nummatches <- v_search[[1]][2][[1]] #provides us with the number of matches
@@ -62,8 +65,8 @@ processFile = function(filepath){
       else {Higher_classification <-higher_classification_list[[n]] }
       
       # for the taxons that do not have matches, some paramaters must be set to "NULL"
-      if (nummatches < 1) {newline <-data.frame(t(c(TaxonName = line, Match = is_match, NumberofMatches = nummatches, MatchNumber = n ,  Matches = Matched_name, ScientificNameAuthorship = "NULL", CanonicalName = "NULL", TaxonRank = "NULL", NameAccordingTo = "NULL", TaxonomicStatus = "NULL", HigherClassification = "NULL"  )))  }
-      else {newline <- data.frame(t(c(TaxonName = line, Match = is_match, NumberofMatches = nummatches, MatchNumber = n ,  Matches = Matched_name, ScientificNameAuthorship = Scientific_Name_authorship, CanonicalName = Canonical_Name, TaxonRank = Taxon_Rank, NameAccordingTo = Name_According_To, TaxonomicStatus = Taxonomic_status, HigherClassification = Higher_classification  )))}
+      if (nummatches < 1) {newline <-data.frame(t(c(TaxonName = l, Volume = v, Match = is_match, NumberofMatches = nummatches, MatchNumber = n ,  Matches = Matched_name, ScientificNameAuthorship = "NULL", CanonicalName = "NULL", TaxonRank = "NULL", NameAccordingTo = "NULL", TaxonomicStatus = "NULL", HigherClassification = "NULL"  )))  }
+      else {newline <- data.frame(t(c(TaxonName = l, Volume = v, Match = is_match, NumberofMatches = nummatches, MatchNumber = n ,  Matches = Matched_name, ScientificNameAuthorship = Scientific_Name_authorship, CanonicalName = Canonical_Name, TaxonRank = Taxon_Rank, NameAccordingTo = Name_According_To, TaxonomicStatus = Taxonomic_status, HigherClassification = Higher_classification  )))}
       #combine new taxon name to data frame
       column_names <- rbind(column_names, newline)
       
@@ -79,5 +82,5 @@ processFile = function(filepath){
   
 }
 
-#processFile('/home/ruhimahendra24/Desktop/Vascan/canada-taxa-files/canada_taxa.txt')
+processFile('/home/ruhimahendra24/Desktop/Vascan/canada-taxa-files/canada_taxa.txt')
 

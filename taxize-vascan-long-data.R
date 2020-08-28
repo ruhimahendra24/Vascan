@@ -8,7 +8,7 @@ library(jsonlite)
 library(purrr)
 processFile = function(filepath){
   #creates header names for csv file
-  column_names <- data.frame(TaxonName = "Taxon Name", Match = "Match", Variable = "Variable", Value = "Value")
+  column_names <- data.frame(TaxonName = "Taxon Name", Volume = "Volume", Match = "Match", Variable = "Variable", Value = "Value")
   con = file(filepath, "r")
   while(TRUE) { #loops over every line (taxon) in the text file
     line = readLines (con, n=1)
@@ -17,9 +17,12 @@ processFile = function(filepath){
       break
     }
     
+    l = strsplit(line, ",")[[1]][2]
+    v = strsplit(line, ",")[[1]][1]
+    print(l)
     
-    v_search <- vascan_search(q = line) #this will provide us the API data in "list" format
-    j_search <- vascan_search (q = line, raw = TRUE) # this provides us API data data in "json" format
+    v_search <- vascan_search(q = l) #this will provide us the API data in "list" format
+    j_search <- vascan_search (q = l, raw = TRUE) # this provides us API data data in "json" format
     j_son = jsonlite::fromJSON(j_search) #allows us the extract data from "json" format
     
     nummatches <- v_search[[1]][2][[1]] #provides us with the number of matches
@@ -55,16 +58,16 @@ processFile = function(filepath){
       
       #to make the formal of the data long, a new row is created for each variable
       if (nummatches > 0) {newline <-data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Match Number", Value = n)))
-      newline2 <- data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Scientific Name Authorship", Value = Scientific_Name_authorship)))
-      newline3 <-data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Taxon Rank", Value = Taxon_Rank)))
+      newline2 <- data.frame(t(c(TaxonName = line, Volume = v, Match = Matched_name, Variable = "Scientific Name Authorship", Value = Scientific_Name_authorship)))
+      newline3 <-data.frame(t(c(TaxonName = line, Volume = v, Match = Matched_name, Variable = "Taxon Rank", Value = Taxon_Rank)))
       newline4 <- data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Name According To", Value = Name_According_To)))
-      newline5 <- data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Canonical Name", Value = Canonical_Name)))
-      newline6 <-data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Taxonomic Status", Value = Taxonomic_status))) 
-      newline7 <-data.frame(t(c(TaxonName = line, Match = Matched_name, Variable = "Higher Classification", Value = Higher_classification))) 
+      newline5 <- data.frame(t(c(TaxonName = line, Volume = v, Match = Matched_name, Variable = "Canonical Name", Value = Canonical_Name)))
+      newline6 <-data.frame(t(c(TaxonName = line, Volume = v, Match = Matched_name, Variable = "Taxonomic Status", Value = Taxonomic_status))) 
+      newline7 <-data.frame(t(c(TaxonName = line, Volume = v, Match = Matched_name, Variable = "Higher Classification", Value = Higher_classification))) 
       column_names <- rbind(column_names, newline, newline2, newline3, newline4, newline5, newline6, newline7) }
       
       #if there is no match, only one line is created
-      else {newline <- data.frame(t(c(TaxonName = line, Match = "NA", Variable = "NA", Value = "NA"  )))
+      else {newline <- data.frame(t(c(TaxonName = line, Volume = v, Match = "NA", Variable = "NA", Value = "NA"  )))
       column_names <- rbind(column_names, newline)}
       
       

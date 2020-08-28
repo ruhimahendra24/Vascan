@@ -1,10 +1,11 @@
-source('/home/ruhimahendra24/Desktop/Vascan/canada-taxa-files/query.R')
+source('./canada-taxa-files/query.R')
 
 #Downloads taxon names that are present in Canada and merges all the dataframes together 
 #not including duplicates.
 #Creates text file to use for vascan_search function.
 
 merge_canada <- function(x) { #combine the data frames
+
   canada_all <- rbind(
   ask_query_titles_properties("[[Distribution::Ont.]]|?Volume", "Province Files/ontario_taxa.csv"),
   ask_query_titles_properties("[[Distribution::Alta.]]|?Volume", "Province Files/alberta_taxa.csv"),
@@ -22,5 +23,7 @@ merge_canada <- function(x) { #combine the data frames
   ask_query_titles_properties("[[Distribution::Yukon.]]|?Volume", "Province Files/yukon_taxa.csv"))
   non_duplicate <- distinct(canada_all) #remove duplicates
   write.table(non_duplicate, "canada_taxa.txt", row.names = FALSE, col.names = FALSE, quote = FALSE, sep = ",")} #create text file
+
+
 
 

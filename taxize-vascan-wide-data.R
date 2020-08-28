@@ -77,10 +77,11 @@ processFile = function(filepath){
   }
   close(con)
   #write final csv file
-  write.table(column_names, file ="/home/ruhimahendra24/Desktop/Vascan/Output/Canada_Taxa_wide.csv", row.names = FALSE, append = FALSE, col.names = FALSE, sep = ", " )
+  write.table(column_names, file ="./Output/Canada_Taxa_wide.csv", row.names = FALSE, append = FALSE, col.names = FALSE, sep = ", " )
   
   
 }
+
 
 processFile('/home/ruhimahendra24/Desktop/Vascan/canada-taxa-files/canada_taxa.txt')
 
